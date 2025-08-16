@@ -28,7 +28,11 @@
     "rating": 4.8,
     "reviews": 18,
     "designer": "Oscar de la Renta",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/golden-goddess/1755365273151.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/golden-goddess/1755365274514.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/golden-goddess/1755365276793.jpg"
+    ]
   },
   {
     "id": 3,
