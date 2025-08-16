@@ -27,7 +27,10 @@
     "color": "Gold",
     "rating": 4.8,
     "reviews": 18,
-    "designer": "Oscar de la Renta"
+    "designer": "Oscar de la Renta",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dress/golden-goddess/1755362721862.jpg"
+    ]
   },
   {
     "id": 3,
