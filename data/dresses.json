@@ -154,5 +154,12 @@
     "rating": 4.9,
     "reviews": 27,
     "designer": "Jenny Packham"
+  },
+  {
+    "name": "Dark Pink Long frock",
+    "price": "Rs 5,000",
+    "designer": "Udara",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/dark-pink-long-frock/1755361941585.jpg",
+    "id": 11
   }
 ]
