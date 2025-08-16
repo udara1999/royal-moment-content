@@ -5,7 +5,9 @@
     "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?auto=format&fit=crop&w=800&q=80",
     "title": "Sarah & Michael",
     "location": "Garden Wedding, Colombo",
-    "likes": 156
+    "likes": 156,
+    "createdAt": "2025-08-16T19:00:00.000Z",
+    "updatedAt": "2025-08-16T19:00:00.000Z"
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
     "title": "Emma & James",
     "location": "Beach Engagement",
-    "likes": 89
+    "likes": 89,
+    "createdAt": "2025-08-16T19:00:00.000Z",
+    "updatedAt": "2025-08-16T19:00:00.000Z"
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
     "title": "Priya & David",
     "location": "Traditional Ceremony",
-    "likes": 203
+    "likes": 203,
+    "createdAt": "2025-08-16T19:00:00.000Z",
+    "updatedAt": "2025-08-16T19:00:00.000Z"
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
     "title": "Corporate Gala",
     "location": "Luxury Hotel, Kandy",
-    "likes": 67
+    "likes": 67,
+    "createdAt": "2025-08-16T19:00:00.000Z",
+    "updatedAt": "2025-08-16T19:00:00.000Z"
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "image": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
     "title": "Lisa & Mark",
     "location": "Sunset Session",
-    "likes": 124
+    "likes": 124,
+    "createdAt": "2025-08-16T19:00:00.000Z",
+    "updatedAt": "2025-08-16T19:00:00.000Z"
   },
   {
     "id": 6,
@@ -50,6 +60,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/anita-robert/1755365385914.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/anita-robert/1755365387498.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/anita-robert/1755365389850.jpg"
-    ]
+    ],
+    "createdAt": "2025-08-16T19:00:00.000Z",
+    "updatedAt": "2025-08-16T19:00:00.000Z"
   }
 ]
