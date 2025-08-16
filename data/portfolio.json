@@ -46,13 +46,5 @@
     "title": "Anita & Robert",
     "location": "Royal Wedding",
     "likes": 298
-  },
-  {
-    "title": "Temp event",
-    "category": "Engagement",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/temp-event/1755359252925.jpg",
-    "location": "Panadura",
-    "likes": 0,
-    "id": 7
   }
 ]
