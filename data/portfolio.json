@@ -1,50 +1,58 @@
 [
-   {
-      "id":1,
-      "category":"weddings",
-      "image":"https://images.unsplash.com/photo-1606216794074-735e91aa2c92?auto=format&fit=crop&w=800&q=80",
-      "title":"Sarah & Michael",
-      "location":"Garden Wedding, Colombo",
-      "likes":156
-   },
-   {
-      "id":2,
-      "category":"engagement",
-      "image":"https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
-      "title":"Emma & James",
-      "location":"Beach Engagement",
-      "likes":89
-   },
-   {
-      "id":3,
-      "category":"weddings",
-      "image":"https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
-      "title":"Priya & David",
-      "location":"Traditional Ceremony",
-      "likes":203
-   },
-   {
-      "id":4,
-      "category":"events",
-      "image":"https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
-      "title":"Corporate Gala",
-      "location":"Luxury Hotel, Kandy",
-      "likes":67
-   },
-   {
-      "id":5,
-      "category":"engagement",
-      "image":"https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
-      "title":"Lisa & Mark",
-      "location":"Sunset Session",
-      "likes":124
-   },
-   {
-      "id":6,
-      "category":"weddings",
-      "image":"https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/500222500_122133082592761109_730333246015856211_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RYxPKFSmfmsQ7kNvwFsdqSE&_nc_oc=AdmAuoF1A0ONlgK5TI58v1lwDWwApr7iUiqJ9R4PHaByXFhEHrFngrGP16Ax2JD0j325SKlQtsZ-_ZZlcBO1UH89&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=TtHBasw3xGqkUkaxDUVS7Q&oh=00_AfVfiID53tKR1YSu3atEb_Xf7w9waI9K2an5MyF5z5YSFA&oe=68A3E86A",
-      "title":"Anita & Robert",
-      "location":"Royal Wedding",
-      "likes":298
-   }
+  {
+    "id": 1,
+    "category": "weddings",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?auto=format&fit=crop&w=800&q=80",
+    "title": "Sarah & Michael",
+    "location": "Garden Wedding, Colombo",
+    "likes": 156
+  },
+  {
+    "id": 2,
+    "category": "engagement",
+    "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+    "title": "Emma & James",
+    "location": "Beach Engagement",
+    "likes": 89
+  },
+  {
+    "id": 3,
+    "category": "weddings",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+    "title": "Priya & David",
+    "location": "Traditional Ceremony",
+    "likes": 203
+  },
+  {
+    "id": 4,
+    "category": "events",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+    "title": "Corporate Gala",
+    "location": "Luxury Hotel, Kandy",
+    "likes": 67
+  },
+  {
+    "id": 5,
+    "category": "engagement",
+    "image": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+    "title": "Lisa & Mark",
+    "location": "Sunset Session",
+    "likes": 124
+  },
+  {
+    "id": 6,
+    "category": "weddings",
+    "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/500222500_122133082592761109_730333246015856211_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RYxPKFSmfmsQ7kNvwFsdqSE&_nc_oc=AdmAuoF1A0ONlgK5TI58v1lwDWwApr7iUiqJ9R4PHaByXFhEHrFngrGP16Ax2JD0j325SKlQtsZ-_ZZlcBO1UH89&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=TtHBasw3xGqkUkaxDUVS7Q&oh=00_AfVfiID53tKR1YSu3atEb_Xf7w9waI9K2an5MyF5z5YSFA&oe=68A3E86A",
+    "title": "Anita & Robert",
+    "location": "Royal Wedding",
+    "likes": 298
+  },
+  {
+    "title": "Temp event",
+    "category": "Engagement",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/temp-event/1755359252925.jpg",
+    "location": "Panadura",
+    "likes": 0,
+    "id": 7
+  }
 ]
