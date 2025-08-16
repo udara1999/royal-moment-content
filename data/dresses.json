@@ -94,25 +94,6 @@
     "updated_at": "2025-08-16 23:35:56"
   },
   {
-    "id": 6,
-    "name": "Silver Starlight",
-    "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/518254023_122128320260823055_1003657317540067517_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=S-gSs3UMyg8Q7kNvwF4UqYd&_nc_oc=Admm78h9eTHebYxSZ4D24A8uD5-SaeRAFyPR8a5hgknbb1b71-MJ8dqZpfWbEsA8mE1rG1rttbqSh8iAqRxpAvZx&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=ujxe1ZX-kNpAXhZqwnAetg&oh=00_AfXVRupjYU3YpH2OfLNbgxipMUMXDuMLk2QPDM8H9M6GDw&oe=68A3DA65",
-    "price": "Rs. 30,000",
-    "size": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": "Silver",
-    "rating": 4.8,
-    "reviews": 22,
-    "designer": "Badgley Mischka",
-    "created_at": "2025-08-16 23:35:56",
-    "updated_at": "2025-08-16 23:35:56"
-  },
-  {
     "id": 7,
     "name": "Golden Goddess",
     "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/518353228_122128319750823055_6305873219121053948_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=btalEcbQAz0Q7kNvwHEM3UM&_nc_oc=AdkEH37E_ynhTXp1wcJq8hKpeitRPPqEROpbyEx9EpD2gQysVVG7mEHpndfoZuoS53DiIRuNWA3Cvobp4c_9wswy&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=tzEz-rDfv32mYHabZ8KMDQ&oh=00_AfXzmtbwMw_UfLdhszAdsgCT0yBEEvDMHDMKnYdCrifc0w&oe=68A3C817",
