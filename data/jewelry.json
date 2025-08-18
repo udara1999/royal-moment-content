@@ -7,11 +7,14 @@
     "images": [
       "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
     ],
-    "price": "Rs. 450,000",
-    "material": "18K White Gold, Diamonds",
+    "price": "Rs. 150,000",
+    "material": "Platinum",
     "rating": 5,
     "reviews": 12,
-    "description": "Timeless elegance with brilliant-cut diamonds"
+    "description": "Timeless elegance with brilliant-cut diamonds",
+    "type": "Ring",
+    "tag": "",
+    "updatedAt": "2025-08-18T16:29:11.523Z"
   },
   {
     "id": 2,
