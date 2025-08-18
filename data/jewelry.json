@@ -24,11 +24,14 @@
     "images": [
       "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80"
     ],
-    "price": "Rs. 320,000",
-    "material": "18K Gold, Natural Emeralds",
+    "price": "Rs. 20,000",
+    "material": "White Gold",
     "rating": 4.9,
     "reviews": 8,
-    "description": "Regal emerald drops with gold accents"
+    "description": "Regal emerald drops with gold accents",
+    "type": "Bracelet",
+    "tag": "",
+    "updatedAt": "2025-08-18T16:29:28.842Z"
   },
   {
     "id": 3,
