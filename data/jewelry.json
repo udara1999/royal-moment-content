@@ -1,0 +1,84 @@
+{
+   "id":1,
+   "name":"Diamond Eternity Necklace",
+   "category":"bridal",
+   "image":"https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+   "images":[
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+   ],
+   "price":"Rs. 450,000",
+   "material":"18K White Gold, Diamonds",
+   "rating":5.0,
+   "reviews":12,
+   "description":"Timeless elegance with brilliant-cut diamonds"
+},
+{
+   "id":2,
+   "name":"Emerald Royal Earrings",
+   "category":"statement",
+   "image":"https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80",
+   "images":[
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80"
+   ],
+   "price":"Rs. 320,000",
+   "material":"18K Gold, Natural Emeralds",
+   "rating":4.9,
+   "reviews":8,
+   "description":"Regal emerald drops with gold accents"
+},
+{
+   "id":3,
+   "name":"Pearl Cascade Bracelet",
+   "category":"luxury",
+   "image":"https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
+   "images":[
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80"
+   ],
+   "price":"Rs. 180,000",
+   "material":"Tahitian Pearls, 14K Gold",
+   "rating":4.8,
+   "reviews":15,
+   "description":"Lustrous pearls in a flowing design"
+},
+{
+   "id":4,
+   "name":"Sapphire Crown Ring",
+   "category":"bridal",
+   "image":"https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+   "images":[
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+   ],
+   "price":"Rs. 280,000",
+   "material":"Platinum, Blue Sapphire, Diamonds",
+   "rating":5.0,
+   "reviews":6,
+   "description":"Royal blue sapphire with diamond halo"
+},
+{
+   "id":5,
+   "name":"Gold Leaf Choker",
+   "category":"statement",
+   "image":"https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80",
+   "images":[
+      "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80"
+   ],
+   "price":"Rs. 240,000",
+   "material":"22K Gold, Hand-Engraved",
+   "rating":4.9,
+   "reviews":11,
+   "description":"Artistic gold work inspired by nature"
+},
+{
+   "id":6,
+   "name":"Diamond Tennis Set",
+   "category":"luxury",
+   "image":"https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+   "images":[
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+   ],
+   "price":"Rs. 520,000",
+   "material":"18K White Gold, Round Diamonds",
+   "rating":5.0,
+   "reviews":9,
+   "description":"Complete set with necklace and bracelet"
+}
