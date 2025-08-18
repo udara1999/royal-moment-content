@@ -1,4 +1,5 @@
-{
+[
+   {
    "id":1,
    "name":"Diamond Eternity Necklace",
    "category":"bridal",
@@ -82,3 +83,4 @@
    "reviews":9,
    "description":"Complete set with necklace and bracelet"
 }
+]
