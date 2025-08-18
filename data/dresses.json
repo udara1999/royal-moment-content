@@ -162,5 +162,14 @@
     "designer": "Jenny Packham",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56"
+  },
+  {
+    "name": "test",
+    "price": "test",
+    "designer": "test",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/test/1755525977382.jpg",
+    "createdAt": "2025-08-18T14:06:17.382Z",
+    "updatedAt": "2025-08-18T14:06:17.382Z",
+    "id": 11
   }
 ]
