@@ -82,16 +82,5 @@
     "rating": 5,
     "reviews": 9,
     "description": "Complete set with necklace and bracelet"
-  },
-  {
-    "name": "test",
-    "price": "123",
-    "type": "Necklace",
-    "material": "Platinum",
-    "tag": "",
-    "createdAt": "2025-08-18T16:06:39.320Z",
-    "updatedAt": "2025-08-18T16:06:39.320Z",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/test/1755533199321.jpg",
-    "id": 7
   }
 ]
