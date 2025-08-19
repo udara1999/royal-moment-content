@@ -52,7 +52,7 @@
   {
     "id": 6,
     "category": "weddings",
-    "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/500222500_122133082592761109_730333246015856211_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RYxPKFSmfmsQ7kNvwFsdqSE&_nc_oc=AdmAuoF1A0ONlgK5TI58v1lwDWwApr7iUiqJ9R4PHaByXFhEHrFngrGP16Ax2JD0j325SKlQtsZ-_ZZlcBO1UH89&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=TtHBasw3xGqkUkaxDUVS7Q&oh=00_AfVfiID53tKR1YSu3atEb_Xf7w9waI9K2an5MyF5z5YSFA&oe=68A3E86A",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/anita-robert/1755588530944.jpg",
     "title": "Anita & Robert",
     "location": "Royal Wedding",
     "likes": 298,
@@ -62,6 +62,6 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/anita-robert/1755365389850.jpg"
     ],
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-16T19:00:00.000Z"
+    "updatedAt": "2025-08-19T07:28:50.944Z"
   }
 ]
