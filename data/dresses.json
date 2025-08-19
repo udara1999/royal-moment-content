@@ -21,7 +21,7 @@
   {
     "id": 2,
     "name": "Golden Goddess",
-    "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/527989566_122130712988823055_7625431848043695255_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sxUPxDwbi8EQ7kNvwFaFneR&_nc_oc=Adn-msGCX4OANeFA_BigwpwhA9Yz-KlaEvBGUJdTqULgD3mlWi7dRyFJVDteF8qTZWdLipgLQZVpw2314vZk7BUV&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=HCKrY7TTbnPt4njspeySKQ&oh=00_AfU5UZODeyWZp89VlpDGMqbgGUDNT40joWjC1TOG5WoEdA&oe=68A3EB70",
+    "image": " https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/golden-goddess/1755365350607.jpg",
     "price": "Rs. 35,000",
     "size": [
       "XS",
@@ -38,7 +38,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/golden-goddess/1755365355399.jpg"
     ],
     "created_at": "2025-08-16 23:35:56",
-    "updated_at": "2025-08-16 23:35:56"
+    "updated_at": "2025-08-16 23:35:56",
+    "updatedAt": "2025-08-19T07:18:34.147Z"
   },
   {
     "id": 3,
