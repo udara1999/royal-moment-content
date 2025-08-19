@@ -100,7 +100,7 @@
   {
     "id": 7,
     "name": "Golden Goddess",
-    "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/518353228_122128319750823055_6305873219121053948_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=btalEcbQAz0Q7kNvwHEM3UM&_nc_oc=AdkEH37E_ynhTXp1wcJq8hKpeitRPPqEROpbyEx9EpD2gQysVVG7mEHpndfoZuoS53DiIRuNWA3Cvobp4c_9wswy&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=tzEz-rDfv32mYHabZ8KMDQ&oh=00_AfXzmtbwMw_UfLdhszAdsgCT0yBEEvDMHDMKnYdCrifc0w&oe=68A3C817",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/golden-goddess/1755588376880.jpg",
     "price": "Rs. 35,000",
     "size": [
       "XS",
@@ -112,7 +112,8 @@
     "reviews": 18,
     "designer": "Oscar de la Renta",
     "created_at": "2025-08-16 23:35:56",
-    "updated_at": "2025-08-16 23:35:56"
+    "updated_at": "2025-08-16 23:35:56",
+    "updatedAt": "2025-08-19T07:26:16.880Z"
   },
   {
     "id": 8,
