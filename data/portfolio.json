@@ -2,12 +2,12 @@
   {
     "id": 1,
     "category": "weddings",
-    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?auto=format&fit=crop&w=800&q=80",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sarah-michael/1755588546655.jpg",
     "title": "Sarah & Michael",
     "location": "Garden Wedding, Colombo",
     "likes": 156,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-16T19:00:00.000Z"
+    "updatedAt": "2025-08-19T07:29:06.655Z"
   },
   {
     "id": 2,
