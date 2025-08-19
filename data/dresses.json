@@ -156,7 +156,7 @@
   {
     "id": 10,
     "name": "Royal Blue Majesty",
-    "image": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/507131813_122123388128823055_2912602576338099967_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8TcE25WHcWIQ7kNvwGK1x1W&_nc_oc=AdmX1nG8QxIIXhUb6truePUZWaVLkg_IYgyVufak5HXgw9n85YLyje1QTvcdMMveOtCUdebDns5Az4DRE-5hE262&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=DgIjF0ehbDGjrZK3IcfTQg&oh=00_AfUlx4THmgxQ3bOcioj9SPeRk09Sypz4n8e6Ejo6DFUv8w&oe=68A3E169",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/royal-blue-majesty/1755588450776.jpg",
     "price": "Rs. 32,000",
     "size": [
       "S",
@@ -168,6 +168,7 @@
     "reviews": 27,
     "designer": "Jenny Packham",
     "created_at": "2025-08-16 23:35:56",
-    "updated_at": "2025-08-16 23:35:56"
+    "updated_at": "2025-08-16 23:35:56",
+    "updatedAt": "2025-08-19T07:27:30.776Z"
   }
 ]
