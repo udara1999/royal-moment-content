@@ -22,12 +22,12 @@
   {
     "id": 3,
     "category": "weddings",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/priya-david/1755588570201.jpg",
     "title": "Priya & David",
     "location": "Traditional Ceremony",
     "likes": 203,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-16T19:00:00.000Z"
+    "updatedAt": "2025-08-19T07:29:30.201Z"
   },
   {
     "id": 4,
