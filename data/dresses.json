@@ -206,5 +206,15 @@
     "createdAt": "2025-08-22T06:14:07.650Z",
     "updatedAt": "2025-08-22T06:14:07.650Z",
     "id": 20
+  },
+  {
+    "name": "Maroon Long Back Knot",
+    "price": "4000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/maroon-long-back-knot/1755843478528.jpg",
+    "tag": "Party",
+    "createdAt": "2025-08-22T06:17:58.528Z",
+    "updatedAt": "2025-08-22T06:17:58.528Z",
+    "id": 21
   }
 ]
