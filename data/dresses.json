@@ -186,5 +186,15 @@
     "createdAt": "2025-08-22T06:11:10.160Z",
     "updatedAt": "2025-08-22T06:11:10.160Z",
     "id": 18
+  },
+  {
+    "name": "Ruffle Lehenga",
+    "price": "4000",
+    "designer": "Tharu",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1755843140047.jpg",
+    "tag": "Party",
+    "createdAt": "2025-08-22T06:12:20.047Z",
+    "updatedAt": "2025-08-22T06:12:20.047Z",
+    "id": 19
   }
 ]
