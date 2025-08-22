@@ -20,9 +20,9 @@
   },
   {
     "id": 4,
-    "name": "Rose Petal Romance",
+    "name": "Black Long Off Shoulder",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/rose-petal-romance/1755588321529.jpg",
-    "price": "Rs. 22,000",
+    "price": "4000",
     "size": [
       "XS",
       "S",
@@ -32,10 +32,11 @@
     "color": "Pink",
     "rating": 4.7,
     "reviews": 15,
-    "designer": "Marchesa",
+    "designer": "Tharu",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-19T07:25:21.529Z"
+    "updatedAt": "2025-08-22T03:27:13.663Z",
+    "tag": "Birthday,Pre-Shoot,Party"
   },
   {
     "id": 7,
