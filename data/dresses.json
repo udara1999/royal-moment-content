@@ -270,5 +270,15 @@
     "createdAt": "2025-08-22T10:46:05.917Z",
     "updatedAt": "2025-08-22T10:46:05.917Z",
     "id": 24
+  },
+  {
+    "name": "Lehenga With Layers",
+    "price": "6000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lehenga-with-layers/1755859735847.jpg",
+    "tag": "Party",
+    "createdAt": "2025-08-22T10:48:55.847Z",
+    "updatedAt": "2025-08-22T10:48:55.847Z",
+    "id": 25
   }
 ]
