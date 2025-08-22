@@ -176,5 +176,15 @@
     "createdAt": "2025-08-22T06:10:17.053Z",
     "updatedAt": "2025-08-22T06:10:17.053Z",
     "id": 17
+  },
+  {
+    "name": "Light Blue Long",
+    "price": "5000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/light-blue-long/1755843070160.jpg",
+    "tag": "Pre-Shoot,Birthday",
+    "createdAt": "2025-08-22T06:11:10.160Z",
+    "updatedAt": "2025-08-22T06:11:10.160Z",
+    "id": 18
   }
 ]
