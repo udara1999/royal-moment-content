@@ -45,9 +45,12 @@
     "designer": "Bridal Haven",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-22T07:53:11.862Z",
+    "updatedAt": "2025-08-22T10:13:33.800Z",
     "tag": "Birthday,Pre-Shoot,Party",
-    "availableColors": []
+    "availableColors": [],
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-long-off-shoulder/1755857609689.jpg"
+    ]
   },
   {
     "id": 7,
