@@ -100,5 +100,15 @@
     "images": [],
     "createdAt": "2025-08-16T19:00:00.000Z",
     "updatedAt": "2025-08-22T11:27:01.424Z"
+  },
+  {
+    "title": "Tiruni & Shehan's Weidding",
+    "category": "Wedding",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tiruni-shehans-weidding/1755862838154.jpg",
+    "location": "Hirana",
+    "likes": 0,
+    "createdAt": "2025-08-22T11:40:38.154Z",
+    "updatedAt": "2025-08-22T11:40:38.154Z",
+    "id": 7
   }
 ]
