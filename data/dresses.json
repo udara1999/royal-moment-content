@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Light Blue Ruffle Strap",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/midnight-elegance/1755588066906.jpg",
-    "price": "5000",
+    "price": "LKR 5000",
     "size": [
       "S",
       "M",
@@ -16,7 +16,8 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-08-22T05:49:24.514Z"
+    "updatedAt": "2025-08-22T07:53:17.405Z",
+    "availableColors": []
   },
   {
     "id": 4,
