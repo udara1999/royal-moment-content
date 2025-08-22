@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Light Blue Ruffle Strap",
+    "name": "Strap Long Dress With Frill",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/midnight-elegance/1755588066906.jpg",
-    "price": "LKR 5000",
+    "price": "5000",
     "size": [
       "S",
       "M",
@@ -16,7 +16,7 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-08-22T08:13:30.121Z",
+    "updatedAt": "2025-08-22T09:06:46.484Z",
     "availableColors": [
       "Blue",
       "White",
