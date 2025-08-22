@@ -116,5 +116,15 @@
     "createdAt": "2025-08-22T05:51:56.505Z",
     "updatedAt": "2025-08-22T05:51:56.505Z",
     "id": 11
+  },
+  {
+    "name": "Red Flair ",
+    "price": "5000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-flair-/1755841988066.jpg",
+    "tag": "Birthday,Pre-Shoot,Party",
+    "createdAt": "2025-08-22T05:53:08.066Z",
+    "updatedAt": "2025-08-22T05:53:08.066Z",
+    "id": 12
   }
 ]
