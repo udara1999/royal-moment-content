@@ -16,13 +16,21 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-08-22T10:36:40.006Z",
+    "updatedAt": "2025-08-22T10:42:04.432Z",
     "availableColors": [
       "Blue",
       "White",
       "Silver"
     ],
-    "dressCode": "ASD-123"
+    "dressCode": "ASD-123",
+    "categories": [
+      "cat-4",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-5-5"
+    ]
   },
   {
     "id": 4,
