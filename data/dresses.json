@@ -96,5 +96,15 @@
     "updated_at": "2025-08-16 23:35:56",
     "updatedAt": "2025-08-22T03:34:24.063Z",
     "tag": "Birthday,Pre-Shoot,Party"
+  },
+  {
+    "name": "Pink Saree",
+    "price": "4000",
+    "designer": "Tharu",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/pink-saree/1755833803246.jpg",
+    "tag": "Pre-Shoot,Party",
+    "createdAt": "2025-08-22T03:36:43.246Z",
+    "updatedAt": "2025-08-22T03:36:43.246Z",
+    "id": 10
   }
 ]
