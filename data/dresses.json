@@ -96,23 +96,5 @@
     "updated_at": "2025-08-16 23:35:56",
     "updatedAt": "2025-08-22T03:34:24.063Z",
     "tag": "Birthday,Pre-Shoot,Party"
-  },
-  {
-    "id": 10,
-    "name": "Royal Blue Majesty",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/royal-blue-majesty/1755588450776.jpg",
-    "price": "Rs. 32,000",
-    "size": [
-      "S",
-      "M",
-      "L"
-    ],
-    "color": "Blue",
-    "rating": 4.9,
-    "reviews": 27,
-    "designer": "Jenny Packham",
-    "created_at": "2025-08-16 23:35:56",
-    "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-19T07:27:30.776Z"
   }
 ]
