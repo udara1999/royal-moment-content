@@ -226,5 +226,15 @@
     "createdAt": "2025-08-22T06:20:01.723Z",
     "updatedAt": "2025-08-22T06:20:01.723Z",
     "id": 22
+  },
+  {
+    "name": "Light Blue organza",
+    "price": "2000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/light-blue-organza/1755843710606.jpg",
+    "tag": "Birthday",
+    "createdAt": "2025-08-22T06:21:50.605Z",
+    "updatedAt": "2025-08-22T06:21:50.605Z",
+    "id": 23
   }
 ]
