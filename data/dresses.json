@@ -16,8 +16,17 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-08-22T07:53:17.405Z",
-    "availableColors": []
+    "updatedAt": "2025-08-22T08:10:10.946Z",
+    "availableColors": [
+      "Gold",
+      "Blue",
+      "White"
+    ],
+    "dressCode": "ASD-123",
+    "categories": [
+      "Wedding Dresses",
+      "Evening Gowns"
+    ]
   },
   {
     "id": 4,
