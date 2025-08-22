@@ -119,13 +119,14 @@
   },
   {
     "name": "Black Floral Tight",
-    "price": "2000",
+    "price": "LKR 2000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-floral-tight/1755841916506.jpg",
     "tag": "Birthday,Party",
     "createdAt": "2025-08-22T05:51:56.505Z",
-    "updatedAt": "2025-08-22T05:51:56.505Z",
-    "id": 11
+    "updatedAt": "2025-08-22T07:53:48.132Z",
+    "id": 11,
+    "availableColors": []
   },
   {
     "name": "Red Flair ",
