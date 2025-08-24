@@ -730,7 +730,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1755859859513.jpg",
     "tag": "Birthday,Party",
     "createdAt": "2025-08-22T10:50:59.513Z",
-    "updatedAt": "2025-08-24T03:23:14.339Z",
+    "updatedAt": "2025-08-24T20:38:48.930Z",
     "id": 26,
     "dressCode": "C24",
     "categories": [
@@ -741,7 +741,10 @@
     "subcategories": [
       "sub-8-2",
       "sub-7-5",
-      "sub-5-3"
+      "sub-5-3",
+      "sub-8-1",
+      "sub-7-1",
+      "sub-5-1"
     ],
     "availableColors": [],
     "images": [
