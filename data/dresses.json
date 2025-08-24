@@ -415,7 +415,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/blue-velvet/1755842810739.jpg",
     "tag": "Pre-Shoot,Party",
     "createdAt": "2025-08-22T06:06:50.739Z",
-    "updatedAt": "2025-08-24T03:01:48.670Z",
+    "updatedAt": "2025-08-24T20:34:28.746Z",
     "id": 16,
     "dressCode": "C08",
     "categories": [
@@ -424,9 +424,12 @@
       "cat-8"
     ],
     "subcategories": [
+      "sub-5-1",
       "sub-5-3",
+      "sub-4-1",
       "sub-4-3",
-      "sub-8-2"
+      "sub-8-1",
+      "sub-8-5"
     ],
     "availableColors": [
       "Navy",
