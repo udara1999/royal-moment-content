@@ -210,9 +210,17 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1755858047753.jpg",
     "tag": "Pre-Shoot,Party",
     "createdAt": "2025-08-22T03:36:43.246Z",
-    "updatedAt": "2025-08-24T02:55:21.688Z",
+    "updatedAt": "2025-08-24T03:20:18.976Z",
     "id": 10,
-    "availableColors": [],
+    "availableColors": [
+      "Blush",
+      "Green",
+      "Blue",
+      "Navy",
+      "Black",
+      "Red",
+      "Pink"
+    ],
     "dressCode": "C01",
     "categories": [
       "cat-4",
