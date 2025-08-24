@@ -228,9 +228,20 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1755857737658.jpg",
     "tag": "Birthday,Party",
     "createdAt": "2025-08-22T05:51:56.505Z",
-    "updatedAt": "2025-08-22T10:15:37.658Z",
+    "updatedAt": "2025-08-24T02:51:53.597Z",
     "id": 11,
-    "availableColors": []
+    "availableColors": [
+      "Black"
+    ],
+    "dressCode": "C02",
+    "categories": [
+      "cat-5",
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-5-2",
+      "sub-8-2"
+    ]
   },
   {
     "name": "Long Player Sleeveless Dress",
