@@ -519,5 +519,15 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandha-tharindu/1756070933044.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandha-tharindu/1756070934850.jpg"
     ]
+  },
+  {
+    "title": "Chamodi's 18th Birthday",
+    "category": "Portrait",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071154583.jpg",
+    "location": "Coconut Tree Hill",
+    "likes": 0,
+    "createdAt": "2025-08-24T21:32:34.583Z",
+    "updatedAt": "2025-08-24T21:32:34.583Z",
+    "id": 16
   }
 ]
