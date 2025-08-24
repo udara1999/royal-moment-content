@@ -610,7 +610,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1755859220965.jpg",
     "tag": "Birthday,Glamour,Party",
     "createdAt": "2025-08-22T06:20:01.723Z",
-    "updatedAt": "2025-08-24T03:18:00.336Z",
+    "updatedAt": "2025-08-24T20:37:07.784Z",
     "id": 22,
     "dressCode": "C16",
     "categories": [
@@ -621,7 +621,10 @@
     "subcategories": [
       "sub-5-3",
       "sub-7-5",
-      "sub-8-4"
+      "sub-8-4",
+      "sub-8-1",
+      "sub-7-1",
+      "sub-5-1"
     ],
     "availableColors": [
       "Green",
