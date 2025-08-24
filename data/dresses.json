@@ -437,7 +437,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1755858820522.jpg",
     "tag": "Pre-Shoot,Birthday",
     "createdAt": "2025-08-22T06:11:10.160Z",
-    "updatedAt": "2025-08-24T03:06:02.892Z",
+    "updatedAt": "2025-08-24T03:06:35.414Z",
     "id": 18,
     "dressCode": "C11",
     "categories": [
@@ -456,6 +456,10 @@
       "Pink",
       "Yellow",
       "White"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004792324.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004793791.jpg"
     ]
   },
   {
