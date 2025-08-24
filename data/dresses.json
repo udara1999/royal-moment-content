@@ -515,14 +515,15 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1755858868121.jpg",
     "tag": "Party",
     "createdAt": "2025-08-22T06:12:20.047Z",
-    "updatedAt": "2025-08-24T03:16:51.930Z",
+    "updatedAt": "2025-08-24T20:35:37.125Z",
     "id": 19,
     "dressCode": "C12",
     "categories": [
       "cat-8"
     ],
     "subcategories": [
-      "sub-8-6"
+      "sub-8-6",
+      "sub-8-1"
     ],
     "availableColors": [
       "Blush"
