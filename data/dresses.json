@@ -50,7 +50,7 @@
     "designer": "Bridal Haven",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-24T02:40:09.363Z",
+    "updatedAt": "2025-08-24T02:44:42.776Z",
     "tag": "Birthday,Pre-Shoot,Party",
     "availableColors": [
       "Black",
@@ -61,7 +61,11 @@
       "Yellow",
       "Pink"
     ],
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/off-shoulder-dress-with-wings/1756003478523.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/off-shoulder-dress-with-wings/1756003480315.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/off-shoulder-dress-with-wings/1756003481632.jpg"
+    ],
     "categories": [
       "cat-5",
       "cat-4",
