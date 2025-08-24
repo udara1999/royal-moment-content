@@ -52,7 +52,7 @@
     "designer": "Bridal Haven",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-24T02:44:42.776Z",
+    "updatedAt": "2025-08-24T20:30:35.657Z",
     "tag": "Birthday,Pre-Shoot,Party",
     "availableColors": [
       "Black",
@@ -76,7 +76,10 @@
     "subcategories": [
       "sub-5-3",
       "sub-4-2",
-      "sub-8-2"
+      "sub-8-2",
+      "sub-5-1",
+      "sub-4-1",
+      "sub-8-1"
     ],
     "dressCode": "C13"
   },
