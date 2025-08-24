@@ -138,9 +138,20 @@
     "designer": "Tharu",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-22T10:19:00.393Z",
+    "updatedAt": "2025-08-24T02:47:42.949Z",
     "tag": "Pre-Shoot,Engagement,",
-    "availableColors": []
+    "availableColors": [
+      "Blue"
+    ],
+    "dressCode": "C9",
+    "categories": [
+      "cat-2",
+      "cat-4"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-2-4"
+    ]
   },
   {
     "id": 9,
