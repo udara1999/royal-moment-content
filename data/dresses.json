@@ -183,7 +183,7 @@
     "designer": "Bridal Haven",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-24T02:50:08.686Z",
+    "updatedAt": "2025-08-24T20:31:37.544Z",
     "tag": "Birthday,Pre-Shoot,Party",
     "availableColors": [
       "Blush",
@@ -206,7 +206,10 @@
     "subcategories": [
       "sub-5-4",
       "sub-4-4",
-      "sub-8-4"
+      "sub-8-4",
+      "sub-5-1",
+      "sub-4-1",
+      "sub-8-1"
     ],
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003801385.jpg",
