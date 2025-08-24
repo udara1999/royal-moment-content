@@ -224,7 +224,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756012010961.jpg",
     "tag": "Pre-Shoot,Party",
     "createdAt": "2025-08-22T03:36:43.246Z",
-    "updatedAt": "2025-08-24T05:06:50.961Z",
+    "updatedAt": "2025-08-24T20:31:54.768Z",
     "id": 10,
     "availableColors": [
       "Blush",
@@ -242,7 +242,9 @@
     ],
     "subcategories": [
       "sub-4-2",
-      "sub-8-4"
+      "sub-8-4",
+      "sub-4-1",
+      "sub-8-1"
     ],
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004116781.jpg",
