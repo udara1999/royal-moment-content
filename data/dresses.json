@@ -16,7 +16,7 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-08-24T02:39:34.797Z",
+    "updatedAt": "2025-08-24T03:25:18.353Z",
     "availableColors": [
       "Blue",
       "White",
@@ -29,7 +29,9 @@
     ],
     "subcategories": [
       "sub-4-5",
-      "sub-5-5"
+      "sub-5-5",
+      "sub-4-1",
+      "sub-5-1"
     ],
     "images": []
   },
