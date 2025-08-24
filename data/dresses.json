@@ -447,7 +447,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/peach-ruffle-long/1755843017054.jpg",
     "tag": "Pre-shoot,Homecoming,Birthday",
     "createdAt": "2025-08-22T06:10:17.053Z",
-    "updatedAt": "2025-08-24T03:04:56.738Z",
+    "updatedAt": "2025-08-24T20:34:55.499Z",
     "id": 17,
     "dressCode": "C10",
     "categories": [
@@ -458,7 +458,10 @@
     "subcategories": [
       "sub-3-3",
       "sub-4-5",
-      "sub-5-5"
+      "sub-5-5",
+      "sub-3-1",
+      "sub-4-1",
+      "sub-5-1"
     ],
     "availableColors": [
       "Pink",
