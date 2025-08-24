@@ -651,13 +651,28 @@
   },
   {
     "name": "Lehenga With Layers",
-    "price": "6000",
+    "price": "LKR 6000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lehenga-with-layers/1755859735847.jpg",
     "tag": "Party",
     "createdAt": "2025-08-22T10:48:55.847Z",
-    "updatedAt": "2025-08-22T10:48:55.847Z",
-    "id": 25
+    "updatedAt": "2025-08-24T03:21:40.175Z",
+    "id": 25,
+    "dressCode": "C23",
+    "categories": [
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-8-6"
+    ],
+    "availableColors": [
+      "Blue",
+      "Navy",
+      "Green",
+      "Blush",
+      "Ivory",
+      "Black"
+    ]
   },
   {
     "name": "Glitter Off Shoulder Bodycon",
