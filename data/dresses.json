@@ -527,7 +527,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1755859124861.jpg",
     "tag": "Birthday,Pre-Shoot,Party",
     "createdAt": "2025-08-22T06:17:58.528Z",
-    "updatedAt": "2025-08-24T03:17:15.547Z",
+    "updatedAt": "2025-08-24T03:19:50.530Z",
     "id": 21,
     "dressCode": "C15",
     "categories": [
@@ -540,7 +540,14 @@
       "sub-4-3",
       "sub-8-4"
     ],
-    "availableColors": [],
+    "availableColors": [
+      "Red",
+      "Navy",
+      "Black",
+      "Blue",
+      "Green",
+      "White"
+    ],
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005432020.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005434060.jpg"
