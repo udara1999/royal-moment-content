@@ -587,7 +587,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1755859307217.jpg",
     "tag": "Birthday",
     "createdAt": "2025-08-22T06:21:50.605Z",
-    "updatedAt": "2025-08-24T03:16:12.850Z",
+    "updatedAt": "2025-08-24T03:18:36.242Z",
     "id": 23,
     "dressCode": "C17",
     "categories": [
@@ -598,6 +598,11 @@
     ],
     "availableColors": [
       "Blue"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005509961.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005512193.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005514133.jpg"
     ]
   },
   {
