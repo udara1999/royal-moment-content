@@ -281,12 +281,12 @@
   },
   {
     "title": "Panchali & Sajeewa ",
-    "category": "Portrait",
+    "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/panchali-sajeewa-/1756069704835.JPG",
     "location": "Green Garden Photo Location",
     "likes": 0,
     "createdAt": "2025-08-24T21:08:24.835Z",
-    "updatedAt": "2025-08-24T21:09:57.515Z",
+    "updatedAt": "2025-08-25T19:22:50.297Z",
     "id": 9,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/panchali-sajeewa-/1756069728071.JPG",
@@ -332,6 +332,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/panchali-sajeewa-/1756069792683.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/panchali-sajeewa-/1756069794421.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/panchali-sajeewa-/1756069795846.JPG"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
     ]
   },
   {
