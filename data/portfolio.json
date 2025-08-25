@@ -342,12 +342,12 @@
   },
   {
     "title": "Ayon 1st Birthday",
-    "category": "Portrait",
+    "category": "Birthday",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ayon-1st-birthday/1756069882025.jpg",
     "location": "Green Garden Photo Location",
     "likes": 0,
     "createdAt": "2025-08-24T21:11:22.025Z",
-    "updatedAt": "2025-08-24T21:13:09.602Z",
+    "updatedAt": "2025-08-25T19:23:12.582Z",
     "id": 10,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ayon-1st-birthday/1756069905784.jpg",
@@ -390,6 +390,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ayon-1st-birthday/1756069985077.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ayon-1st-birthday/1756069986499.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ayon-1st-birthday/1756069987727.jpg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-1"
     ]
   },
   {
