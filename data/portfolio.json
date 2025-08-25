@@ -467,12 +467,12 @@
   },
   {
     "title": "Sahen",
-    "category": "Portrait",
+    "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen/1756070431270.JPG",
     "location": "Road",
     "likes": 0,
     "createdAt": "2025-08-24T21:20:31.270Z",
-    "updatedAt": "2025-08-24T21:21:21.371Z",
+    "updatedAt": "2025-08-25T19:23:53.414Z",
     "id": 12,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen/1756070459587.JPG",
@@ -489,6 +489,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen/1756070477187.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen/1756070478749.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen/1756070480420.JPG"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-4"
     ]
   },
   {
