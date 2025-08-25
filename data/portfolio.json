@@ -707,12 +707,12 @@
   },
   {
     "title": "Maneesha's 23rd Birthday",
-    "category": "Portrait",
+    "category": "Birthday",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maneeshas-23rd-birthday/1756071432356.jpg",
     "location": "Colombo",
     "likes": 0,
     "createdAt": "2025-08-24T21:37:12.356Z",
-    "updatedAt": "2025-08-24T21:39:11.102Z",
+    "updatedAt": "2025-08-25T19:25:55.793Z",
     "id": 18,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maneeshas-23rd-birthday/1756071455568.jpg",
@@ -764,6 +764,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maneeshas-23rd-birthday/1756071546046.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maneeshas-23rd-birthday/1756071548083.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maneeshas-23rd-birthday/1756071549872.jpg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
     ]
   },
   {
