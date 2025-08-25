@@ -400,12 +400,12 @@
   },
   {
     "title": "Sahen 3rd Birthday",
-    "category": "Portrait",
+    "category": "Birthday",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen-3rd-birthday/1756070141854.jpg",
     "location": "Kirala Lake View",
     "likes": 0,
     "createdAt": "2025-08-24T21:15:41.854Z",
-    "updatedAt": "2025-08-24T21:17:46.568Z",
+    "updatedAt": "2025-08-25T19:23:30.689Z",
     "id": 11,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen-3rd-birthday/1756070160156.jpg",
@@ -457,6 +457,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen-3rd-birthday/1756070260064.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen-3rd-birthday/1756070263067.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen-3rd-birthday/1756070265097.jpg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-1"
     ]
   },
   {
