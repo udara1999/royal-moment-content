@@ -42,13 +42,13 @@
   },
   {
     "id": 2,
-    "category": "Other",
+    "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/emma-james/1755588558600.jpg",
     "title": "Sewni & Chayana",
     "location": "Beach",
     "likes": 89,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-24T21:05:48.879Z",
+    "updatedAt": "2025-08-25T14:07:56.162Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069522326.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069523435.jpg",
@@ -68,6 +68,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069544503.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069545847.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069547850.jpg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
     ]
   },
   {
