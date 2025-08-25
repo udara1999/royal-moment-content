@@ -218,7 +218,7 @@
     "location": "Hirana",
     "likes": 0,
     "createdAt": "2025-08-22T11:40:38.154Z",
-    "updatedAt": "2025-08-24T03:37:28.796Z",
+    "updatedAt": "2025-08-25T19:22:04.035Z",
     "id": 7,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tiruni-shehans-weidding/1756006638903.jpg",
@@ -226,6 +226,13 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tiruni-shehans-weidding/1756006643779.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tiruni-shehans-weidding/1756006645393.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tiruni-shehans-weidding/1756006647576.jpg"
+    ],
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "cat-1-2",
+      "cat-1-3"
     ]
   },
   {
