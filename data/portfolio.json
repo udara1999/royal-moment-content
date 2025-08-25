@@ -76,13 +76,13 @@
   },
   {
     "id": 3,
-    "category": "Portrait",
+    "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/priya-david/1755588570201.jpg",
     "title": "Sewni & Lakila",
     "location": "Victoria Hotel",
     "likes": 203,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-24T21:19:35.582Z",
+    "updatedAt": "2025-08-25T19:20:31.616Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070348982.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070351081.jpg",
@@ -101,6 +101,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070370423.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070372146.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070373892.jpg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
     ]
   },
   {
