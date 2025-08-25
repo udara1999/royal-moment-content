@@ -111,13 +111,13 @@
   },
   {
     "id": 4,
-    "category": "Portrait",
+    "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/corporate-gala/1755588608384.jpg",
     "title": "Vihanga & Yoshi",
     "location": "Beach",
     "likes": 67,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-24T21:04:58.275Z",
+    "updatedAt": "2025-08-25T19:20:52.622Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069456485.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069458279.jpg",
@@ -145,6 +145,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069493188.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069495111.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069496571.jpg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
     ]
   },
   {
