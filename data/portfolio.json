@@ -655,12 +655,12 @@
   },
   {
     "title": "Sadamali 21st Birthday",
-    "category": "Portrait",
+    "category": "Birthday",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sadamali-21st-birthday/1756071280747.JPG",
     "location": "Beach",
     "likes": 0,
     "createdAt": "2025-08-24T21:34:40.747Z",
-    "updatedAt": "2025-08-24T21:35:53.891Z",
+    "updatedAt": "2025-08-25T19:25:39.995Z",
     "id": 17,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sadamali-21st-birthday/1756071301582.jpg",
@@ -697,6 +697,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sadamali-21st-birthday/1756071349193.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sadamali-21st-birthday/1756071351132.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sadamali-21st-birthday/1756071352252.jpg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
     ]
   },
   {
