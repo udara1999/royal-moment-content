@@ -810,7 +810,7 @@
     "location": "Panadura",
     "likes": 0,
     "createdAt": "2025-08-24T21:51:12.653Z",
-    "updatedAt": "2025-08-24T21:52:10.372Z",
+    "updatedAt": "2025-08-25T19:28:31.520Z",
     "id": 20,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/35th-sri-gunarathna-pratibha/1756072290450.jpg",
@@ -835,6 +835,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/35th-sri-gunarathna-pratibha/1756072324008.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/35th-sri-gunarathna-pratibha/1756072326979.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/35th-sri-gunarathna-pratibha/1756072328996.jpg"
+    ],
+    "categories": [
+      "cat-4"
+    ],
+    "subcategories": [
+      "cat-4-4"
     ]
   }
 ]
