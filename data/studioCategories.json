@@ -1,0 +1,127 @@
+[
+    {
+        id: "cat-1",
+        name: "Wedding",
+        children: [
+            {id: "cat-1-1", name: "Traditional Sri Lankan Wedding"},
+            {id: "cat-1-2", name: "Western Style Wedding"},
+            {id: "cat-1-3", name: "Engagement"},
+            {id: "cat-1-4", name: "Homecoming"},
+        ],
+    },
+    {
+        id: "cat-2",
+        name: "Birthday",
+        children: [
+            {
+                id: "cat-2-1",
+                name: "Kid's Birthday",
+                children: [
+                    {id: "cat-2-1-1", name: "Newborn"},
+                    {id: "cat-2-1-2", name: "1st Birthday"},
+                    {id: "cat-2-1-3", name: "Toddler (2-5 years)"},
+                    {id: "cat-2-1-4", name: "School Age (6-12 years)"},
+                ],
+            },
+            {
+                id: "cat-2-2",
+                name: "Teen Birthday",
+                children: [
+                    {id: "cat-2-2-1", name: "Sweet 16"},
+                    {id: "cat-2-2-2", name: "18th Birthday"},
+                    {id: "cat-2-2-3", name: "Other"},
+                ],
+            },
+            {
+                id: "cat-2-3",
+                name: "Adult Birthday",
+                children: [
+                    {id: "cat-2-3-1", name: "21st Birthday"},
+                    {id: "cat-2-3-2", name: "25th Birthday"},
+                    {id: "cat-2-3-3", name: "50th Birthday"},
+                    {id: "cat-2-3-4", name: "75th Birthday"},
+                    {id: "cat-2-3-5", name: "100th Birthday"},
+                    {id: "cat-2-3-6", name: "Other"},
+                ],
+            },
+            {
+                id: "cat-2-4",
+                name: "Themed Birthday Parties",
+                children: [
+                    {id: "cat-2-4-1", name: "Cartoon Themes"},
+                    {id: "cat-2-4-2", name: "Modern Themes"},
+                    {id: "cat-2-4-3", name: "Customized Themes"},
+                ],
+            },
+        ],
+    },
+    {
+        id: "cat-3",
+        name: "Portrait Photoshoot",
+        children: [
+            {id: "cat-3-1", name: "Individual Portrait"},
+            {id: "cat-3-2", name: "Couple"},
+            {id: "cat-3-3", name: "Family"},
+            {id: "cat-3-4", name: "Kids"},
+            {id: "cat-3-5", name: "Teen"},
+            {id: "cat-3-6", name: "Corporate"},
+            {id: "cat-3-7", name: "Branding"},
+        ],
+    },
+    {
+        id: "cat-4",
+        name: "Event",
+        children: [
+            {
+                id: "cat-4-1",
+                name: "Corporate Event",
+                children: [
+                    {id: "cat-4-1-1", name: "Conferences & Seminars"},
+                    {id: "cat-4-1-2", name: "Product Launches"},
+                    {id: "cat-4-1-3", name: "Award Ceremonies"},
+                    {id: "cat-4-1-4", name: "Company Parties"},
+                    {id: "cat-4-1-5", name: "Annual Dinners"},
+                    {id: "cat-4-1-6", name: "Brand Promotions"},
+                ],
+            },
+            {
+                id: "cat-4-2",
+                name: "Social & Cultural Events",
+                children: [
+                    {id: "cat-4-2-1", name: "School Functions"},
+                    {id: "cat-4-2-2", name: "Religious Event"},
+                    {id: "cat-4-2-3", name: "Cultural Festivals"},
+                ],
+            },
+            {
+                id: "cat-4-3",
+                name: "Private Event",
+                children: [
+                    {id: "cat-4-3-1", name: "Anniversaries"},
+                    {id: "cat-4-3-2", name: "Small Gatherings"},
+                    {id: "cat-4-3-3", name: "Others"},
+                ],
+            },
+            {
+                id: "cat-4-4",
+                name: "Concerts & Shows",
+                children: [
+                    {id: "cat-4-4-1", name: "Live Music Event"},
+                    {id: "cat-4-4-2", name: "Dance Show"},
+                    {id: "cat-4-4-3", name: "Others"},
+                ],
+            },
+        ],
+    },
+    {
+        id: "cat-5",
+        name: "Sports",
+        children: [
+            {id: "cat-5-1", name: "Sport Meet"},
+            {id: "cat-5-2", name: "Athletics"},
+            {id: "cat-5-3", name: "Team / Group Sports"},
+            {id: "cat-5-4", name: "Fitness & Gym Photography"},
+            {id: "cat-5-5", name: "Action & Adventure Sport"},
+        ],
+    },
+]
