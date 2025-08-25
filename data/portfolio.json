@@ -155,13 +155,13 @@
   },
   {
     "id": 5,
-    "category": "Portrait Photoshoot",
+    "category": "Wedding",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/savinis-bride-to-be/1756006345351.jpg",
     "title": "Savini's Bride-To-Be",
     "location": "Savini's Home",
     "likes": 124,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-25T19:21:34.106Z",
+    "updatedAt": "2025-08-25T19:32:08.073Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/lisa-mark/1755861144289.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/lisa-mark/1755861147110.jpg",
@@ -204,11 +204,10 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/lisa-mark/1755861216496.jpg"
     ],
     "categories": [
-      "cat-3"
+      "cat-1"
     ],
     "subcategories": [
-      "cat-3-1",
-      "cat-3-3"
+      "sub-1756150228173"
     ]
   },
   {
