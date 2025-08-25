@@ -608,12 +608,12 @@
   },
   {
     "title": "Chamodi's 18th Birthday",
-    "category": "Portrait",
+    "category": "Birthday",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071154583.jpg",
     "location": "Coconut Tree Hill",
     "likes": 0,
     "createdAt": "2025-08-24T21:32:34.583Z",
-    "updatedAt": "2025-08-24T21:33:40.228Z",
+    "updatedAt": "2025-08-25T19:25:20.807Z",
     "id": 16,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071171088.jpg",
@@ -645,6 +645,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071216135.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071217297.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071218924.jpg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
     ]
   },
   {
