@@ -121,7 +121,7 @@
             {id: "cat-5-2", name: "Athletics"},
             {id: "cat-5-3", name: "Team / Group Sports"},
             {id: "cat-5-4", name: "Fitness & Gym Photography"},
-            {id: "cat-5-5", name: "Action & Adventure Sport"},
+            {id: "cat-5-5", name: "Action & Adventure Sport"}
         ],
     },
 ]
