@@ -1,0 +1,92 @@
+[
+    {
+        id: "cat-1",
+        name: "Wedding",
+        subcategories: [
+            {id: "sub-1-1", name: "All"},
+            {id: "sub-1-2", name: "Kandyan Saree"},
+            {id: "sub-1-3", name: "Indian Style Saree"},
+            {id: "sub-1-4", name: "Ball Gown Dress"},
+            {id: "sub-1-5", name: "Fit and Flare Dress"},
+            {id: "sub-1-6", name: "Western White Wedding Gown"}
+        ]
+    },
+    {
+        id: "cat-2",
+        name: "Engagement",
+        subcategories: [
+            {id: "sub-2-1", name: "All"},
+            {id: "sub-2-2", name: "Kandyan Saree"},
+            {id: "sub-2-3", name: "Ball Gown Dress"},
+            {id: "sub-2-4", name: "Fit and Flare Dress"},
+            {id: "sub-2-5", name: "Saree"}
+        ]
+    },
+    {
+        id: "cat-3",
+        name: "Homecoming",
+        subcategories: [
+            {id: "sub-3-1", name: "All"},
+            {id: "sub-3-2", name: "Kandyan Saree (Red)"},
+            {id: "sub-3-3", name: "Ball Gown Dress (Red)"},
+            {id: "sub-3-4", name: "Fit and Flare Dress (Red)"},
+            {id: "sub-3-5", name: "Lehenga"}
+        ]
+    },
+    {
+        id: "cat-4",
+        name: "Pre-shoot",
+        subcategories: [
+            {id: "sub-4-1", name: "All"},
+            {id: "sub-4-2", name: "Tail Dress"},
+            {id: "sub-4-3", name: "Bodycon Dress"},
+            {id: "sub-4-4", name: "Short Dress"},
+            {id: "sub-4-5", name: "Long Gown"}
+        ]
+    },
+    {
+        id: "cat-5",
+        name: "Birthday",
+        subcategories: [
+            {id: "sub-5-1", name: "All"},
+            {id: "sub-5-2", name: "Tail Dress"},
+            {id: "sub-5-3", name: "Bodycon Dress"},
+            {id: "sub-5-4", name: "Short Dress"},
+            {id: "sub-5-5", name: "Long Gown"}
+        ]
+    },
+    {
+        id: "cat-6",
+        name: "Robe",
+        subcategories: [
+            {id: "sub-6-1", name: "All"},
+            {id: "sub-6-2", name: "Satin/Silk Bridal Robe"},
+            {id: "sub-6-3", name: "Lace Robe"},
+            {id: "sub-6-4", name: "Long Flowing Robe Gown"},
+            {id: "sub-6-5", name: "Kimono-Style Robe"}
+        ]
+    },
+    {
+        id: "cat-7",
+        name: "Glamour",
+        subcategories: [
+            {id: "sub-7-1", name: "All"},
+            {id: "sub-7-2", name: "Glam Saree"},
+            {id: "sub-7-3", name: "Evening Gown"},
+            {id: "sub-7-4", name: "Lehenga"},
+            {id: "sub-7-5", name: "Cocktail Dress"}
+        ]
+    },
+    {
+        id: "cat-8",
+        name: "Party",
+        subcategories: [
+            {id: "sub-8-1", name: "All"},
+            {id: "sub-8-2", name: "Bodycon Dress"},
+            {id: "sub-8-3", name: "Glitter Dress"},
+            {id: "sub-8-4", name: "Slip Dress"},
+            {id: "sub-8-5", name: "Cocktail Dress"},
+            {id: "sub-8-6", name: "Lehenga"},
+        ]
+    }
+]
