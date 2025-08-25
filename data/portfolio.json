@@ -538,12 +538,12 @@
   },
   {
     "title": "Sanjeewa",
-    "category": "Portrait",
+    "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sanjeewa/1756070740451.JPG",
     "location": "Victoria Hotel",
     "likes": 0,
     "createdAt": "2025-08-24T21:25:40.451Z",
-    "updatedAt": "2025-08-24T21:26:14.603Z",
+    "updatedAt": "2025-08-25T19:24:31.685Z",
     "id": 14,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sanjeewa/1756070761639.JPG",
@@ -554,6 +554,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sanjeewa/1756070769592.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sanjeewa/1756070771348.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sanjeewa/1756070773050.jpg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-1"
     ]
   },
   {
