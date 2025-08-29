@@ -229,7 +229,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756012010961.jpg",
     "tag": "Pre-Shoot,Party",
     "createdAt": "2025-08-22T03:36:43.246Z",
-    "updatedAt": "2025-08-24T20:31:54.768Z",
+    "updatedAt": "2025-08-29T16:38:48.069Z",
     "id": 10,
     "availableColors": [
       "Blush",
@@ -254,7 +254,8 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004116781.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004119856.jpg"
-    ]
+    ],
+    "order": 7
   },
   {
     "name": "Lace Bodycon Dress",
