@@ -1,9 +1,5 @@
 [
   {
-    "id": -1,
-    "name": ""
-  },
-  {
     "name": "Basic Birthday Package",
     "price": "7000",
     "type": "birthday",
