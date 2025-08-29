@@ -6,10 +6,13 @@
     "description": "Capture your special day with our Basic Birthday Package. Enjoy a 1-hour session at your chosen indoor or outdoor location, complete with 10 professionally edited photos delivered digitally for lasting memories – all for just Rs. 7,000.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/basic-birthday-package/1756490235574.jpg",
     "included": [
-      "Indoor or outdoor location"
+      "Indoor or outdoor location",
+      "Digital delivery via Google Drive",
+      "10 professionally edited photos",
+      "1-hour session"
     ],
     "createdAt": "2025-08-29T17:43:04.055Z",
-    "updatedAt": "2025-08-29T17:57:15.574Z",
+    "updatedAt": "2025-08-29T17:57:56.612Z",
     "id": 1
   }
 ]
