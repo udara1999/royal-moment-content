@@ -2,6 +2,18 @@
   {
     "id": -1,
     "name": ""
+  },
+  {
+    "name": "Basic Birthday Package",
+    "price": "7000",
+    "type": "birthday",
+    "description": "Capture your special day with our Basic Birthday Package. Enjoy a 1-hour session at your chosen indoor or outdoor location, complete with 10 professionally edited photos delivered digitally for lasting memories – all for just Rs. 7,000.",
+    "image": "blob:http://localhost:5173/852b431e-f390-40d6-a3fe-e4e3c9424d57",
+    "included": [
+      "Indoor or outdoor location"
+    ],
+    "createdAt": "2025-08-29T17:43:04.055Z",
+    "updatedAt": "2025-08-29T17:43:04.055Z",
+    "id": 0
   }
 ]
-
