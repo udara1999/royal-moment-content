@@ -101,7 +101,7 @@
     "designer": "Bridal Haven",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-24T20:30:58.933Z",
+    "updatedAt": "2025-08-29T16:35:36.044Z",
     "tag": "Birthday,Pre-Shoot,Party,Glamour",
     "categories": [
       "cat-5",
@@ -132,7 +132,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003559485.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003561284.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003563204.jpg"
-    ]
+    ],
+    "order": 4
   },
   {
     "id": 8,
