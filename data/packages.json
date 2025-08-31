@@ -3,7 +3,7 @@
     "name": "Basic Birthday Package",
     "price": "LKR 7000",
     "type": "Birthday",
-    "description": "Capture your special day with our Basic Birthday Package. Enjoy a 1-hour session at your chosen indoor or outdoor location, complete with 10 professionally edited photos delivered digitally for lasting memories â all for just Rs. 7,000.",
+    "description": "• 2 - hour session\n• 10 professionally edited photos\n• Digital delivery via Google Drive\n• Indoor or outdoor location",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/basic-birthday-package/1756490235574.jpg",
     "included": [
       "Indoor or outdoor location",
@@ -12,14 +12,14 @@
       "1-hour session"
     ],
     "createdAt": "2025-08-29T17:43:04.055Z",
-    "updatedAt": "2025-08-29T18:11:36.441Z",
+    "updatedAt": "2025-08-31T01:52:44.921Z",
     "id": 1
   },
   {
     "name": "Mini Moments Package (Basic & Quick)",
     "price": "LKR 25000",
     "type": "Wedding",
-    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, you’ll have timeless memories to cherish – all for Rs. 25,000.",
+    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, youâll have timeless memories to cherish â all for Rs. 25,000.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756490508732.jpg",
     "included": [
       "2 hours of photography coverage",
