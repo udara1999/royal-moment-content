@@ -3,23 +3,23 @@
     "name": "Basic Birthday Package",
     "price": "LKR 7000",
     "type": "Birthday",
-    "description": "• 2 - hour session • 10 professionally edited photos • Digital delivery via Google Drive • Indoor or outdoor location",
+    "description": "Capture your special day with a 1-hour photoshoot, 10 beautifully edited photos, and quick digital delivery — at your favorite indoor or outdoor location. Perfect for keeping your birthday memories alive!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/basic-birthday-package/1756490235574.jpg",
     "included": [
       "Indoor or outdoor location",
       "Digital delivery via Google Drive",
       "10 professionally edited photos",
-      "1-hour session"
+      "2 - hour session"
     ],
     "createdAt": "2025-08-29T17:43:04.055Z",
-    "updatedAt": "2025-08-31T02:01:49.986Z",
+    "updatedAt": "2025-08-31T02:10:49.891Z",
     "id": 1
   },
   {
     "name": "Mini Moments Package (Basic & Quick)",
     "price": "LKR 25000",
     "type": "Wedding",
-    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, youÃ¢ÂÂll have timeless memories to cherish Ã¢ÂÂ all for Rs. 25,000.",
+    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, youÃÂ¢ÃÂÃÂll have timeless memories to cherish ÃÂ¢ÃÂÃÂ all for Rs. 25,000.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756490508732.jpg",
     "included": [
       "2 hours of photography coverage",
