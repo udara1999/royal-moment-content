@@ -3,7 +3,7 @@
     "name": "Basic Birthday Package",
     "price": "LKR 7000",
     "type": "Birthday",
-    "description": "Capture your special day with a 1-hour photoshoot, 10 beautifully edited photos, and quick digital delivery ÃÂ¢ÃÂÃÂ at your favorite indoor or outdoor location. Perfect for keeping your birthday memories alive!",
+    "description": "Capture your special day with a 1-hour photoshoot, 10 beautifully edited photos, and quick digital delivery ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ at your favorite indoor or outdoor location. Perfect for keeping your birthday memories alive!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/basic-birthday-package/1756490235574.jpg",
     "included": [
       "Indoor or outdoor location",
@@ -19,7 +19,7 @@
     "name": "Mini Moments Package (Basic & Quick)",
     "price": "LKR 25000",
     "type": "Wedding",
-    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, youÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂll have timeless memories to cherish ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ all for Rs. 25,000.",
+    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, youÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂll have timeless memories to cherish ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ all for Rs. 25,000.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756490508732.jpg",
     "included": [
       "2 hours of photography coverage",
@@ -34,13 +34,13 @@
     "name": "Standard Birthday Package",
     "price": "LKR 15000",
     "type": "Birthday",
-    "description": "Enjoy a 3-hour photoshoot with 25 professionally edited photos, a stylish digital album, and a large 11\"x14\" print Ã¢ÂÂ captured at your choice of indoor or outdoor location. Perfect for celebrating in style!",
+    "description": "Enjoy a 3-hour photoshoot with 25 professionally edited photos, a stylish digital album, and a large 11\"x14\" print ÃÂ¢ÃÂÃÂ captured at your choice of indoor or outdoor location. Perfect for celebrating in style!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/standard-birthday-package/1756606577230.jpg",
     "included": [
-      "Ã¢ÂÂ¢ 3-hour session",
-      "Ã¢ÂÂ¢ 30 professionally edited photos",
-      "Ã¢ÂÂ¢ Digital album for easy sharing",
-      "Ã¢ÂÂ¢ Indoor or outdoor location"
+      "ÃÂ¢ÃÂÃÂ¢ 3-hour session",
+      "ÃÂ¢ÃÂÃÂ¢ 30 professionally edited photos",
+      "ÃÂ¢ÃÂÃÂ¢ Digital album for easy sharing",
+      "ÃÂ¢ÃÂÃÂ¢ Indoor or outdoor location"
     ],
     "createdAt": "2025-08-31T02:16:17.230Z",
     "updatedAt": "2025-08-31T02:16:17.230Z",
@@ -53,12 +53,12 @@
     "description": "Celebrate big with 4 hours of photography coverage, 40+ beautifully edited photos, a premium 8\"x16\" mini album, and a stunning 12\"x18\" enlarged print. Includes indoor or outdoor coverage and an online gallery for easy sharing!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/premium-birthday-package/1756606864884.jpg",
     "included": [
-      "â¢ 4 hours of photography coverage",
-      "â¢ 40+ professionally edited photos",
-      "â¢ 8\"x16\" premium mini album (10 pages)",
-      "â¢ 1 enlarged 12\"x18\" print",
-      "â¢ Indoor o r outdoor location",
-      "â¢ Online gallery for easy sharing (Google drive)"
+      "Ã¢ÂÂ¢ 4 hours of photography coverage",
+      "Ã¢ÂÂ¢ 40+ professionally edited photos",
+      "Ã¢ÂÂ¢ 8\"x16\" premium mini album (10 pages)",
+      "Ã¢ÂÂ¢ 1 enlarged 12\"x18\" print",
+      "Ã¢ÂÂ¢ Indoor o r outdoor location",
+      "Ã¢ÂÂ¢ Online gallery for easy sharing (Google drive)"
     ],
     "createdAt": "2025-08-31T02:21:04.884Z",
     "updatedAt": "2025-08-31T02:21:04.884Z",
@@ -68,22 +68,37 @@
     "name": "Luxury Birthday Package",
     "price": "LKR 60000",
     "type": "Birthday",
-    "description": "Make your birthday unforgettable with 5 hours of full coverage, 60+ professionally edited photos, and a premium 8\"x22\" album. Enjoy two outfit changes, a 12\"x18\" enlarged print, and a cinematic 30-second video teaser. Delivered through an online gallery & USB drive — at your choice of indoor or outdoor location.",
+    "description": "Make your birthday unforgettable with 5 hours of full coverage, 60+ professionally edited photos, and a premium 8\"x22\" album. Enjoy two outfit changes, a 12\"x18\" enlarged print, and a cinematic 30-second video teaser. Delivered through an online gallery & USB drive â at your choice of indoor or outdoor location.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/luxury-birthday-package/1756607342801.jpg",
     "included": [
-      "• 5-hour session with multiple angles",
-      "• 60+ professionally edited photos",
-      "• 8\"x24\" high-quality birthday album (15 pages)",
-      "• 1 enlarged 16\"'x24\" print",
-      "• 1 enlarged 12\"'x18\" print",
-      "• Two outfit changes",
-      "• 30-second birthday video teaser",
-      "• Birthday event coverage",
-      "• Indoor or outdoor location",
-      "• Online gallery for easy sharing (Google drive) & USB drive"
+      "â¢ 5-hour session with multiple angles",
+      "â¢ 60+ professionally edited photos",
+      "â¢ 8\"x24\" high-quality birthday album (15 pages)",
+      "â¢ 1 enlarged 16\"'x24\" print",
+      "â¢ 1 enlarged 12\"'x18\" print",
+      "â¢ Two outfit changes",
+      "â¢ 30-second birthday video teaser",
+      "â¢ Birthday event coverage",
+      "â¢ Indoor or outdoor location",
+      "â¢ Online gallery for easy sharing (Google drive) & USB drive"
     ],
     "createdAt": "2025-08-31T02:29:02.801Z",
     "updatedAt": "2025-08-31T02:29:02.801Z",
     "id": 5
+  },
+  {
+    "name": "Mini Moments Package (Basic & Quick)",
+    "price": "LKR 25000",
+    "type": "Wedding",
+    "description": "Capture the key moments of your wedding with 2 hours of professional photography. Perfect for small or intimate ceremonies, this package includes one photographer and 25 beautifully edited photos delivered digitally.",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756607641859.JPG",
+    "included": [
+      "• 2 hours of photography coverage",
+      "• One professional photographer",
+      "• 25 edited photos (soft copies)"
+    ],
+    "createdAt": "2025-08-31T02:34:01.859Z",
+    "updatedAt": "2025-08-31T02:34:01.859Z",
+    "id": 6
   }
 ]
