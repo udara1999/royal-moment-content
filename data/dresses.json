@@ -37,6 +37,73 @@
     "order": 0
   },
   {
+    "name": "Glitter Off Shoulder Bodycon",
+    "price": "LKR 8000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1755859859513.jpg",
+    "tag": "Birthday,Party",
+    "createdAt": "2025-08-22T10:50:59.513Z",
+    "updatedAt": "2025-08-24T20:38:48.930Z",
+    "id": 26,
+    "dressCode": "C24",
+    "categories": [
+      "cat-8",
+      "cat-7",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-8-2",
+      "sub-7-5",
+      "sub-5-3",
+      "sub-8-1",
+      "sub-7-1",
+      "sub-5-1"
+    ],
+    "availableColors": [],
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005786455.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005789739.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005792632.jpg"
+    ],
+    "order": 1
+  },
+  {
+    "name": "White Long With Tail",
+    "price": "LKR 6000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756012363831.JPG",
+    "tag": "Engagement,Pre-Shoot,Birthday",
+    "createdAt": "2025-08-22T05:58:20.062Z",
+    "updatedAt": "2025-08-24T20:33:19.405Z",
+    "id": 14,
+    "dressCode": "C05",
+    "categories": [
+      "cat-2",
+      "cat-4",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-2-4",
+      "sub-4-2",
+      "sub-5-5",
+      "sub-2-1",
+      "sub-4-1",
+      "sub-5-1"
+    ],
+    "availableColors": [
+      "White",
+      "Champagne",
+      "Ivory"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004338507.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004340816.JPG",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004343554.JPG",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004345654.jpg"
+    ],
+    "order": 2
+  },
+  {
     "name": "Long Player Sleeveless Dress",
     "price": "LKR 5000",
     "designer": "Bridal Haven",
@@ -73,40 +140,80 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004206932.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004208789.jpg"
     ],
-    "order": 1
+    "order": 3
   },
   {
-    "name": "Velvet Body Fit Dress With Floral Work",
+    "name": "Glitter Bodycon With Straps",
     "price": "LKR 6000",
-    "designer": "Bridal Haven",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/blue-velvet/1755842810739.jpg",
-    "tag": "Pre-Shoot,Party",
-    "createdAt": "2025-08-22T06:06:50.739Z",
-    "updatedAt": "2025-08-29T16:38:28.160Z",
-    "id": 16,
-    "dressCode": "C08",
+    "designer": "Tharu",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1755859220965.jpg",
+    "tag": "Birthday,Glamour,Party",
+    "createdAt": "2025-08-22T06:20:01.723Z",
+    "updatedAt": "2025-08-24T20:37:07.784Z",
+    "id": 22,
+    "dressCode": "C16",
     "categories": [
       "cat-5",
-      "cat-4",
+      "cat-7",
       "cat-8"
     ],
     "subcategories": [
-      "sub-5-1",
       "sub-5-3",
-      "sub-4-1",
-      "sub-4-3",
+      "sub-7-5",
+      "sub-8-4",
       "sub-8-1",
-      "sub-8-5"
+      "sub-7-1",
+      "sub-5-1"
     ],
     "availableColors": [
+      "Green",
       "Navy",
       "Black",
-      "Green",
-      "Purple",
-      "Pink",
-      "Yellow"
+      "Red",
+      "Blush",
+      "Pink"
     ],
-    "order": 2
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005475010.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005477244.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005479145.jpg"
+    ],
+    "order": 4
+  },
+  {
+    "id": 8,
+    "name": "White and Blue Floral",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-and-blue-floral/1756011863956.jpg",
+    "price": "LKR 6000",
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Emerald",
+    "rating": 5,
+    "reviews": 31,
+    "designer": "Tharu",
+    "created_at": "2025-08-16 23:35:56",
+    "updated_at": "2025-08-16 23:35:56",
+    "updatedAt": "2025-08-29T16:38:41.876Z",
+    "tag": "Pre-Shoot,Engagement,",
+    "availableColors": [
+      "Blue"
+    ],
+    "dressCode": "C9",
+    "categories": [
+      "cat-2",
+      "cat-4"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-2-4",
+      "sub-2-1",
+      "sub-4-1"
+    ],
+    "order": 5
   },
   {
     "id": 4,
@@ -155,7 +262,7 @@
       "sub-8-1"
     ],
     "dressCode": "C13",
-    "order": 3
+    "order": 6
   },
   {
     "id": 7,
@@ -205,42 +312,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003561284.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003563204.jpg"
     ],
-    "order": 4
-  },
-  {
-    "id": 8,
-    "name": "White and Blue Floral",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-and-blue-floral/1756011863956.jpg",
-    "price": "LKR 6000",
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": "Emerald",
-    "rating": 5,
-    "reviews": 31,
-    "designer": "Tharu",
-    "created_at": "2025-08-16 23:35:56",
-    "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-29T16:38:41.876Z",
-    "tag": "Pre-Shoot,Engagement,",
-    "availableColors": [
-      "Blue"
-    ],
-    "dressCode": "C9",
-    "categories": [
-      "cat-2",
-      "cat-4"
-    ],
-    "subcategories": [
-      "sub-4-5",
-      "sub-2-4",
-      "sub-2-1",
-      "sub-4-1"
-    ],
-    "order": 5
+    "order": 7
   },
   {
     "id": 9,
@@ -292,7 +364,40 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003804944.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003806556.jpg"
     ],
-    "order": 6
+    "order": 8
+  },
+  {
+    "name": "Velvet Body Fit Dress With Floral Work",
+    "price": "LKR 6000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/blue-velvet/1755842810739.jpg",
+    "tag": "Pre-Shoot,Party",
+    "createdAt": "2025-08-22T06:06:50.739Z",
+    "updatedAt": "2025-08-29T16:38:28.160Z",
+    "id": 16,
+    "dressCode": "C08",
+    "categories": [
+      "cat-5",
+      "cat-4",
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-5-1",
+      "sub-5-3",
+      "sub-4-1",
+      "sub-4-3",
+      "sub-8-1",
+      "sub-8-5"
+    ],
+    "availableColors": [
+      "Navy",
+      "Black",
+      "Green",
+      "Purple",
+      "Pink",
+      "Yellow"
+    ],
+    "order": 9
   },
   {
     "name": "Georgette Long Dress With Trail",
@@ -327,7 +432,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004116781.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004119856.jpg"
     ],
-    "order": 7
+    "order": 10
   },
   {
     "name": "Lace Bodycon Dress",
@@ -358,7 +463,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1756004150346.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1756004151942.jpg"
     ],
-    "order": 8
+    "order": 11
   },
   {
     "name": "White Organza",
@@ -386,43 +491,7 @@
       "sub-4-1",
       "sub-5-1"
     ],
-    "order": 9
-  },
-  {
-    "name": "White Long With Tail",
-    "price": "LKR 6000",
-    "designer": "Bridal Haven",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756012363831.JPG",
-    "tag": "Engagement,Pre-Shoot,Birthday",
-    "createdAt": "2025-08-22T05:58:20.062Z",
-    "updatedAt": "2025-08-24T20:33:19.405Z",
-    "id": 14,
-    "dressCode": "C05",
-    "categories": [
-      "cat-2",
-      "cat-4",
-      "cat-5"
-    ],
-    "subcategories": [
-      "sub-2-4",
-      "sub-4-2",
-      "sub-5-5",
-      "sub-2-1",
-      "sub-4-1",
-      "sub-5-1"
-    ],
-    "availableColors": [
-      "White",
-      "Champagne",
-      "Ivory"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004338507.jpg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004340816.JPG",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004343554.JPG",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004345654.jpg"
-    ],
-    "order": 10
+    "order": 12
   },
   {
     "name": "One Shoulder Lehenga",
@@ -450,7 +519,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/one-shoulder-lehenga/1756004426592.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/one-shoulder-lehenga/1756004428657.jpg"
     ],
-    "order": 11
+    "order": 13
   },
   {
     "name": "Long Ruffle Dress",
@@ -485,7 +554,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-ruffle-dress/1756004692678.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-ruffle-dress/1756004694863.jpg"
     ],
-    "order": 12
+    "order": 14
   },
   {
     "name": "Long Dress With Velbon",
@@ -520,7 +589,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004792324.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004793791.jpg"
     ],
-    "order": 13
+    "order": 15
   },
   {
     "name": "Ruffle Lehenga",
@@ -546,7 +615,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005397666.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005402109.jpg"
     ],
-    "order": 14
+    "order": 16
   },
   {
     "name": "Short Frill With Separate Sleeve",
@@ -581,7 +650,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005056503.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005058102.jpg"
     ],
-    "order": 15
+    "order": 17
   },
   {
     "name": "Velvet Long Dress With Back Knot",
@@ -618,45 +687,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005432020.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005434060.jpg"
     ],
-    "order": 16
-  },
-  {
-    "name": "Glitter Bodycon With Straps",
-    "price": "LKR 6000",
-    "designer": "Tharu",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1755859220965.jpg",
-    "tag": "Birthday,Glamour,Party",
-    "createdAt": "2025-08-22T06:20:01.723Z",
-    "updatedAt": "2025-08-24T20:37:07.784Z",
-    "id": 22,
-    "dressCode": "C16",
-    "categories": [
-      "cat-5",
-      "cat-7",
-      "cat-8"
-    ],
-    "subcategories": [
-      "sub-5-3",
-      "sub-7-5",
-      "sub-8-4",
-      "sub-8-1",
-      "sub-7-1",
-      "sub-5-1"
-    ],
-    "availableColors": [
-      "Green",
-      "Navy",
-      "Black",
-      "Red",
-      "Blush",
-      "Pink"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005475010.jpg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005477244.jpg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005479145.jpg"
-    ],
-    "order": 17
+    "order": 18
   },
   {
     "name": "Floral Frill Dress",
@@ -683,7 +714,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005512193.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005514133.jpg"
     ],
-    "order": 18
+    "order": 19
   },
   {
     "name": "Long Frill With Ruffle",
@@ -715,7 +746,7 @@
       "Red",
       "Blue"
     ],
-    "order": 19
+    "order": 20
   },
   {
     "name": "Lehenga With Layers",
@@ -741,37 +772,6 @@
       "Blush",
       "Ivory",
       "Black"
-    ],
-    "order": 20
-  },
-  {
-    "name": "Glitter Off Shoulder Bodycon",
-    "price": "LKR 8000",
-    "designer": "Bridal Haven",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1755859859513.jpg",
-    "tag": "Birthday,Party",
-    "createdAt": "2025-08-22T10:50:59.513Z",
-    "updatedAt": "2025-08-24T20:38:48.930Z",
-    "id": 26,
-    "dressCode": "C24",
-    "categories": [
-      "cat-8",
-      "cat-7",
-      "cat-5"
-    ],
-    "subcategories": [
-      "sub-8-2",
-      "sub-7-5",
-      "sub-5-3",
-      "sub-8-1",
-      "sub-7-1",
-      "sub-5-1"
-    ],
-    "availableColors": [],
-    "images": [
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005786455.jpg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005789739.jpg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005792632.jpg"
     ],
     "order": 21
   }
