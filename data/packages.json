@@ -34,16 +34,16 @@
     "name": "Standard Birthday Package",
     "price": "LKR 15000",
     "type": "Birthday",
-    "description": "Enjoy a 3-hour photoshoot with 25 professionally edited photos, a stylish digital album, and a large 11\"x14\" print ÃÂ¢ÃÂÃÂ captured at your choice of indoor or outdoor location. Perfect for celebrating in style!",
+    "description": "Enjoy a 3-hour photoshoot with 25 professionally edited photos, a stylish digital album, and a large 11\"x14\" print. captured at your choice of indoor or outdoor location. Perfect for celebrating in style!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/standard-birthday-package/1756606577230.jpg",
     "included": [
-      "ÃÂ¢ÃÂÃÂ¢ 3-hour session",
-      "ÃÂ¢ÃÂÃÂ¢ 30 professionally edited photos",
-      "ÃÂ¢ÃÂÃÂ¢ Digital album for easy sharing",
-      "ÃÂ¢ÃÂÃÂ¢ Indoor or outdoor location"
+      "3-hour session",
+      "30 professionally edited photos",
+      "Digital album for easy sharing",
+      "Indoor or outdoor location"
     ],
     "createdAt": "2025-08-31T02:16:17.230Z",
-    "updatedAt": "2025-08-31T02:16:17.230Z",
+    "updatedAt": "2025-09-01T13:59:04.209Z",
     "id": 3
   },
   {
