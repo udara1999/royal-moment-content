@@ -12,7 +12,7 @@
       "2 - hour session"
     ],
     "createdAt": "2025-08-29T17:43:04.055Z",
-    "updatedAt": "2025-09-01T14:49:14.055Z",
+    "updatedAt": "2025-09-01T15:20:37.979Z",
     "id": 1,
     "offers": [
       {
@@ -23,7 +23,7 @@
         "value": "",
         "startDate": "2025-09-01T00:00:00.000Z",
         "endDate": "2025-09-12T00:00:00.000Z",
-        "isActive": true,
+        "isActive": false,
         "priority": 1
       }
     ]
