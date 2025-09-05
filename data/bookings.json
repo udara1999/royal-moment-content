@@ -1,43 +1,5 @@
 [
   {
-    "bookingDate": "2025-09-05T15:02:58.375Z",
-    "status": "pending",
-    "customerInfo": {
-      "firstName": "Udara",
-      "lastName": "Prabath",
-      "email": "udaraprabathrcp@gmail.com",
-      "phone": "+94756470925",
-      "whatsapp": "0756470925"
-    },
-    "eventDetails": {
-      "eventDate": "2025-09-19",
-      "preferredFittingDate": "2025-09-06",
-      "preferredFittingTime": "15:30"
-    },
-    "dressDetails": {
-      "dressName": "White Long With Tail",
-      "dressDesigner": "Bridal Haven",
-      "dressPrice": "LKR 6000",
-      "dressCode": "C05",
-      "dressCategory": "Engagement, Pre-shoot, Birthday",
-      "dressSubcategory": "Fit and Flare Dress, Tail Dress, Long Gown",
-      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756012363831.JPG",
-      "selectedColor": "White",
-      "availableColors": [
-        "White",
-        "Champagne",
-        "Ivory"
-      ]
-    },
-    "additionalInfo": {
-      "message": "I'm interested in booking the dress: White Long With Tail by Bridal Haven (LKR 6000) - Code: C05. Please provide more details about my requirements.",
-      "newsletter": false
-    },
-    "createdAt": "2025-09-05T15:02:58.375Z",
-    "updatedAt": "2025-09-05T15:02:58.375Z",
-    "id": null
-  },
-  {
     "bookingDate": "2025-09-05T15:12:42.516Z",
     "status": "pending",
     "customerInfo": {
