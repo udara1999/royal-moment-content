@@ -25,12 +25,12 @@
       "newsletter": false
     },
     "createdAt": "2025-09-05T15:12:42.516Z",
-    "updatedAt": "2025-09-05T16:11:10.541Z",
+    "updatedAt": "2025-09-05T16:12:56.460Z",
     "id": 1,
     "notes": "",
     "rentalDetails": {
-      "collectionDate": "2025-09-06",
-      "returnDate": "2025-09-09",
+      "collectionDate": "2025-09-25",
+      "returnDate": "2025-09-28",
       "rentalDuration": 3
     }
   },
