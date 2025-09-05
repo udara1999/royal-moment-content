@@ -36,5 +36,34 @@
     "createdAt": "2025-09-05T15:02:58.375Z",
     "updatedAt": "2025-09-05T15:02:58.375Z",
     "id": null
+  },
+  {
+    "bookingDate": "2025-09-05T15:12:42.516Z",
+    "status": "pending",
+    "customerInfo": {
+      "firstName": "Udara",
+      "lastName": "Prabath",
+      "email": "udaraprabathrcp@gmail.com",
+      "phone": "+94756470925"
+    },
+    "eventDetails": {
+      "eventDate": "2025-09-25",
+      "preferredFittingDate": "2025-09-13",
+      "preferredFittingTime": "09:30"
+    },
+    "dressDetails": {
+      "dressName": "Long Player Sleeveless Dress",
+      "dressPrice": "LKR 5000",
+      "dressCode": "C03",
+      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1755858152206.jpg",
+      "selectedColor": "Navy"
+    },
+    "additionalInfo": {
+      "message": "I'm interested in booking the dress: Long Player Sleeveless Dress by Bridal Haven (LKR 5000) - Code: C03. Please provide more details about my requirements.",
+      "newsletter": false
+    },
+    "createdAt": "2025-09-05T15:12:42.516Z",
+    "updatedAt": "2025-09-05T15:12:42.516Z",
+    "id": 1
   }
 ]
