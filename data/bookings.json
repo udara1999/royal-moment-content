@@ -36,7 +36,7 @@
   },
   {
     "bookingDate": "2025-09-05T15:21:27.755Z",
-    "status": "pending",
+    "status": "confirmed",
     "customerInfo": {
       "firstName": "Udara",
       "lastName": "Prabath",
@@ -60,7 +60,13 @@
       "newsletter": false
     },
     "createdAt": "2025-09-05T15:21:27.755Z",
-    "updatedAt": "2025-09-05T15:21:27.755Z",
-    "id": 2
+    "updatedAt": "2025-09-08T06:02:10.485Z",
+    "id": 2,
+    "notes": "",
+    "rentalDetails": {
+      "collectionDate": "2025-09-27",
+      "returnDate": "2025-09-29",
+      "rentalDuration": 2
+    }
   }
 ]
