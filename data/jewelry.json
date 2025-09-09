@@ -64,5 +64,16 @@
     "updatedAt": "2025-09-09T08:48:40.243Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/antique-silver-floral-jhumkas/1757407720243.jpg",
     "id": 6
+  },
+  {
+    "name": "Stone Sterling Silver Hoop ",
+    "price": "500",
+    "type": "Earrings",
+    "material": "Silver",
+    "tag": "Birthday, Party, Pre-Shoot",
+    "createdAt": "2025-09-09T08:50:37.231Z",
+    "updatedAt": "2025-09-09T08:50:37.231Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/stone-sterling-silver-hoop-/1757407837231.jpg",
+    "id": 7
   }
 ]
