@@ -53,5 +53,16 @@
     "updatedAt": "2025-09-09T08:46:28.150Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/gradient-pearl-drop/1757407588150.jpg",
     "id": 5
+  },
+  {
+    "name": "Antique Silver Floral Jhumkas",
+    "price": "800",
+    "type": "Earrings",
+    "material": "Silver",
+    "tag": "Birthday, Pre-Shoot, Party",
+    "createdAt": "2025-09-09T08:48:40.243Z",
+    "updatedAt": "2025-09-09T08:48:40.243Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/antique-silver-floral-jhumkas/1757407720243.jpg",
+    "id": 6
   }
 ]
