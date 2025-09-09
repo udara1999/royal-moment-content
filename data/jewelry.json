@@ -15,19 +15,5 @@
     "type": "Ring",
     "tag": "",
     "updatedAt": "2025-08-18T16:29:11.523Z"
-  },
-  {
-    "id": 5,
-    "name": "Gold Leaf Choker",
-    "category": "statement",
-    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80"
-    ],
-    "price": "Rs. 240,000",
-    "material": "22K Gold, Hand-Engraved",
-    "rating": 4.9,
-    "reviews": 11,
-    "description": "Artistic gold work inspired by nature"
   }
 ]
