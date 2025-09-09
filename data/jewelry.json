@@ -86,5 +86,16 @@
     "updatedAt": "2025-09-09T08:52:06.482Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/large-rhinestone-dangle-hoop/1757407926482.jpg",
     "id": 8
+  },
+  {
+    "name": "Rhinestone Waterfall Dangle",
+    "price": "500",
+    "type": "Earrings",
+    "material": "Silver",
+    "tag": "Birthday, Wedding, Party, Pre-Shoot",
+    "createdAt": "2025-09-09T08:54:02.993Z",
+    "updatedAt": "2025-09-09T08:54:02.993Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/rhinestone-waterfall-dangle/1757408042993.jpg",
+    "id": 9
   }
 ]
