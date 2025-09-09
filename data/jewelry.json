@@ -31,5 +31,16 @@
     "updatedAt": "2025-09-09T08:41:51.537Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/red-roses-pearls-and-crystals/1757407311537.jpg",
     "id": 3
+  },
+  {
+    "name": "Sparkling Silver-Tone American Diamond Choker Set",
+    "price": "1500",
+    "type": "Necklace",
+    "material": "Diamond",
+    "tag": "Pre-Shoot, Birthday, Party",
+    "createdAt": "2025-09-09T08:44:30.240Z",
+    "updatedAt": "2025-09-09T08:44:30.240Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/sparkling-silver-tone-american-diamond-choker-set/1757407470240.jpg",
+    "id": 4
   }
 ]
