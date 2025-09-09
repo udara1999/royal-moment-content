@@ -68,5 +68,39 @@
       "returnDate": "2025-09-29",
       "rentalDuration": 2
     }
+  },
+  {
+    "bookingDate": "2025-09-09T16:26:57.595Z",
+    "status": "confirmed",
+    "customerInfo": {
+      "firstName": "Udara ",
+      "lastName": "Prabath",
+      "email": "udara@as.com",
+      "phone": "94756470925",
+      "nicNumber": "990090165v"
+    },
+    "eventDetails": {
+      "eventDate": "2025-09-27",
+      "preferredFittingDate": "2025-09-20",
+      "preferredFittingTime": "16:30"
+    },
+    "dressDetails": {
+      "dressName": "Strap Long Dress With Frill",
+      "dressPrice": "LKR 5000",
+      "dressCode": "C21",
+      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/midnight-elegance/1755588066906.jpg",
+      "selectedColor": "Blue"
+    },
+    "additionalInfo": {
+      "newsletter": false
+    },
+    "rentalDetails": {
+      "collectionDate": "2025-09-26",
+      "returnDate": "2025-09-29",
+      "rentalDuration": 3
+    },
+    "createdAt": "2025-09-09T16:26:57.595Z",
+    "updatedAt": "2025-09-09T16:26:57.595Z",
+    "id": 3
   }
 ]
