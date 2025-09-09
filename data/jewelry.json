@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "Pearl & Blossom Hair Vine",
+    "price": "500",
+    "type": "Tiara",
+    "material": "Silver",
+    "tag": "Birthday, Pre-Soot",
+    "createdAt": "2025-09-09T08:35:05.206Z",
+    "updatedAt": "2025-09-09T08:35:05.206Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/pearl-blossom-hair-vine/1757406905206.jpg",
+    "id": 1
+  }
+]
