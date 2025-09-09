@@ -75,5 +75,16 @@
     "updatedAt": "2025-09-09T08:50:37.231Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/stone-sterling-silver-hoop-/1757407837231.jpg",
     "id": 7
+  },
+  {
+    "name": "Large Rhinestone Dangle Hoop",
+    "price": "800",
+    "type": "Earrings",
+    "material": "Silver",
+    "tag": "Birthday, Party, Pre-Shoot, Wedding",
+    "createdAt": "2025-09-09T08:52:06.482Z",
+    "updatedAt": "2025-09-09T08:52:06.482Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/large-rhinestone-dangle-hoop/1757407926482.jpg",
+    "id": 8
   }
 ]
