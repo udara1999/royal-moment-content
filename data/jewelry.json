@@ -17,23 +17,6 @@
     "updatedAt": "2025-08-18T16:29:11.523Z"
   },
   {
-    "id": 2,
-    "name": "Emerald Royal Earrings",
-    "category": "statement",
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80"
-    ],
-    "price": "Rs. 20,000",
-    "material": "White Gold",
-    "rating": 4.9,
-    "reviews": 8,
-    "description": "Regal emerald drops with gold accents",
-    "type": "Bracelet",
-    "tag": "",
-    "updatedAt": "2025-08-18T16:29:28.842Z"
-  },
-  {
     "id": 3,
     "name": "Pearl Cascade Bracelet",
     "category": "luxury",
