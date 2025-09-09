@@ -64,7 +64,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005789739.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005792632.jpg"
     ],
-    "order": 1
+    "order": 1,
+    "isAvailable": true
   },
   {
     "name": "White Long With Tail",
@@ -100,7 +101,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004343554.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004345654.jpg"
     ],
-    "order": 2
+    "order": 2,
+    "isAvailable": true
   },
   {
     "name": "Long Player Sleeveless Dress",
@@ -139,7 +141,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004206932.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004208789.jpg"
     ],
-    "order": 3
+    "order": 3,
+    "isAvailable": true
   },
   {
     "name": "Glitter Bodycon With Straps",
@@ -177,7 +180,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005477244.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005479145.jpg"
     ],
-    "order": 4
+    "order": 4,
+    "isAvailable": true
   },
   {
     "id": 8,
@@ -212,7 +216,8 @@
       "sub-2-1",
       "sub-4-1"
     ],
-    "order": 5
+    "order": 5,
+    "isAvailable": true
   },
   {
     "id": 4,
@@ -261,7 +266,8 @@
       "sub-8-1"
     ],
     "dressCode": "C13",
-    "order": 6
+    "order": 6,
+    "isAvailable": true
   },
   {
     "id": 7,
@@ -311,7 +317,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003561284.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003563204.jpg"
     ],
-    "order": 7
+    "order": 7,
+    "isAvailable": true
   },
   {
     "id": 9,
@@ -363,7 +370,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003804944.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003806556.jpg"
     ],
-    "order": 8
+    "order": 8,
+    "isAvailable": true
   },
   {
     "name": "Velvet Body Fit Dress With Floral Work",
@@ -396,7 +404,8 @@
       "Pink",
       "Yellow"
     ],
-    "order": 9
+    "order": 9,
+    "isAvailable": true
   },
   {
     "name": "Georgette Long Dress With Trail",
@@ -431,7 +440,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004116781.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004119856.jpg"
     ],
-    "order": 10
+    "order": 10,
+    "isAvailable": true
   },
   {
     "name": "Lace Bodycon Dress",
@@ -462,7 +472,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1756004150346.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1756004151942.jpg"
     ],
-    "order": 11
+    "order": 11,
+    "isAvailable": true
   },
   {
     "name": "White Organza",
@@ -490,7 +501,8 @@
       "sub-4-1",
       "sub-5-1"
     ],
-    "order": 12
+    "order": 12,
+    "isAvailable": true
   },
   {
     "name": "One Shoulder Lehenga",
@@ -518,7 +530,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/one-shoulder-lehenga/1756004426592.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/one-shoulder-lehenga/1756004428657.jpg"
     ],
-    "order": 13
+    "order": 13,
+    "isAvailable": true
   },
   {
     "name": "Long Ruffle Dress",
@@ -553,7 +566,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-ruffle-dress/1756004692678.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-ruffle-dress/1756004694863.jpg"
     ],
-    "order": 14
+    "order": 14,
+    "isAvailable": true
   },
   {
     "name": "Long Dress With Velbon",
@@ -588,7 +602,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004792324.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004793791.jpg"
     ],
-    "order": 15
+    "order": 15,
+    "isAvailable": true
   },
   {
     "name": "Ruffle Lehenga",
@@ -614,7 +629,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005397666.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005402109.jpg"
     ],
-    "order": 16
+    "order": 16,
+    "isAvailable": true
   },
   {
     "name": "Short Frill With Separate Sleeve",
@@ -649,7 +665,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005056503.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005058102.jpg"
     ],
-    "order": 17
+    "order": 17,
+    "isAvailable": true
   },
   {
     "name": "Velvet Long Dress With Back Knot",
@@ -686,7 +703,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005432020.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005434060.jpg"
     ],
-    "order": 18
+    "order": 18,
+    "isAvailable": true
   },
   {
     "name": "Floral Frill Dress",
@@ -713,7 +731,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005512193.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005514133.jpg"
     ],
-    "order": 19
+    "order": 19,
+    "isAvailable": true
   },
   {
     "name": "Long Frill With Ruffle",
@@ -745,7 +764,8 @@
       "Red",
       "Blue"
     ],
-    "order": 20
+    "order": 20,
+    "isAvailable": true
   },
   {
     "name": "Lehenga With Layers",
@@ -772,6 +792,7 @@
       "Ivory",
       "Black"
     ],
-    "order": 21
+    "order": 21,
+    "isAvailable": true
   }
 ]
