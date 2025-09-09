@@ -42,5 +42,16 @@
     "updatedAt": "2025-09-09T08:44:54.288Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/sparkling-silver-tone-american-diamond-choker-set/1757407470240.jpg",
     "id": 4
+  },
+  {
+    "name": "Gradient Pearl Drop",
+    "price": "500",
+    "type": "Earrings",
+    "material": "Silver",
+    "tag": "Birthday, Pre-Shoot, Wedding, Party",
+    "createdAt": "2025-09-09T08:46:28.150Z",
+    "updatedAt": "2025-09-09T08:46:28.150Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/gradient-pearl-drop/1757407588150.jpg",
+    "id": 5
   }
 ]
