@@ -135,5 +135,35 @@
     "createdAt": "2025-09-09T16:53:38.810Z",
     "updatedAt": "2025-09-09T16:53:38.810Z",
     "id": 4
+  },
+  {
+    "bookingDate": "2025-09-09T16:56:53.064Z",
+    "status": "pending",
+    "customerInfo": {
+      "firstName": "Udara Prabath",
+      "lastName": "aaaaaa",
+      "email": "mhegde_evry+unmappedQA@workwave.com",
+      "phone": "+94756470925"
+    },
+    "eventDetails": {
+      "eventDate": "2025-09-11",
+      "preferredFittingDate": "2025-09-10",
+      "preferredFittingTime": "17:00"
+    },
+    "dressDetails": {
+      "dressName": "White and Blue Floral",
+      "dressPrice": "LKR 6000",
+      "dressCode": "C9",
+      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-and-blue-floral/1756011863956.jpg",
+      "selectedColor": "Blue"
+    },
+    "additionalInfo": {
+      "message": "I'm interested in booking the dress: White and Blue Floral by Tharu (LKR 6000) - Code: C9. Please provide more details about my requirements.",
+      "newsletter": false
+    },
+    "rentalDetails": {},
+    "createdAt": "2025-09-09T16:56:53.064Z",
+    "updatedAt": "2025-09-09T16:56:53.064Z",
+    "id": 5
   }
 ]
