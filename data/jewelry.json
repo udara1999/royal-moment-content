@@ -17,20 +17,6 @@
     "updatedAt": "2025-08-18T16:29:11.523Z"
   },
   {
-    "id": 4,
-    "name": "Sapphire Crown Ring",
-    "category": "bridal",
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
-    ],
-    "price": "Rs. 280,000",
-    "material": "Platinum, Blue Sapphire, Diamonds",
-    "rating": 5,
-    "reviews": 6,
-    "description": "Royal blue sapphire with diamond halo"
-  },
-  {
     "id": 5,
     "name": "Gold Leaf Choker",
     "category": "statement",
