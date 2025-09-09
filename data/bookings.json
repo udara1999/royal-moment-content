@@ -1,7 +1,7 @@
 [
   {
     "bookingDate": "2025-09-05T15:12:42.516Z",
-    "status": "confirmed",
+    "status": "completed",
     "customerInfo": {
       "firstName": "Udara",
       "lastName": "Prabath",
@@ -25,7 +25,7 @@
       "newsletter": false
     },
     "createdAt": "2025-09-05T15:12:42.516Z",
-    "updatedAt": "2025-09-05T16:12:56.460Z",
+    "updatedAt": "2025-09-09T15:51:33.091Z",
     "id": 1,
     "notes": "",
     "rentalDetails": {
