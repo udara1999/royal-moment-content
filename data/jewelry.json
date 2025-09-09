@@ -17,20 +17,6 @@
     "updatedAt": "2025-08-18T16:29:11.523Z"
   },
   {
-    "id": 3,
-    "name": "Pearl Cascade Bracelet",
-    "category": "luxury",
-    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80"
-    ],
-    "price": "Rs. 180,000",
-    "material": "Tahitian Pearls, 14K Gold",
-    "rating": 4.8,
-    "reviews": 15,
-    "description": "Lustrous pearls in a flowing design"
-  },
-  {
     "id": 4,
     "name": "Sapphire Crown Ring",
     "category": "bridal",
