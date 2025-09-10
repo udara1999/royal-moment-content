@@ -12,21 +12,9 @@
       "2 - hour session"
     ],
     "createdAt": "2025-08-29T17:43:04.055Z",
-    "updatedAt": "2025-09-01T15:20:37.979Z",
+    "updatedAt": "2025-09-10T05:57:07.217Z",
     "id": 1,
-    "offers": [
-      {
-        "id": "offer_1756738154055",
-        "title": "New Offer",
-        "description": "We are happy to introduce newly added offer for Basic birthday package. With this offer you will receive 5min high quality video. Only until 12th Sep.",
-        "type": "free_video",
-        "value": "",
-        "startDate": "2025-09-01T00:00:00.000Z",
-        "endDate": "2025-09-12T00:00:00.000Z",
-        "isActive": false,
-        "priority": 1
-      }
-    ]
+    "offers": []
   },
   {
     "name": "Mini Moments Package (Basic & Quick)",
