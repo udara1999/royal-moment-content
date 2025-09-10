@@ -14,22 +14,8 @@
     "createdAt": "2025-08-29T17:43:04.055Z",
     "updatedAt": "2025-09-10T05:57:07.217Z",
     "id": 1,
-    "offers": []
-  },
-  {
-    "name": "Mini Moments Package (Basic & Quick)",
-    "price": "LKR 25000",
-    "type": "Wedding",
-    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, all for Rs. 25,000.",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756490508732.jpg",
-    "included": [
-      "2 hours of photography coverage",
-      "One professional photographer",
-      "10 edited photos (soft copies)"
-    ],
-    "createdAt": "2025-08-29T18:01:48.731Z",
-    "updatedAt": "2025-09-01T13:59:38.903Z",
-    "id": 2
+    "offers": [],
+    "order": 0
   },
   {
     "name": "Standard Birthday Package",
@@ -58,7 +44,8 @@
         "isActive": true,
         "priority": 3
       }
-    ]
+    ],
+    "order": 1
   },
   {
     "name": "Premium Birthday Package",
@@ -76,7 +63,8 @@
     ],
     "createdAt": "2025-08-31T02:21:04.884Z",
     "updatedAt": "2025-09-01T14:00:14.888Z",
-    "id": 4
+    "id": 4,
+    "order": 2
   },
   {
     "name": "Luxury Birthday Package",
@@ -98,7 +86,24 @@
     ],
     "createdAt": "2025-08-31T02:29:02.801Z",
     "updatedAt": "2025-09-01T14:01:20.768Z",
-    "id": 5
+    "id": 5,
+    "order": 3
+  },
+  {
+    "name": "Mini Moments Package (Basic & Quick)",
+    "price": "LKR 25000",
+    "type": "Wedding",
+    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 10 beautifully edited digital photos, all for Rs. 25,000.",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756490508732.jpg",
+    "included": [
+      "2 hours of photography coverage",
+      "One professional photographer",
+      "10 edited photos (soft copies)"
+    ],
+    "createdAt": "2025-08-29T18:01:48.731Z",
+    "updatedAt": "2025-09-01T13:59:38.903Z",
+    "id": 2,
+    "order": 4
   },
   {
     "name": "Mini Moments Package (Basic & Quick)",
@@ -113,6 +118,7 @@
     ],
     "createdAt": "2025-08-31T02:34:01.859Z",
     "updatedAt": "2025-09-01T14:01:44.160Z",
-    "id": 6
+    "id": 6,
+    "order": 5
   }
 ]
