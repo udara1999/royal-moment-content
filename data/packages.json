@@ -44,8 +44,21 @@
       "Indoor or outdoor location"
     ],
     "createdAt": "2025-08-31T02:16:17.230Z",
-    "updatedAt": "2025-09-01T13:59:04.209Z",
-    "id": 3
+    "updatedAt": "2025-09-10T06:00:25.295Z",
+    "id": 3,
+    "offers": [
+      {
+        "id": "offer_1757484025295",
+        "title": "✨ Limited Time Offer at Royal Moments Studio ✨",
+        "description": "Book any of our packages today and receive a FREE 12\"x18\" Enlargement Print of your favorite photo! 🎁",
+        "type": "custom",
+        "value": "",
+        "startDate": "2025-09-08T00:00:00.000Z",
+        "endDate": "2025-10-08T00:00:00.000Z",
+        "isActive": true,
+        "priority": 3
+      }
+    ]
   },
   {
     "name": "Premium Birthday Package",
