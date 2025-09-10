@@ -97,5 +97,16 @@
     "updatedAt": "2025-09-09T08:54:02.993Z",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/rhinestone-waterfall-dangle/1757408042993.jpg",
     "id": 9
+  },
+  {
+    "name": "Rhinestone Necklace",
+    "price": "1000",
+    "type": "Necklace",
+    "material": "Diamond",
+    "tag": "Birthday, Party, Wedding, Pre-Shoot",
+    "createdAt": "2025-09-10T05:46:27.384Z",
+    "updatedAt": "2025-09-10T05:46:27.384Z",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/jewelry/rhinestone-necklace/1757483187385.jpg",
+    "id": 10
   }
 ]
