@@ -10,5 +10,17 @@
     "createdAt": "2025-09-01T15:54:34.953Z",
     "updatedAt": "2025-09-10T06:05:01.731Z",
     "id": null
+  },
+  {
+    "date": "2025-10-06",
+    "name": "Poya",
+    "description": "",
+    "type": "religious_holiday",
+    "isRecurring": false,
+    "recurringMonth": 1,
+    "recurringDay": 1,
+    "createdAt": "2025-09-10T06:09:55.155Z",
+    "updatedAt": "2025-09-10T06:09:55.155Z",
+    "id": 1
   }
 ]
