@@ -861,5 +861,21 @@
       "cat-4-4"
     ],
     "order": 18
+  },
+  {
+    "title": "Maleesha's Portrait",
+    "category": "Portrait Photoshoot",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-portrait/1757483658808.jpg",
+    "location": "Aluthgama",
+    "likes": 0,
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-1"
+    ],
+    "createdAt": "2025-09-10T05:54:18.808Z",
+    "updatedAt": "2025-09-10T05:54:18.808Z",
+    "id": 21
   }
 ]
