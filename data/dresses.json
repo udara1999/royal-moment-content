@@ -16,7 +16,7 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-09-09T16:50:13.214Z",
+    "updatedAt": "2025-09-12T13:17:56.018Z",
     "availableColors": [
       "Blue",
       "White",
@@ -33,7 +33,18 @@
     ],
     "images": [],
     "order": 0,
-    "isAvailable": false
+    "isAvailable": false,
+    "offer": {
+      "id": "offer_1757683076017",
+      "title": "Free Neckless ",
+      "description": "Get a free neckless for all the booking with this",
+      "type": "bonus_item",
+      "value": "Neckless ",
+      "startDate": "2025-09-11T00:00:00.000Z",
+      "endDate": "2025-09-13T00:00:00.000Z",
+      "isActive": true,
+      "priority": 1
+    }
   },
   {
     "name": "Glitter Off Shoulder Bodycon",
