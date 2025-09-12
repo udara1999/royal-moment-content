@@ -16,7 +16,7 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-09-12T13:42:41.269Z",
+    "updatedAt": "2025-09-12T14:15:17.859Z",
     "availableColors": [
       "Blue",
       "White",
@@ -44,7 +44,9 @@
       "endDate": "2025-09-30T00:00:00.000Z",
       "isActive": true,
       "priority": 1
-    }
+    },
+    "isAvailableForSale": true,
+    "sellPrice": "LKR 15000"
   },
   {
     "name": "Glitter Off Shoulder Bodycon",
