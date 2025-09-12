@@ -50,22 +50,10 @@
       "Online gallery for easy sharing (Google drive)"
     ],
     "createdAt": "2025-08-31T02:21:04.884Z",
-    "updatedAt": "2025-09-12T13:44:59.011Z",
+    "updatedAt": "2025-09-12T13:58:37.622Z",
     "id": 4,
     "order": 2,
-    "offers": [
-      {
-        "id": "offer_1757684699011",
-        "title": "Test Offer",
-        "description": "test offer",
-        "type": "custom",
-        "value": "",
-        "startDate": "2025-09-12T00:00:00.000Z",
-        "endDate": "2025-09-30T00:00:00.000Z",
-        "isActive": true,
-        "priority": 1
-      }
-    ]
+    "offers": []
   },
   {
     "name": "Luxury Birthday Package",
