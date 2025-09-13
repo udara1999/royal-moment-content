@@ -1,41 +1,5 @@
 [
   {
-    "bookingDate": "2025-09-10T15:28:19.810Z",
-    "status": "confirmed",
-    "customerInfo": {
-      "firstName": "Sadali",
-      "lastName": "Perera",
-      "email": "dadsgtffhhy@gmail.com",
-      "phone": "568899678",
-      "whatsapp": "45788",
-      "nicNumber": "Tuihh"
-    },
-    "eventDetails": {
-      "eventDate": "2025-09-18",
-      "preferredFittingDate": "2025-09-10",
-      "preferredFittingTime": "13:00"
-    },
-    "dressDetails": {
-      "dressName": "White and Blue Floral",
-      "dressPrice": "LKR 6000",
-      "dressCode": "C9",
-      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-and-blue-floral/1756011863956.jpg",
-      "selectedColor": "Blue"
-    },
-    "additionalInfo": {
-      "newsletter": false
-    },
-    "rentalDetails": {
-      "collectionDate": "2025-09-17",
-      "returnDate": "2025-09-19",
-      "rentalDuration": 1
-    },
-    "createdAt": "2025-09-10T15:28:19.810Z",
-    "updatedAt": "2025-09-10T15:29:11.391Z",
-    "id": 6,
-    "notes": ""
-  },
-  {
     "bookingDate": "2025-09-13T02:51:53.692Z",
     "status": "confirmed",
     "customerInfo": {
