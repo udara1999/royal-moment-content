@@ -171,5 +171,39 @@
     "updatedAt": "2025-09-10T15:29:11.391Z",
     "id": 6,
     "notes": ""
+  },
+  {
+    "bookingDate": "2025-09-13T02:51:53.692Z",
+    "status": "confirmed",
+    "customerInfo": {
+      "firstName": "Sanka",
+      "lastName": "Madu",
+      "email": "jeewanthadilshan@gmail.com",
+      "phone": "770823428",
+      "whatsapp": "770823428",
+      "nicNumber": "992655437V"
+    },
+    "eventDetails": {
+      "eventDate": "2025-09-13",
+      "preferredFittingDate": "2025-09-13",
+      "preferredFittingTime": "17:30"
+    },
+    "dressDetails": {
+      "dressName": "Short Frill With Separate Sleeve",
+      "dressPrice": "LKR 4000",
+      "dressCode": "C14",
+      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1755859030048.jpg",
+      "selectedColor": "Pink"
+    },
+    "additionalInfo": {
+      "newsletter": false
+    },
+    "rentalDetails": {
+      "returnDate": "2025-09-14",
+      "rentalDuration": 1
+    },
+    "createdAt": "2025-09-13T02:51:53.692Z",
+    "updatedAt": "2025-09-13T02:51:53.692Z",
+    "id": 7
   }
 ]
