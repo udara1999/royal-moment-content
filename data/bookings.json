@@ -33,5 +33,39 @@
     "updatedAt": "2025-09-13T02:52:44.894Z",
     "id": 7,
     "notes": "No Adjustment"
+  },
+  {
+    "bookingDate": "2025-09-14T09:55:32.801Z",
+    "status": "confirmed",
+    "customerInfo": {
+      "firstName": "Dasuni",
+      "lastName": "Perera",
+      "email": "jeewanthadilsha@gmail.com",
+      "phone": "779012280",
+      "whatsapp": "779012280",
+      "nicNumber": "096747882V"
+    },
+    "eventDetails": {
+      "eventDate": "2025-09-27",
+      "preferredFittingDate": "2025-09-14",
+      "preferredFittingTime": "15:30"
+    },
+    "dressDetails": {
+      "dressName": "Glitter Off Shoulder Bodycon",
+      "dressPrice": "LKR 8000",
+      "dressCode": "C24",
+      "dressImage": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1755859859513.jpg"
+    },
+    "additionalInfo": {
+      "newsletter": false
+    },
+    "rentalDetails": {
+      "collectionDate": "2025-09-26",
+      "returnDate": "2025-09-28",
+      "rentalDuration": 1
+    },
+    "createdAt": "2025-09-14T09:55:32.801Z",
+    "updatedAt": "2025-09-14T09:55:32.801Z",
+    "id": 8
   }
 ]
