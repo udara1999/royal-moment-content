@@ -1208,5 +1208,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968165111.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968167652.JPG"
     ]
+  },
+  {
+    "title": "New year Event",
+    "category": "Event",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969003614.JPG",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-4"
+    ],
+    "subcategories": [
+      "cat-4-2"
+    ],
+    "createdAt": "2025-09-15T20:43:23.614Z",
+    "updatedAt": "2025-09-15T20:43:23.614Z",
+    "id": 27
   }
 ]
