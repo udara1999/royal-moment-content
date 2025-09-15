@@ -916,5 +916,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757965893325.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757965896057.jpg"
     ]
+  },
+  {
+    "title": "Gayathrika Madushani",
+    "category": "Portrait Photoshoot",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966067788.jpg",
+    "location": "Piliyandala",
+    "likes": 0,
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-1"
+    ],
+    "createdAt": "2025-09-15T19:54:27.788Z",
+    "updatedAt": "2025-09-15T19:54:27.788Z",
+    "id": 23
   }
 ]
