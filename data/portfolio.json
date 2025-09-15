@@ -1109,5 +1109,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967411330.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967414075.JPG"
     ]
+  },
+  {
+    "title": "සිඟිති බක් මහ උළෙල",
+    "category": "Event",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757967816535.JPG",
+    "location": "Maharagama",
+    "likes": 0,
+    "categories": [
+      "cat-4"
+    ],
+    "subcategories": [
+      "cat-4-2"
+    ],
+    "createdAt": "2025-09-15T20:23:36.534Z",
+    "updatedAt": "2025-09-15T20:23:36.534Z",
+    "id": 26
   }
 ]
