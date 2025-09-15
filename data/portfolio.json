@@ -1022,5 +1022,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966752272.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966755063.jpg"
     ]
+  },
+  {
+    "title": "Annual Party Event",
+    "category": "Event",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967049318.jpg",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-4"
+    ],
+    "subcategories": [
+      "cat-4-3"
+    ],
+    "createdAt": "2025-09-15T20:10:49.318Z",
+    "updatedAt": "2025-09-15T20:10:49.318Z",
+    "id": 25
   }
 ]
