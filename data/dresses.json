@@ -807,5 +807,36 @@
     ],
     "order": 21,
     "isAvailable": true
+  },
+  {
+    "name": "Gliter velbon ",
+    "price": "LKR 4000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1757968592046.jpeg",
+    "tag": "Party",
+    "dressCode": "C25",
+    "categories": [
+      "cat-8",
+      "cat-7"
+    ],
+    "subcategories": [
+      "sub-8-4"
+    ],
+    "availableColors": [
+      "Black",
+      "Navy",
+      "Red",
+      "Blue",
+      "Green",
+      "Orange",
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-09-15T20:36:32.046Z",
+    "updatedAt": "2025-09-15T20:36:32.046Z",
+    "id": 27
   }
 ]
