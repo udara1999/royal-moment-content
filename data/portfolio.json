@@ -984,5 +984,22 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966157804.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966160386.jpg"
     ]
+  },
+  {
+    "title": "Maleesha Sewwandi",
+    "category": "Sports",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966693284.jpg",
+    "location": "Kaluthara",
+    "likes": 0,
+    "categories": [
+      "cat-5"
+    ],
+    "subcategories": [
+      "cat-5-5",
+      "cat-5-3"
+    ],
+    "createdAt": "2025-09-15T20:04:53.284Z",
+    "updatedAt": "2025-09-15T20:04:53.284Z",
+    "id": 24
   }
 ]
