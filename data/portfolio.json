@@ -180,7 +180,7 @@
     "location": "Beach",
     "likes": 67,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-25T19:20:52.622Z",
+    "updatedAt": "2025-09-16T02:45:36.696Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069456485.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069458279.jpg",
@@ -210,9 +210,11 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/vihanga-yoshi/1756069496571.jpg"
     ],
     "categories": [
-      "cat-3"
+      "cat-3",
+      "cat-1"
     ],
     "subcategories": [
+      "sub-1756150211262",
       "cat-3-2"
     ],
     "order": 3
