@@ -360,7 +360,7 @@
     "location": "Blue Villa",
     "likes": 0,
     "createdAt": "2025-08-24T21:01:41.542Z",
-    "updatedAt": "2025-08-25T19:22:22.498Z",
+    "updatedAt": "2025-09-16T02:47:24.192Z",
     "id": 8,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/rashmi/1756069320486.jpg",
@@ -391,10 +391,12 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/rashmi/1756069366217.jpg"
     ],
     "categories": [
-      "cat-3"
+      "cat-3",
+      "cat-1"
     ],
     "subcategories": [
-      "cat-3-2"
+      "cat-3-2",
+      "sub-1756150211262"
     ],
     "order": 7
   },
