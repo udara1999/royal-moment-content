@@ -23,9 +23,15 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-09-18T00:45:29.951Z",
-    "updatedAt": "2025-09-18T00:45:29.951Z",
+    "updatedAt": "2025-09-18T00:46:33.139Z",
     "id": 28,
-    "order": 0
+    "order": 0,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156386518.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156388513.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156390435.jpg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156391590.jpg"
+    ]
   },
   {
     "id": 1,
