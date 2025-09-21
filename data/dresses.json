@@ -686,7 +686,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1755859030048.jpg",
     "tag": "Birthday,Pre-Shoot",
     "createdAt": "2025-08-22T06:14:07.650Z",
-    "updatedAt": "2025-09-13T02:52:03.494Z",
+    "updatedAt": "2025-09-21T01:16:28.646Z",
     "id": 20,
     "dressCode": "C14",
     "categories": [
@@ -711,7 +711,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005058102.jpg"
     ],
     "order": 18,
-    "isAvailable": false,
+    "isAvailable": true,
     "isAvailableForSale": false,
     "sellPrice": "LKR 4000"
   },
