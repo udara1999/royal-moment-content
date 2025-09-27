@@ -22,5 +22,17 @@
     "createdAt": "2025-09-10T06:09:55.155Z",
     "updatedAt": "2025-09-10T06:09:55.155Z",
     "id": 1
+  },
+  {
+    "date": "2025-09-27",
+    "name": "Company Holiday",
+    "description": "The institution is closed today for a special reason.",
+    "type": "company_holiday",
+    "isRecurring": false,
+    "recurringMonth": 9,
+    "recurringDay": 27,
+    "createdAt": "2025-09-27T03:13:47.353Z",
+    "updatedAt": "2025-09-27T03:13:47.353Z",
+    "id": 2
   }
 ]
