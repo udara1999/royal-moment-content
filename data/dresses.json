@@ -50,7 +50,7 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-09-12T14:15:17.859Z",
+    "updatedAt": "2025-09-30T07:40:05.004Z",
     "availableColors": [
       "Blue",
       "White",
@@ -68,17 +68,6 @@
     "images": [],
     "order": 1,
     "isAvailable": false,
-    "offer": {
-      "id": "offer_1757684561268",
-      "title": "Free Neckless",
-      "description": "Get a free neckless unti end of this month",
-      "type": "bonus_item",
-      "value": "Neckless",
-      "startDate": "2025-09-11T00:00:00.000Z",
-      "endDate": "2025-09-30T00:00:00.000Z",
-      "isActive": true,
-      "priority": 1
-    },
     "isAvailableForSale": true,
     "sellPrice": "LKR 15000"
   },
