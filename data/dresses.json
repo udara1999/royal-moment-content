@@ -141,12 +141,12 @@
   },
   {
     "name": "Long Player Sleeveless Dress",
-    "price": "LKR 5000",
+    "price": "LKR 4000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1755858152206.jpg",
     "tag": "Birthday,Pre-Shoot,Party",
     "createdAt": "2025-08-22T05:53:08.066Z",
-    "updatedAt": "2025-08-29T16:38:32.043Z",
+    "updatedAt": "2025-10-05T07:29:53.589Z",
     "id": 12,
     "availableColors": [
       "Navy",
@@ -166,10 +166,7 @@
     "subcategories": [
       "sub-5-2",
       "sub-4-2",
-      "sub-8-4",
-      "sub-5-1",
-      "sub-4-1",
-      "sub-8-1"
+      "sub-8-4"
     ],
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004204798.jpg",
@@ -177,7 +174,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004208789.jpg"
     ],
     "order": 4,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "name": "Glitter Bodycon With Straps",
