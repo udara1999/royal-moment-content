@@ -74,12 +74,12 @@
   },
   {
     "name": "Glitter Off Shoulder Bodycon",
-    "price": "LKR 8000",
+    "price": "LKR 5000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1755859859513.jpg",
     "tag": "Birthday,Party",
     "createdAt": "2025-08-22T10:50:59.513Z",
-    "updatedAt": "2025-08-24T20:38:48.930Z",
+    "updatedAt": "2025-10-05T07:26:42.167Z",
     "id": 26,
     "dressCode": "C24",
     "categories": [
@@ -90,10 +90,7 @@
     "subcategories": [
       "sub-8-2",
       "sub-7-5",
-      "sub-5-3",
-      "sub-8-1",
-      "sub-7-1",
-      "sub-5-1"
+      "sub-5-3"
     ],
     "availableColors": [],
     "images": [
@@ -102,7 +99,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005792632.jpg"
     ],
     "order": 2,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "name": "White Long With Tail",
