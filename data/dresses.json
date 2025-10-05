@@ -787,20 +787,19 @@
   },
   {
     "name": "Lehenga With Layers",
-    "price": "LKR 6000",
+    "price": "LKR 4000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lehenga-with-layers/1755859735847.jpg",
     "tag": "Party",
     "createdAt": "2025-08-22T10:48:55.847Z",
-    "updatedAt": "2025-08-24T20:38:08.772Z",
+    "updatedAt": "2025-10-05T07:34:38.677Z",
     "id": 25,
     "dressCode": "C23",
     "categories": [
       "cat-8"
     ],
     "subcategories": [
-      "sub-8-6",
-      "sub-8-1"
+      "sub-8-6"
     ],
     "availableColors": [
       "Blue",
@@ -811,7 +810,8 @@
       "Black"
     ],
     "order": 22,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "name": "Gliter velbon ",
