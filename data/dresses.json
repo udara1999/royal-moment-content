@@ -256,7 +256,7 @@
     "id": 4,
     "name": "Off Shoulder Dress With Wings",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-long-off-shoulder/1755857657007.jpg",
-    "price": "LKR 4000",
+    "price": "LKR 3000",
     "size": [
       "XS",
       "S",
@@ -269,7 +269,7 @@
     "designer": "Bridal Haven",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-29T16:38:35.408Z",
+    "updatedAt": "2025-10-05T07:29:16.094Z",
     "tag": "Birthday,Pre-Shoot,Party",
     "availableColors": [
       "Black",
@@ -293,14 +293,12 @@
     "subcategories": [
       "sub-5-3",
       "sub-4-2",
-      "sub-8-2",
-      "sub-5-1",
-      "sub-4-1",
-      "sub-8-1"
+      "sub-8-2"
     ],
     "dressCode": "C13",
     "order": 7,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "id": 7,
