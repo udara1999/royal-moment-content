@@ -696,12 +696,12 @@
   },
   {
     "name": "Velvet Long Dress With Back Knot",
-    "price": "LKR 4000",
+    "price": "LKR 2500",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756012237635.jpg",
     "tag": "Birthday,Pre-Shoot,Party",
     "createdAt": "2025-08-22T06:17:58.528Z",
-    "updatedAt": "2025-08-24T20:36:27.133Z",
+    "updatedAt": "2025-10-05T07:31:18.586Z",
     "id": 21,
     "dressCode": "C15",
     "categories": [
@@ -712,10 +712,7 @@
     "subcategories": [
       "sub-5-3",
       "sub-4-3",
-      "sub-8-4",
-      "sub-5-1",
-      "sub-8-1",
-      "sub-4-1"
+      "sub-8-4"
     ],
     "availableColors": [
       "Red",
@@ -730,7 +727,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005434060.jpg"
     ],
     "order": 19,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "name": "Floral Frill Dress",
