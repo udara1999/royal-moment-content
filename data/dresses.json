@@ -181,12 +181,12 @@
   },
   {
     "name": "Glitter Bodycon With Straps",
-    "price": "LKR 6000",
+    "price": "LKR 5000",
     "designer": "Tharu",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1755859220965.jpg",
     "tag": "Birthday,Glamour,Party",
     "createdAt": "2025-08-22T06:20:01.723Z",
-    "updatedAt": "2025-08-24T20:37:07.784Z",
+    "updatedAt": "2025-10-05T07:27:05.749Z",
     "id": 22,
     "dressCode": "C16",
     "categories": [
@@ -197,10 +197,7 @@
     "subcategories": [
       "sub-5-3",
       "sub-7-5",
-      "sub-8-4",
-      "sub-8-1",
-      "sub-7-1",
-      "sub-5-1"
+      "sub-8-4"
     ],
     "availableColors": [
       "Green",
@@ -216,7 +213,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005479145.jpg"
     ],
     "order": 5,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "id": 8,
