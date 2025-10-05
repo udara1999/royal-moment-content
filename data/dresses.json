@@ -628,20 +628,19 @@
   },
   {
     "name": "Ruffle Lehenga",
-    "price": "LKR 4000",
+    "price": "LKR 2500",
     "designer": "Tharu",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1755858868121.jpg",
     "tag": "Party",
     "createdAt": "2025-08-22T06:12:20.047Z",
-    "updatedAt": "2025-08-24T20:35:37.125Z",
+    "updatedAt": "2025-10-05T07:35:30.324Z",
     "id": 19,
     "dressCode": "C12",
     "categories": [
       "cat-8"
     ],
     "subcategories": [
-      "sub-8-6",
-      "sub-8-1"
+      "sub-8-6"
     ],
     "availableColors": [
       "Blush"
@@ -651,7 +650,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005402109.jpg"
     ],
     "order": 17,
-    "isAvailable": true
+    "isAvailable": true,
+    "isAvailableForSale": false
   },
   {
     "name": "Short Frill With Separate Sleeve",
