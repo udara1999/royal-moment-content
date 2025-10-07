@@ -23,7 +23,7 @@
     "isAvailable": false,
     "isAvailableForSale": false,
     "createdAt": "2025-09-18T00:45:29.951Z",
-    "updatedAt": "2025-09-30T11:12:08.464Z",
+    "updatedAt": "2025-10-07T03:01:32.576Z",
     "id": 28,
     "order": 0,
     "images": [
@@ -32,7 +32,18 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156390435.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156391590.jpg"
     ],
-    "tag": "Birthday, Pre-Shoot"
+    "tag": "Birthday, Pre-Shoot",
+    "offer": {
+      "id": "offer_1759806092574",
+      "title": "✨ Special October Offer! ✨",
+      "description": "All dresses in our shop come with FREE jewelry from October 1st to October 31st, 2025.\nDon’t miss this limited-time offer — shine brighter with the perfect dress and matching jewelry! 👗💎",
+      "type": "custom",
+      "value": "",
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "2025-10-31T00:00:00.000Z",
+      "isActive": true,
+      "priority": 1
+    }
   },
   {
     "id": 1,
