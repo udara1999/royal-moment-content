@@ -30,9 +30,21 @@
       "Indoor or outdoor location"
     ],
     "createdAt": "2025-08-31T02:16:17.230Z",
-    "updatedAt": "2025-09-12T13:19:35.186Z",
+    "updatedAt": "2025-10-08T09:42:17.941Z",
     "id": 3,
-    "offers": [],
+    "offers": [
+      {
+        "id": "offer_1759916537941",
+        "title": "Special October Offer!",
+        "description": "Get a FREE dress with this package - sponsored by Royal Moments Bridal Haven.\nDon't miss this amazing offer and make your special moments more beautiful!",
+        "type": "free_dress",
+        "value": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "endDate": "2025-10-31T00:00:00.000Z",
+        "isActive": true,
+        "priority": 1
+      }
+    ],
     "order": 1
   },
   {
