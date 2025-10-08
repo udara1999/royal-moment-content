@@ -953,5 +953,26 @@
     "updatedAt": "2025-10-07T04:37:11.287Z",
     "id": 27,
     "order": 23
+  },
+  {
+    "name": "Red lase long sleeve",
+    "price": "LKR 2500",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-lase-long-sleeve/1759916074194.jpg",
+    "dressCode": "C30",
+    "categories": [
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-8-4"
+    ],
+    "availableColors": [
+      "Red"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-10-08T09:34:34.194Z",
+    "updatedAt": "2025-10-08T09:34:34.194Z",
+    "id": 29
   }
 ]
