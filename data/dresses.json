@@ -901,7 +901,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lehenga-with-layers/1759916292135.jpg",
     "tag": "Party",
     "createdAt": "2025-08-22T10:48:55.847Z",
-    "updatedAt": "2025-10-08T09:38:12.135Z",
+    "updatedAt": "2025-10-08T09:38:41.936Z",
     "id": 25,
     "dressCode": "C23",
     "categories": [
@@ -920,7 +920,10 @@
     ],
     "order": 22,
     "isAvailable": true,
-    "isAvailableForSale": false
+    "isAvailableForSale": false,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lehenga-with-layers/1759916316225.jpg"
+    ]
   },
   {
     "name": "Long Sleeve Off Shoulder Bodycon",
