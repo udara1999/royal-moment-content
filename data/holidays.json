@@ -46,17 +46,5 @@
     "createdAt": "2025-10-08T09:44:37.780Z",
     "updatedAt": "2025-10-08T09:44:37.780Z",
     "id": 3
-  },
-  {
-    "date": "2025-11-05",
-    "name": "Poya Day",
-    "description": "",
-    "type": "public_holiday",
-    "isRecurring": false,
-    "recurringMonth": 1,
-    "recurringDay": 1,
-    "createdAt": "2025-10-08T09:44:40.257Z",
-    "updatedAt": "2025-10-08T09:44:40.257Z",
-    "id": 4
   }
 ]
