@@ -101,7 +101,7 @@
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1755859859513.jpg",
     "tag": "Birthday,Party",
     "createdAt": "2025-08-22T10:50:59.513Z",
-    "updatedAt": "2025-10-05T07:26:42.167Z",
+    "updatedAt": "2025-10-08T09:21:23.567Z",
     "id": 26,
     "dressCode": "C24",
     "categories": [
@@ -122,7 +122,18 @@
     ],
     "order": 2,
     "isAvailable": true,
-    "isAvailableForSale": false
+    "isAvailableForSale": false,
+    "offer": {
+      "id": "offer_1759915283567",
+      "title": "a",
+      "description": "All dresses in our shop come with FREE jewelry from October 1st to October 31st, 2025.\nDon't miss this limited-time offer - shine brighter with the perfect dress and matching jewelry!",
+      "type": "custom",
+      "value": "",
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "2025-10-31T00:00:00.000Z",
+      "isActive": true,
+      "priority": 1
+    }
   },
   {
     "name": "White Long With Tail",
