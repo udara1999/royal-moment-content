@@ -972,8 +972,11 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-10-08T09:34:34.194Z",
-    "updatedAt": "2025-10-08T09:35:01.216Z",
+    "updatedAt": "2025-10-08T09:35:36.600Z",
     "id": 29,
-    "tag": "Party"
+    "tag": "Party",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-lase-long-sleeve/1759916130063.jpg"
+    ]
   }
 ]
