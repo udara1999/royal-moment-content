@@ -982,5 +982,31 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-lase-long-sleeve/1759916130063.jpg"
     ]
+  },
+  {
+    "name": "Purple Fairy Corset ",
+    "price": "LKR 5000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-fairy-corset-/1760084874047.jpeg",
+    "tag": "Birthday, Party",
+    "dressCode": "C26",
+    "categories": [
+      "cat-8",
+      "cat-5",
+      "cat-4",
+      "cat-7"
+    ],
+    "subcategories": [
+      "sub-5-4",
+      "sub-4-4"
+    ],
+    "availableColors": [
+      "Purple"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-10-10T08:27:54.047Z",
+    "updatedAt": "2025-10-10T08:27:54.047Z",
+    "id": 30
   }
 ]
