@@ -1006,7 +1006,11 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-10-10T08:27:54.047Z",
-    "updatedAt": "2025-10-10T08:27:54.047Z",
-    "id": 30
+    "updatedAt": "2025-10-10T08:28:25.680Z",
+    "id": 30,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-fairy-corset-/1760084900420.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-fairy-corset-/1760084903349.jpeg"
+    ]
   }
 ]
