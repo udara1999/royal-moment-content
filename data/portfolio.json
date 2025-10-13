@@ -175,6 +175,34 @@
     "order": 2
   },
   {
+    "title": "Graduation",
+    "category": "Portrait Photoshoot",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361147305.jpeg",
+    "location": "Viharamahadevi",
+    "likes": 0,
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-1"
+    ],
+    "createdAt": "2025-10-13T13:12:27.304Z",
+    "updatedAt": "2025-10-13T13:13:27.861Z",
+    "id": 28,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361182761.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361185229.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361187997.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361190719.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361193387.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361196217.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361198879.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361201589.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361204960.jpeg"
+    ],
+    "order": 3
+  },
+  {
     "id": 4,
     "category": "Portrait Photoshoot",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/corporate-gala/1755588608384.jpg",
@@ -219,7 +247,7 @@
       "sub-1756150211262",
       "cat-3-2"
     ],
-    "order": 3
+    "order": 4
   },
   {
     "title": "Tamil Girl",
@@ -253,7 +281,7 @@
       "cat-3-1",
       "cat-1-1"
     ],
-    "order": 4
+    "order": 5
   },
   {
     "id": 1,
@@ -293,7 +321,7 @@
     "subcategories": [
       "cat-3-1"
     ],
-    "order": 5
+    "order": 6
   },
   {
     "id": 5,
@@ -351,7 +379,7 @@
     "subcategories": [
       "sub-1756150228173"
     ],
-    "order": 6
+    "order": 7
   },
   {
     "title": "Rashmi & Anjula",
@@ -398,7 +426,7 @@
       "cat-3-2",
       "sub-1756150211262"
     ],
-    "order": 7
+    "order": 8
   },
   {
     "title": "Panchali & Sajeewa ",
@@ -462,7 +490,7 @@
       "cat-3-2",
       "sub-1756150211262"
     ],
-    "order": 8
+    "order": 9
   },
   {
     "id": 3,
@@ -498,7 +526,7 @@
     "subcategories": [
       "cat-3-2"
     ],
-    "order": 9
+    "order": 10
   },
   {
     "title": "Chamodi's 18th Birthday",
@@ -546,7 +574,7 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 10
+    "order": 11
   },
   {
     "title": "Tiruni & Shehan's Weidding",
@@ -572,7 +600,7 @@
       "cat-1-2",
       "cat-1-3"
     ],
-    "order": 11
+    "order": 12
   },
   {
     "title": "Ayon 1st Birthday",
@@ -631,7 +659,7 @@
     "subcategories": [
       "cat-2-1"
     ],
-    "order": 12
+    "order": 13
   },
   {
     "title": "Sahen",
@@ -664,7 +692,7 @@
     "subcategories": [
       "cat-3-4"
     ],
-    "order": 13
+    "order": 14
   },
   {
     "title": "Sanjeewa",
@@ -691,7 +719,7 @@
     "subcategories": [
       "cat-3-1"
     ],
-    "order": 14
+    "order": 15
   },
   {
     "title": "Amandha & Tharindu",
@@ -736,7 +764,7 @@
     "subcategories": [
       "cat-3-2"
     ],
-    "order": 15
+    "order": 16
   },
   {
     "title": "Mandakini & Shashika",
@@ -776,7 +804,7 @@
     "subcategories": [
       "cat-1-2"
     ],
-    "order": 16
+    "order": 17
   },
   {
     "title": "Sadamali 21st Birthday",
@@ -829,7 +857,7 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 17
+    "order": 18
   },
   {
     "title": "35th Sri Gunarathna Pratibha",
@@ -870,7 +898,7 @@
     "subcategories": [
       "cat-4-4"
     ],
-    "order": 18
+    "order": 19
   },
   {
     "title": "Maleesha's Portrait",
@@ -917,7 +945,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-portrait/1757966375423.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-portrait/1757966377485.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-portrait/1757966379765.jpg"
-    ]
+    ],
+    "order": 20
   },
   {
     "title": "Gayathrika Madushani",
@@ -952,7 +981,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757965891062.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757965893325.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757965896057.jpg"
-    ]
+    ],
+    "order": 21
   },
   {
     "title": "Gayathrika Madushani",
@@ -993,7 +1023,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966155685.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966157804.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966160386.jpg"
-    ]
+    ],
+    "order": 22
   },
   {
     "title": "Maleesha Sewwandi",
@@ -1031,7 +1062,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966749563.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966752272.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966755063.jpg"
-    ]
+    ],
+    "order": 23
   },
   {
     "title": "Annual Party Event",
@@ -1118,7 +1150,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967408940.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967411330.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967414075.JPG"
-    ]
+    ],
+    "order": 24
   },
   {
     "title": "Indi Foundation",
@@ -1217,7 +1250,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968162961.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968165111.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968167652.JPG"
-    ]
+    ],
+    "order": 25
   },
   {
     "title": "New year Event",
@@ -1308,33 +1342,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969297420.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969299389.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969301457.JPG"
-    ]
-  },
-  {
-    "title": "Graduation",
-    "category": "Portrait Photoshoot",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361147305.jpeg",
-    "location": "Viharamahadevi",
-    "likes": 0,
-    "categories": [
-      "cat-3"
     ],
-    "subcategories": [
-      "cat-3-1"
-    ],
-    "createdAt": "2025-10-13T13:12:27.304Z",
-    "updatedAt": "2025-10-13T13:13:27.861Z",
-    "id": 28,
-    "images": [
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361182761.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361185229.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361187997.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361190719.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361193387.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361196217.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361198879.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361201589.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361204960.jpeg"
-    ]
+    "order": 26
   }
 ]
