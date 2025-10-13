@@ -1309,5 +1309,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969299389.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969301457.JPG"
     ]
+  },
+  {
+    "title": "Graduation",
+    "category": "Portrait Photoshoot",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361147305.jpeg",
+    "location": "Viharamahadevi",
+    "likes": 0,
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-1"
+    ],
+    "createdAt": "2025-10-13T13:12:27.304Z",
+    "updatedAt": "2025-10-13T13:12:27.304Z",
+    "id": 28
   }
 ]
