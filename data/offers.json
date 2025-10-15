@@ -1,0 +1,16 @@
+[
+  {
+    "id": "site_wide_welcome_2025",
+    "title": "Grand Welcome Offer",
+    "description": "Enjoy exclusive launch specials at Royal Moments Bridal Haven.",
+    "type": "custom",
+    "value": "",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "isActive": true,
+    "priority": 5,
+    "backgroundColor": "bg-gradient-to-r from-emerald-500 to-teal-500",
+    "textColor": "text-white"
+  }
+]
+
