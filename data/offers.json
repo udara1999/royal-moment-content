@@ -11,18 +11,5 @@
     "priority": 5,
     "backgroundColor": "bg-gradient-to-r from-emerald-500 to-teal-500",
     "textColor": "text-white"
-  },
-  {
-    "title": "test",
-    "description": "test",
-    "type": "custom",
-    "value": "",
-    "startDate": "2025-10-15",
-    "endDate": "2025-10-15",
-    "isActive": true,
-    "priority": 1,
-    "createdAt": "2025-10-15T14:32:50.346Z",
-    "updatedAt": "2025-10-15T14:32:50.346Z",
-    "id": null
   }
 ]
