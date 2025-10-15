@@ -1553,5 +1553,22 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dinithi-shehan-/1760500585491.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dinithi-shehan-/1760500587672.JPG"
     ]
+  },
+  {
+    "title": "Nilakshi & Pradeep",
+    "category": "Wedding",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nilakshi-pradeep/1760501111955.jpg",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "cat-1-1",
+      "cat-1-4"
+    ],
+    "createdAt": "2025-10-15T04:05:11.955Z",
+    "updatedAt": "2025-10-15T04:05:11.955Z",
+    "id": 31
   }
 ]
