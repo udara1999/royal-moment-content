@@ -1482,5 +1482,22 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/savini-banuka-homecoming/1760500328249.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/savini-banuka-homecoming/1760500330670.JPG"
     ]
+  },
+  {
+    "title": "Dinithi & Shehan ",
+    "category": "Wedding",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dinithi-shehan-/1760500441451.JPG",
+    "location": "Green Garden",
+    "likes": 0,
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "cat-1-1",
+      "cat-1-4"
+    ],
+    "createdAt": "2025-10-15T03:54:01.451Z",
+    "updatedAt": "2025-10-15T03:54:01.451Z",
+    "id": 30
   }
 ]
