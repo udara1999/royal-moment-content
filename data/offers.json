@@ -1,15 +1,1 @@
-[
-  {
-    "title": "test",
-    "description": "test asd",
-    "type": "custom",
-    "value": "",
-    "startDate": "2025-10-15",
-    "endDate": "2025-10-15",
-    "isActive": true,
-    "priority": 1,
-    "createdAt": "2025-10-15T15:03:45.819Z",
-    "updatedAt": "2025-10-15T15:03:55.243Z",
-    "id": "test-1760540626447"
-  }
-]
+[]
