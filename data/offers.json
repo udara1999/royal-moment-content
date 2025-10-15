@@ -1,15 +1,1 @@
-[
-  {
-    "title": "Test",
-    "description": "Test offer",
-    "type": "custom",
-    "value": "",
-    "startDate": "2025-10-15",
-    "endDate": "2025-10-16",
-    "isActive": true,
-    "priority": 1,
-    "createdAt": "2025-10-15T15:00:41.666Z",
-    "updatedAt": "2025-10-15T15:00:41.666Z",
-    "id": "test-1760540442397"
-  }
-]
+[]
