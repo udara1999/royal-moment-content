@@ -1627,5 +1627,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nilakshi-pradeep/1760501355321.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nilakshi-pradeep/1760501357592.JPG"
     ]
+  },
+  {
+    "title": "Primesha",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/primesha/1760944494045.jpg",
+    "location": "Colombo",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-2"
+    ],
+    "createdAt": "2025-10-20T07:14:54.045Z",
+    "updatedAt": "2025-10-20T07:14:54.045Z",
+    "id": 32
   }
 ]
