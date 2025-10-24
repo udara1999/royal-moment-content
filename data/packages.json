@@ -207,7 +207,7 @@
     "name": "Royal Destination Package (For Destination Weddings)",
     "price": "LKR 390000",
     "type": "Wedding",
-    "description": "Capture every moment of your multi-day destination wedding with full coverage by two professional photographers and an assistant. Receive 600+ edited photos, Two 40-page luxury handcrafted album with a wood box and glass front (12\"x26\" or 16\"x24\"), a 10\"x20\" family album (30 pages), pre- and post-wedding shoots, framed enlargements (20\"x30\" x 2 , 16\"x24\" x 4 , and 12\"x18\" x 2), 400 thank-you cards, and a digital album via Google Drive and USB.",
+    "description": "Capture every moment of your multi-day destination wedding with full coverage by three professional photographers and an assistant. Receive 600+ edited photos, Two 40-page luxury handcrafted album with a wood box and glass front (12\"x26\" or 16\"x24\"), a 10\"x20\" family album (30 pages), pre- and post-wedding shoots, framed enlargements (20\"x30\" x 2 , 16\"x24\" x 4 , and 12\"x18\" x 2), 400 thank-you cards, and a digital album via Google Drive and USB.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/royal-destination-package-for-destination-weddings/1761294481413.jpeg",
     "included": [
       "Full coverage of multi-day destination weddings.",
@@ -217,10 +217,11 @@
       "Thank You Cards 400",
       "20\"x30\" x 2 , Framed Enlargement 16\"x24\" x 4 , Framed Enlargement: 12\"x18\" Framed Enlargement x 2 OMENTS",
       "Two 40-page luxury handcrafted wedding album with wood box and front glass (12\"x26\" or 16\"x24\") 10\"x20\" Family Album 30 Pages",
-      "Online gallery for easy sharing (Google drive) & USB drive"
+      "Online gallery for easy sharing (Google drive) & USB drive",
+      "Three professional photographer + assistant"
     ],
     "createdAt": "2025-10-24T08:28:01.413Z",
-    "updatedAt": "2025-10-24T08:35:04.471Z",
+    "updatedAt": "2025-10-24T09:16:58.364Z",
     "id": 11
   }
 ]
