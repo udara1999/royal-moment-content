@@ -128,7 +128,7 @@
     "name": "Golden Glow Package (Extended Session)",
     "price": "LKR 105000",
     "type": "Wedding",
-    "description": "Enjoy 6 hours of wedding coverage with a professional photographer and assistant, 80+ edited photos, a 20-page golden album (10\"x24\"), a 16\"x24\" framed enlargement = 2 , and an online gallery for easy sharing.",
+    "description": "Enjoy 6 hours of wedding coverage with a professional photographer and assistant, 80+ edited photos, a 20-page golden album (10\"x24\"), Two 16\"x24\" framed enlargement, and an online gallery for easy sharing.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/golden-glow-package-extended-session/1757819302657.JPG",
     "included": [
       "6 hours of photography coverage",
@@ -139,7 +139,7 @@
       "Online gallery via Google Drive for easy sharing"
     ],
     "createdAt": "2025-09-14T03:08:22.657Z",
-    "updatedAt": "2025-10-24T05:36:58.046Z",
+    "updatedAt": "2025-10-24T05:39:34.867Z",
     "id": 7
   },
   {
