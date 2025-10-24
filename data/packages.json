@@ -185,7 +185,7 @@
     "name": "Timeless Legacy Package (Elite & Exclusive)",
     "price": "LKR 310000",
     "type": "Wedding",
-    "description": "Our most exclusive package, crafted for couples who want every detail preserved. Enjoy multi-day wedding coverage with two professional photographers + assistant, delivering 300+ edited photos. Includes a 40-page luxury handcrafted album with box (12\"x20\" or 16\"x24\") plus a 30-page 8\"x20\" family album. Pre-wedding, post-wedding & family shoots are all included. You’ll also receive two 16\"x24\" framed enlargements, 100 Thank You cards, and delivery via online gallery & USB drive.",
+    "description": "Our most exclusive package, crafted for couples who want every detail preserved. Enjoy multi-day wedding coverage with two professional photographers + assistant, delivering 400+ edited photos. Includes Two 40-page luxury handcrafted album with box (12\"x26\" or 16\"x24\") plus a 30-page 8\"x20\" family album. Pre-wedding, post-wedding & family shoots are all included. You also receive Four 16\"x24\" framed enlargements, 200 Thank You cards, and delivery via online gallery & USB drive.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/timeless-legacy-package-elite-exclusive/1757990493185.jpg",
     "included": [
       "Multi-day wedding coverage (getting ready, solo, group & couple shots)",
@@ -199,7 +199,7 @@
       "Online gallery for easy sharing (Google drive) & USB drive"
     ],
     "createdAt": "2025-09-16T02:41:33.185Z",
-    "updatedAt": "2025-09-16T02:41:33.185Z",
+    "updatedAt": "2025-10-24T05:54:00.499Z",
     "id": 10
   }
 ]
