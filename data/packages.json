@@ -110,17 +110,17 @@
     "name": "Silver Portrait Package (Essential Session)",
     "price": "LKR 60000",
     "type": "Wedding",
-    "description": "Capture your wedding essentials with 4 hours of coverage, 30 edited photos, a 16\"x24\" framed enlargement, an 8\"x22\" mini album, and a digital album via an online gallery.",
+    "description": "Capture your wedding essentials with 4 hours of coverage, 30 edited photos, Two 16\"x24\" framed enlargement, an 8\"x22\" mini album, and a digital album via an online gallery.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/silver-portrait-package-essential-session/1757819452682.jpg",
     "included": [
       "4 hours of photography coverage",
       "One professional photographer",
-      "16'x24' Framed Enlargement",
       "30 edited photos (soft copies)",
-      "Digital album (online gallery)"
+      "Digital album (online gallery)",
+      "Two 16'x24' Framed Enlargement"
     ],
     "createdAt": "2025-08-31T02:34:01.859Z",
-    "updatedAt": "2025-10-24T08:40:15.868Z",
+    "updatedAt": "2025-10-24T09:09:43.046Z",
     "id": 6,
     "order": 5
   },
