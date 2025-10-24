@@ -144,9 +144,9 @@
   },
   {
     "name": "Royal Signature Package (Premium Service)",
-    "price": "LKR 15000",
+    "price": "LKR 150000",
     "type": "Wedding",
-    "description": "Experience complete wedding coverage with 12+ hours of photography, a professional photographer & assistant, and 120+ edited photos. Includes a luxury 20-page panoramic album with box (10\"x20\"), pre-wedding photoshoot, 16\"x24\" framed enlargement, and delivery via online gallery & USB drive.",
+    "description": "Experience complete wedding coverage with 12+ hours of photography, Two professional photographer & assistant, and 180+ edited photos. Includes a luxury 40-page panoramic album with box (10\"x26\"), pre-wedding photoshoot, Two 16\"x24\" framed enlargement, and delivery via online gallery & USB drive.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/royal-signature-package-premium-service/1757990029943.jpg",
     "included": [
       "Full-day coverage (12+ hours)",
@@ -158,7 +158,7 @@
       "Online gallery for easy sharing (Google drive) & USB drive"
     ],
     "createdAt": "2025-09-16T02:33:49.943Z",
-    "updatedAt": "2025-09-16T02:33:49.943Z",
+    "updatedAt": "2025-10-24T05:39:11.870Z",
     "id": 8
   },
   {
