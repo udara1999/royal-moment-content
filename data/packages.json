@@ -71,7 +71,7 @@
     "name": "Luxury Birthday Package",
     "price": "LKR 60000",
     "type": "Birthday",
-    "description": "Make your birthday unforgettable with 5 hours of full coverage, 60+ professionally edited photos, and a premium 8\"x22\" album. Enjoy two outfit changes, a 12\"x18\" enlarged print, and a cinematic 30-second video teaser. Delivered through an online gallery & USB drive at your choice of indoor or outdoor location.",
+    "description": "Make your birthday unforgettable with 6 hours of full coverage, 60+ professionally edited photos, and a premium 8\"x22\" album. Enjoy two outfit changes, a 16\"x24\" enlarged print, and a cinematic 30-second video teaser. Delivered through an online gallery & USB drive at your choice of indoor or outdoor location.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/luxury-birthday-package/1756607342801.jpg",
     "included": [
       "5-hour session with multiple angles",
@@ -86,7 +86,7 @@
       "Online gallery for easy sharing (Google drive) & USB drive"
     ],
     "createdAt": "2025-08-31T02:29:02.801Z",
-    "updatedAt": "2025-09-01T14:01:20.768Z",
+    "updatedAt": "2025-10-24T05:32:38.860Z",
     "id": 5,
     "order": 3
   },
