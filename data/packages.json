@@ -3,7 +3,7 @@
     "name": "Basic Birthday Package",
     "price": "LKR 7000",
     "type": "Birthday",
-    "description": "Capture your special day with a 1-hour photoshoot, 10 beautifully edited photos, and quick digital delivery at your favorite indoor or outdoor location. Perfect for keeping your birthday memories alive!",
+    "description": "Capture your special day with a 2-hour photoshoot, 15 beautifully edited photos, and quick digital delivery at your favorite indoor or outdoor location. Perfect for keeping your birthday memories alive!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/basic-birthday-package/1756490235574.jpg",
     "included": [
       "Indoor or outdoor location",
@@ -12,7 +12,7 @@
       "2 - hour session"
     ],
     "createdAt": "2025-08-29T17:43:04.055Z",
-    "updatedAt": "2025-09-10T05:57:07.217Z",
+    "updatedAt": "2025-10-24T05:31:26.320Z",
     "id": 1,
     "offers": [],
     "order": 0
