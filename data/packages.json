@@ -51,7 +51,7 @@
     "name": "Premium Birthday Package",
     "price": "LKR 35000",
     "type": "Birthday",
-    "description": "Celebrate big with 4 hours of photography coverage, 40+ beautifully edited photos, a premium 8\"x16\" mini album, and a stunning 12\"x18\" enlarged print. Includes indoor or outdoor coverage and an online gallery for easy sharing!",
+    "description": "Celebrate big with 5 hours of photography coverage, 40+ beautifully edited photos, a premium 8\"x16\" mini album, and a stunning 16\"x24\" enlarged print. Includes indoor or outdoor coverage and an online gallery for easy sharing!",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/premium-birthday-package/1756606864884.jpg",
     "included": [
       "4 hours of photography coverage",
@@ -62,7 +62,7 @@
       "Online gallery for easy sharing (Google drive)"
     ],
     "createdAt": "2025-08-31T02:21:04.884Z",
-    "updatedAt": "2025-09-12T13:58:37.622Z",
+    "updatedAt": "2025-10-24T05:32:11.002Z",
     "id": 4,
     "order": 2,
     "offers": []
