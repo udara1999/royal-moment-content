@@ -1680,5 +1680,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nilakshi-pradeep/1760501357592.JPG"
     ],
     "order": 30
+  },
+  {
+    "title": "Tharu",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tharu/1762651261458.jpeg",
+    "location": "Bulathsinhala",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "createdAt": "2025-11-09T01:21:01.457Z",
+    "updatedAt": "2025-11-09T01:21:01.457Z",
+    "id": 33
   }
 ]
