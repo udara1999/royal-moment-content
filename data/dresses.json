@@ -1126,7 +1126,11 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-11-21T16:34:15.328Z",
-    "updatedAt": "2025-11-21T16:34:15.328Z",
-    "id": 34
+    "updatedAt": "2025-11-21T16:35:06.730Z",
+    "id": 34,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/maroon-dust-bodyfit-dress/1763742901009.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/maroon-dust-bodyfit-dress/1763742904130.jpeg"
+    ]
   }
 ]
