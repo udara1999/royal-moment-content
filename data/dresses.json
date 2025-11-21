@@ -1047,5 +1047,31 @@
     "createdAt": "2025-10-10T08:30:52.872Z",
     "updatedAt": "2025-10-10T08:43:20.919Z",
     "id": 31
+  },
+  {
+    "name": "Purple seequince short dress",
+    "price": "LKR 3000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-seequince-short-dress/1763742546213.jpeg",
+    "tag": "Birthday, Party",
+    "dressCode": "C29",
+    "categories": [
+      "cat-8",
+      "cat-7",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-5-4",
+      "sub-5-3",
+      "sub-8-4"
+    ],
+    "availableColors": [
+      "Purple"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-11-21T16:29:06.212Z",
+    "updatedAt": "2025-11-21T16:29:06.212Z",
+    "id": 32
   }
 ]
