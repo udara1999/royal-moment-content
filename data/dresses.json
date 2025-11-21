@@ -1186,5 +1186,27 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/silver-sequin-dress/1763743259990.jpeg"
     ]
+  },
+  {
+    "name": "Yellow Ruffle Sleeve Dress",
+    "price": "LKR 4000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/yellow-ruffle-sleeve-dress/1763743588115.jpeg",
+    "tag": "Birthday",
+    "dressCode": "C31",
+    "categories": [
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-5-4"
+    ],
+    "availableColors": [
+      "Yellow"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-11-21T16:46:28.115Z",
+    "updatedAt": "2025-11-21T16:46:28.115Z",
+    "id": 37
   }
 ]
