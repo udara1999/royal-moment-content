@@ -1076,5 +1076,31 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-seequince-short-dress/1763742567667.jpeg"
     ]
+  },
+  {
+    "name": "Black glamour dress",
+    "price": "LKR 4000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-glamour-dress/1763742695124.jpeg",
+    "tag": "Party, Birthday, Pre-Shoot",
+    "dressCode": "C36",
+    "categories": [
+      "cat-8",
+      "cat-4",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-4-2",
+      "sub-8-4",
+      "sub-5-2"
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-11-21T16:31:35.124Z",
+    "updatedAt": "2025-11-21T16:31:35.124Z",
+    "id": 33
   }
 ]
