@@ -1181,7 +1181,10 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-11-21T16:40:35.571Z",
-    "updatedAt": "2025-11-21T16:40:35.571Z",
-    "id": 36
+    "updatedAt": "2025-11-21T16:41:03.480Z",
+    "id": 36,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/silver-sequin-dress/1763743259990.jpeg"
+    ]
   }
 ]
