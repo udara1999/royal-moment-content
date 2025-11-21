@@ -1071,7 +1071,10 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-11-21T16:29:06.212Z",
-    "updatedAt": "2025-11-21T16:29:06.212Z",
-    "id": 32
+    "updatedAt": "2025-11-21T16:29:30.758Z",
+    "id": 32,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-seequince-short-dress/1763742567667.jpeg"
+    ]
   }
 ]
