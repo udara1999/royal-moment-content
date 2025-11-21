@@ -1100,7 +1100,11 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-11-21T16:31:35.124Z",
-    "updatedAt": "2025-11-21T16:31:35.124Z",
-    "id": 33
+    "updatedAt": "2025-11-21T16:32:06.237Z",
+    "id": 33,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-glamour-dress/1763742720593.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-glamour-dress/1763742723364.jpeg"
+    ]
   }
 ]
