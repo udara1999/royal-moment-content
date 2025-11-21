@@ -1206,7 +1206,11 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-11-21T16:46:28.115Z",
-    "updatedAt": "2025-11-21T16:46:28.115Z",
-    "id": 37
+    "updatedAt": "2025-11-21T16:47:03.114Z",
+    "id": 37,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/yellow-ruffle-sleeve-dress/1763743617108.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/yellow-ruffle-sleeve-dress/1763743619942.jpeg"
+    ]
   }
 ]
