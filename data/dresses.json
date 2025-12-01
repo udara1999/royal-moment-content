@@ -1287,7 +1287,8 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-12-01T15:19:05.518Z",
-    "updatedAt": "2025-12-01T15:19:05.518Z",
-    "id": 40
+    "updatedAt": "2025-12-01T15:20:03.117Z",
+    "id": 40,
+    "dressCode": "C32"
   }
 ]
