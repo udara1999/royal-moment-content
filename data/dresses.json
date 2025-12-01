@@ -1265,9 +1265,10 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-12-01T15:12:32.596Z",
-    "updatedAt": "2025-12-01T15:19:29.351Z",
+    "updatedAt": "2025-12-01T15:21:30.156Z",
     "id": 39,
-    "tag": "Party"
+    "tag": "Party",
+    "dressCode": "C44"
   },
   {
     "name": "Navy Blue Bodysuit Dress",
