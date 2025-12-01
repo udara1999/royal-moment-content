@@ -1246,5 +1246,26 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/blue-work-pleat-dress/1763743027152.jpeg"
     ],
     "order": 33
+  },
+  {
+    "name": "Black Sequin Short Dress",
+    "price": "LKR 3500",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-sequin-short-dress/1764601952596.jpeg",
+    "categories": [
+      "cat-8",
+      "cat-7"
+    ],
+    "subcategories": [
+      "sub-8-3"
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-12-01T15:12:32.596Z",
+    "updatedAt": "2025-12-01T15:12:32.596Z",
+    "id": 39
   }
 ]
