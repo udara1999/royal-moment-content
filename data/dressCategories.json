@@ -182,5 +182,19 @@
         "name": "Lehenga"
       }
     ]
+  },
+  {
+    "id": "cat-1764646331929-gallery",
+    "name": "Gallery",
+    "subcategories": [
+      {
+        "id": "sub-1764646390059",
+        "name": "Gallery"
+      },
+      {
+        "id": "sub-1764646400650",
+        "name": "Super Model"
+      }
+    ]
   }
 ]
