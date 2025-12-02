@@ -279,5 +279,21 @@
         "name": "Action & Adventure Sport"
       }
     ]
+  },
+  {
+    "id": "cat-1764647061543-galley",
+    "name": "Galley",
+    "children": [
+      {
+        "id": "sub-1764647073280",
+        "name": "Super Model",
+        "children": []
+      },
+      {
+        "id": "sub-1764647094143",
+        "name": "Paid Partnerships",
+        "children": []
+      }
+    ]
   }
 ]
