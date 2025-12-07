@@ -1360,5 +1360,30 @@
     "createdAt": "2025-12-07T04:17:05.058Z",
     "updatedAt": "2025-12-07T04:17:05.058Z",
     "id": 43
+  },
+  {
+    "name": "Glitter Body Fit Dress",
+    "price": "LKR 5000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-body-fit-dress/1765081155641.jpeg",
+    "tag": "Party",
+    "dressCode": "C47",
+    "categories": [
+      "cat-8",
+      "cat-7"
+    ],
+    "subcategories": [
+      "sub-7-5",
+      "sub-8-2",
+      "sub-8-4"
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2025-12-07T04:19:15.641Z",
+    "updatedAt": "2025-12-07T04:19:15.641Z",
+    "id": 44
   }
 ]
