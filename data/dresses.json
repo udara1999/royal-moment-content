@@ -62,7 +62,7 @@
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
     "tag": "Birthday,Pre-Shoot",
-    "updatedAt": "2025-10-24T05:26:46.908Z",
+    "updatedAt": "2025-12-07T03:42:16.144Z",
     "availableColors": [
       "Blue",
       "White",
@@ -79,8 +79,8 @@
     ],
     "images": [],
     "order": 1,
-    "isAvailable": false,
-    "isAvailableForSale": true,
+    "isAvailable": true,
+    "isAvailableForSale": false,
     "sellPrice": "LKR 15000",
     "offer": {
       "id": "offer_1759806236032",
