@@ -1784,5 +1784,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-nethmi-roshel-rogers/1766366091429.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-nethmi-roshel-rogers/1766366094283.jpeg"
     ]
+  },
+  {
+    "title": "Indi Foundation Christmas Event",
+    "category": "Event",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-christmas-event/1766366205916.jpeg",
+    "location": "Maharagama",
+    "likes": 0,
+    "categories": [
+      "cat-4"
+    ],
+    "subcategories": [
+      "cat-4-2"
+    ],
+    "createdAt": "2025-12-22T01:16:45.916Z",
+    "updatedAt": "2025-12-22T01:16:45.916Z",
+    "id": 35
   }
 ]
