@@ -23,9 +23,13 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2026-01-13T15:09:32.453Z",
-    "updatedAt": "2026-01-13T15:09:32.453Z",
+    "updatedAt": "2026-01-13T15:12:08.186Z",
     "id": 45,
-    "order": 0
+    "order": 0,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-net-dress/1768317120972.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-net-dress/1768317124554.jpeg"
+    ]
   },
   {
     "name": "Gliter velbon ",
