@@ -1422,5 +1422,33 @@
     "updatedAt": "2025-12-07T04:19:15.641Z",
     "id": 44,
     "order": 40
+  },
+  {
+    "name": "Black Net Dress",
+    "price": "LKR 10000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317451424.jpeg",
+    "tag": "Birthday,Pre-Shoot,Party",
+    "dressCode": "C49",
+    "categories": [
+      "cat-4",
+      "cat-5",
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-5-2",
+      "sub-4-2",
+      "sub-5-5",
+      "sub-8-3"
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2026-01-13T15:17:31.424Z",
+    "updatedAt": "2026-01-13T15:17:31.424Z",
+    "id": 46
   }
 ]
