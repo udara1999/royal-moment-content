@@ -33,6 +33,39 @@
     ]
   },
   {
+    "name": "Black Net Dress",
+    "price": "LKR 10000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317451424.jpeg",
+    "tag": "Birthday,Pre-Shoot,Party",
+    "dressCode": "C49",
+    "categories": [
+      "cat-4",
+      "cat-5",
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-5-2",
+      "sub-4-2",
+      "sub-5-5",
+      "sub-8-3"
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2026-01-13T15:17:31.424Z",
+    "updatedAt": "2026-01-13T15:18:41.372Z",
+    "id": 46,
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317513085.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317517845.jpeg"
+    ],
+    "order": 1
+  },
+  {
     "name": "Gliter velbon ",
     "price": "LKR 5000",
     "designer": "Bridal Haven",
@@ -58,7 +91,7 @@
     "createdAt": "2025-09-18T00:45:29.951Z",
     "updatedAt": "2025-10-08T09:23:40.784Z",
     "id": 28,
-    "order": 1,
+    "order": 2,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156386518.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156388513.jpg",
@@ -111,7 +144,7 @@
       "sub-5-5"
     ],
     "images": [],
-    "order": 2,
+    "order": 3,
     "isAvailable": true,
     "isAvailableForSale": false,
     "sellPrice": "LKR 15000",
@@ -155,7 +188,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005789739.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-off-shoulder-bodycon/1756005792632.jpg"
     ],
-    "order": 3,
+    "order": 4,
     "isAvailable": true,
     "isAvailableForSale": false,
     "offer": {
@@ -195,7 +228,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/yellow-ruffle-sleeve-dress/1763743619942.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/yellow-ruffle-sleeve-dress/1763743696154.jpeg"
     ],
-    "order": 4
+    "order": 5
   },
   {
     "name": "Silver Sequin Dress",
@@ -223,7 +256,7 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/silver-sequin-dress/1763743259990.jpeg"
     ],
-    "order": 5
+    "order": 6
   },
   {
     "name": "Purple Fairy Corset ",
@@ -254,7 +287,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-fairy-corset-/1760084900420.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-fairy-corset-/1760084903349.jpeg"
     ],
-    "order": 6
+    "order": 7
   },
   {
     "name": "White Long With Tail",
@@ -290,7 +323,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004343554.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/white-long-with-tail/1756004345654.jpg"
     ],
-    "order": 7,
+    "order": 8,
     "isAvailable": true
   },
   {
@@ -326,7 +359,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005477244.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/glitter-bodycon-with-straps/1756005479145.jpg"
     ],
-    "order": 8,
+    "order": 9,
     "isAvailable": true,
     "isAvailableForSale": false
   },
@@ -364,7 +397,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004206932.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-player-sleeveless-dress/1756004208789.jpg"
     ],
-    "order": 9,
+    "order": 10,
     "isAvailable": true,
     "isAvailableForSale": false
   },
@@ -393,7 +426,7 @@
     "createdAt": "2025-11-21T16:53:22.101Z",
     "updatedAt": "2025-11-21T16:53:22.101Z",
     "id": 38,
-    "order": 10
+    "order": 11
   },
   {
     "id": 8,
@@ -428,7 +461,7 @@
       "sub-2-1",
       "sub-4-1"
     ],
-    "order": 11,
+    "order": 12,
     "isAvailable": true
   },
   {
@@ -475,7 +508,7 @@
       "sub-8-2"
     ],
     "dressCode": "C13",
-    "order": 12,
+    "order": 13,
     "isAvailable": true,
     "isAvailableForSale": false,
     "offer": {
@@ -534,7 +567,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003561284.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-with-slit/1756003563204.jpg"
     ],
-    "order": 13,
+    "order": 14,
     "isAvailable": true,
     "isAvailableForSale": false
   },
@@ -585,7 +618,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003804944.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/side-long-dress/1756003806556.jpg"
     ],
-    "order": 14,
+    "order": 15,
     "isAvailable": true,
     "isAvailableForSale": false,
     "offer": {
@@ -628,7 +661,7 @@
       "Pink",
       "Yellow"
     ],
-    "order": 15,
+    "order": 16,
     "isAvailable": true,
     "isAvailableForSale": false
   },
@@ -663,7 +696,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004116781.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/georgette-long-dress-with-trail/1756004119856.jpg"
     ],
-    "order": 16,
+    "order": 17,
     "isAvailable": true,
     "isAvailableForSale": false,
     "offer": {
@@ -707,7 +740,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1756004150346.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/lace-bodycon-dress/1756004151942.jpg"
     ],
-    "order": 17,
+    "order": 18,
     "isAvailable": true
   },
   {
@@ -736,7 +769,7 @@
       "sub-4-1",
       "sub-5-1"
     ],
-    "order": 18,
+    "order": 19,
     "isAvailable": true
   },
   {
@@ -765,7 +798,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/one-shoulder-lehenga/1756004426592.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/one-shoulder-lehenga/1756004428657.jpg"
     ],
-    "order": 19,
+    "order": 20,
     "isAvailable": true
   },
   {
@@ -798,7 +831,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-ruffle-dress/1756004692678.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-ruffle-dress/1756004694863.jpg"
     ],
-    "order": 20,
+    "order": 21,
     "isAvailable": true,
     "offer": {
       "id": "offer_1759806342049",
@@ -844,7 +877,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004792324.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/long-dress-with-velbon/1756004793791.jpg"
     ],
-    "order": 21,
+    "order": 22,
     "isAvailable": true,
     "offer": {
       "id": "offer_1759806365636",
@@ -882,7 +915,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005397666.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/ruffle-lehenga/1756005402109.jpg"
     ],
-    "order": 22,
+    "order": 23,
     "isAvailable": true,
     "isAvailableForSale": false
   },
@@ -917,7 +950,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005056503.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1756005058102.jpg"
     ],
-    "order": 23,
+    "order": 24,
     "isAvailable": true,
     "isAvailableForSale": false,
     "sellPrice": "LKR 4000"
@@ -954,7 +987,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005432020.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/velvet-long-dress-with-back-knot/1756005434060.jpg"
     ],
-    "order": 24,
+    "order": 25,
     "isAvailable": true,
     "isAvailableForSale": false,
     "offer": {
@@ -994,7 +1027,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005512193.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/floral-frill-dress/1756005514133.jpg"
     ],
-    "order": 25,
+    "order": 26,
     "isAvailable": true
   },
   {
@@ -1025,7 +1058,7 @@
       "Red",
       "Blue"
     ],
-    "order": 26,
+    "order": 27,
     "isAvailable": true,
     "isAvailableForSale": false,
     "offer": {
@@ -1064,7 +1097,7 @@
       "Ivory",
       "Black"
     ],
-    "order": 27,
+    "order": 28,
     "isAvailable": true,
     "isAvailableForSale": false,
     "images": [
@@ -1102,7 +1135,7 @@
     "createdAt": "2025-09-15T20:36:32.046Z",
     "updatedAt": "2025-12-07T03:45:24.954Z",
     "id": 27,
-    "order": 28
+    "order": 29
   },
   {
     "name": "Red lase long sleeve",
@@ -1128,7 +1161,7 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/red-lase-long-sleeve/1759916130063.jpg"
     ],
-    "order": 29
+    "order": 30
   },
   {
     "name": "Orange Organza 2 Layer ",
@@ -1160,7 +1193,7 @@
     "createdAt": "2025-10-10T08:30:52.872Z",
     "updatedAt": "2025-10-10T08:43:20.919Z",
     "id": 31,
-    "order": 30
+    "order": 31
   },
   {
     "name": "Purple seequince short dress",
@@ -1190,7 +1223,7 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/purple-seequince-short-dress/1763742567667.jpeg"
     ],
-    "order": 31
+    "order": 32
   },
   {
     "name": "Black Glamour Dress",
@@ -1221,7 +1254,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-glamour-dress/1763742720593.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-glamour-dress/1763742723364.jpeg"
     ],
-    "order": 32
+    "order": 33
   },
   {
     "name": "Maroon Dust Bodyfit Dress",
@@ -1248,7 +1281,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/maroon-dust-bodyfit-dress/1763742901009.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/maroon-dust-bodyfit-dress/1763742904130.jpeg"
     ],
-    "order": 33
+    "order": 34
   },
   {
     "name": "Blue Work Pleat Dress",
@@ -1276,7 +1309,7 @@
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/blue-work-pleat-dress/1763743027152.jpeg"
     ],
-    "order": 34
+    "order": 35
   },
   {
     "name": "Black Sequin Short Dress",
@@ -1300,7 +1333,7 @@
     "id": 39,
     "tag": "Party",
     "dressCode": "C44",
-    "order": 35
+    "order": 36
   },
   {
     "name": "Navy Blue Bodysuit Dress",
@@ -1323,7 +1356,7 @@
     "updatedAt": "2025-12-01T15:20:03.117Z",
     "id": 40,
     "dressCode": "C32",
-    "order": 36
+    "order": 37
   },
   {
     "name": "Red Beads Fit Dress",
@@ -1348,7 +1381,7 @@
     "createdAt": "2025-12-07T04:06:05.102Z",
     "updatedAt": "2025-12-07T04:14:34.716Z",
     "id": 41,
-    "order": 37
+    "order": 38
   },
   {
     "name": "Pink Floral Dress",
@@ -1371,7 +1404,7 @@
     "createdAt": "2025-12-07T04:14:14.270Z",
     "updatedAt": "2025-12-07T04:14:14.270Z",
     "id": 42,
-    "order": 38
+    "order": 39
   },
   {
     "name": "Shiny Magenta Long Dress",
@@ -1395,7 +1428,7 @@
     "createdAt": "2025-12-07T04:17:05.058Z",
     "updatedAt": "2025-12-07T04:17:05.058Z",
     "id": 43,
-    "order": 39
+    "order": 40
   },
   {
     "name": "Glitter Body Fit Dress",
@@ -1421,38 +1454,6 @@
     "createdAt": "2025-12-07T04:19:15.641Z",
     "updatedAt": "2025-12-07T04:19:15.641Z",
     "id": 44,
-    "order": 40
-  },
-  {
-    "name": "Black Net Dress",
-    "price": "LKR 10000",
-    "designer": "Bridal Haven",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317451424.jpeg",
-    "tag": "Birthday,Pre-Shoot,Party",
-    "dressCode": "C49",
-    "categories": [
-      "cat-4",
-      "cat-5",
-      "cat-8"
-    ],
-    "subcategories": [
-      "sub-4-5",
-      "sub-5-2",
-      "sub-4-2",
-      "sub-5-5",
-      "sub-8-3"
-    ],
-    "availableColors": [
-      "Black"
-    ],
-    "isAvailable": true,
-    "isAvailableForSale": false,
-    "createdAt": "2026-01-13T15:17:31.424Z",
-    "updatedAt": "2026-01-13T15:18:41.372Z",
-    "id": 46,
-    "images": [
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317513085.jpeg",
-      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/black-net-dress/1768317517845.jpeg"
-    ]
+    "order": 41
   }
 ]
