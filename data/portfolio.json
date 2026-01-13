@@ -1906,5 +1906,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-christmas-event/1766366506889.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-christmas-event/1766366509713.jpeg"
     ]
+  },
+  {
+    "title": "Maleesha's 16th Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-16th-birthday/1768318113603.jpeg",
+    "location": "Bandaragama",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-2"
+    ],
+    "createdAt": "2026-01-13T15:28:33.603Z",
+    "updatedAt": "2026-01-13T15:28:33.603Z",
+    "id": 36
   }
 ]
