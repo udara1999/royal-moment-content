@@ -1955,5 +1955,23 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-christmas-event/1766366509713.jpeg"
     ],
     "order": 34
+  },
+  {
+    "title": "Maleesha's Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-birthday/1768504841882.jpeg",
+    "location": "Royal Moments Studio Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-2",
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-2-2",
+      "cat-3-5"
+    ],
+    "createdAt": "2026-01-15T19:20:41.882Z",
+    "updatedAt": "2026-01-15T19:20:41.882Z",
+    "id": 37
   }
 ]
