@@ -403,7 +403,7 @@
   },
   {
     "name": "Magenta 2 Layer Dress",
-    "price": "LKR 8000",
+    "price": "LKR 10000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/magenta-2-layer-dress/1763744002101.jpeg",
     "tag": "Birthday, Pre-Shoot",
@@ -424,7 +424,7 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2025-11-21T16:53:22.101Z",
-    "updatedAt": "2025-11-21T16:53:22.101Z",
+    "updatedAt": "2026-01-16T05:47:13.570Z",
     "id": 38,
     "order": 11
   },
