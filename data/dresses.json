@@ -445,7 +445,7 @@
     "designer": "Tharu",
     "created_at": "2025-08-16 23:35:56",
     "updated_at": "2025-08-16 23:35:56",
-    "updatedAt": "2025-08-29T16:38:41.876Z",
+    "updatedAt": "2026-01-16T05:47:58.640Z",
     "tag": "Pre-Shoot,Engagement,",
     "availableColors": [
       "Blue"
@@ -457,12 +457,11 @@
     ],
     "subcategories": [
       "sub-4-5",
-      "sub-2-4",
-      "sub-2-1",
-      "sub-4-1"
+      "sub-2-4"
     ],
     "order": 12,
-    "isAvailable": true
+    "isAvailable": false,
+    "isAvailableForSale": false
   },
   {
     "id": 4,
