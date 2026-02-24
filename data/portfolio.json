@@ -2083,5 +2083,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shena-hansi-pre-shoot-part-2/1771895885230.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shena-hansi-pre-shoot-part-2/1771895887900.jpg"
     ]
+  },
+  {
+    "title": "Dushan & Nikeshila",
+    "category": "Portrait Photoshoot",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dushan-nikeshila/1771896441226.jpg",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
+    ],
+    "createdAt": "2026-02-24T01:27:21.226Z",
+    "updatedAt": "2026-02-24T01:27:21.226Z",
+    "id": 40
   }
 ]
