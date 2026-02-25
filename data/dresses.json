@@ -1504,5 +1504,29 @@
     "createdAt": "2026-02-25T02:53:29.265Z",
     "updatedAt": "2026-02-25T02:53:29.265Z",
     "id": 48
+  },
+  {
+    "name": "Halter-Neck Evening Dress",
+    "price": "LKR 5000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/halter-neck-evening-dress/1771988123960.jpg",
+    "tag": "Pre-Shoot,Party,Birthday",
+    "dressCode": "C51",
+    "categories": [
+      "cat-4",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-5-5"
+    ],
+    "availableColors": [
+      "Blue"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2026-02-25T02:55:23.960Z",
+    "updatedAt": "2026-02-25T02:55:23.960Z",
+    "id": 49
   }
 ]
