@@ -1479,5 +1479,30 @@
     "updatedAt": "2026-01-13T15:23:06.187Z",
     "id": 47,
     "tag": "Party"
+  },
+  {
+    "name": "Powder Blue Tulle Off-the-Shoulder Gown with Slit",
+    "price": "LKR 7000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/powder-blue-tulle-off-the-shoulder-gown-with-slit/1771988009265.jpg",
+    "tag": "Pre-Shoot,Birthday",
+    "dressCode": "C50",
+    "categories": [
+      "cat-4",
+      "cat-5"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-4-2",
+      "sub-5-5"
+    ],
+    "availableColors": [
+      "Blue"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2026-02-25T02:53:29.265Z",
+    "updatedAt": "2026-02-25T02:53:29.265Z",
+    "id": 48
   }
 ]
