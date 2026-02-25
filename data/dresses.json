@@ -1560,5 +1560,31 @@
     "createdAt": "2026-02-25T03:01:00.515Z",
     "updatedAt": "2026-02-25T03:01:00.515Z",
     "id": 50
+  },
+  {
+    "name": "Embroidered Illusion Empire Gown",
+    "price": "LKR 5000",
+    "designer": "Bridal Haven",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/embroidered-illusion-empire-gown/1771988686420.jpg",
+    "tag": "Pre-shoot,Birthday,Party",
+    "dressCode": "C52",
+    "categories": [
+      "cat-4",
+      "cat-5",
+      "cat-8"
+    ],
+    "subcategories": [
+      "sub-4-5",
+      "sub-5-5",
+      "sub-8-3"
+    ],
+    "availableColors": [
+      "Rose Gold"
+    ],
+    "isAvailable": true,
+    "isAvailableForSale": false,
+    "createdAt": "2026-02-25T03:04:46.420Z",
+    "updatedAt": "2026-02-25T03:04:46.420Z",
+    "id": 51
   }
 ]
