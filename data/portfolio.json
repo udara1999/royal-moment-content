@@ -2186,5 +2186,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nimthera-thiwanka-pre-shoot/1771897035246.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nimthera-thiwanka-pre-shoot/1771897037359.jpg"
     ]
+  },
+  {
+    "title": "Nisha 16th Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nisha-16th-birthday/1772249616495.jpeg",
+    "location": "Kaluthara",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-2"
+    ],
+    "createdAt": "2026-02-28T03:33:36.495Z",
+    "updatedAt": "2026-02-28T03:33:36.495Z",
+    "id": 42
   }
 ]
