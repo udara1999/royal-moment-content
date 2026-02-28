@@ -2304,5 +2304,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/akilas-19th-birthday/1772252712974.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/akilas-19th-birthday/1772252715970.jpeg"
     ]
+  },
+  {
+    "title": "Sewni's Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewnis-birthday/1772252934520.jpeg",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "createdAt": "2026-02-28T04:28:54.520Z",
+    "updatedAt": "2026-02-28T04:28:54.520Z",
+    "id": 45
   }
 ]
