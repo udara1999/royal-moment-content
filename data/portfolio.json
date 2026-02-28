@@ -2223,5 +2223,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nisha-16th-birthday/1772249696225.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nisha-16th-birthday/1772249698812.jpeg"
     ]
+  },
+  {
+    "title": "Dushara's 18th Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dusharas-18th-birthday/1772251089936.jpeg",
+    "location": "Colombo",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "createdAt": "2026-02-28T03:58:09.936Z",
+    "updatedAt": "2026-02-28T03:58:09.936Z",
+    "id": 43
   }
 ]
