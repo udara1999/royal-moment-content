@@ -2352,5 +2352,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewnis-birthday/1772253022628.jpeg"
     ],
     "order": 43
+  },
+  {
+    "title": "Methuli's 20th Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/methulis-20th-birthday/1772253315429.jpeg",
+    "location": "Mount Lavinia",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "createdAt": "2026-02-28T04:35:15.429Z",
+    "updatedAt": "2026-02-28T04:35:15.429Z",
+    "id": 46
   }
 ]
