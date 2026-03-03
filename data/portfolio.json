@@ -2392,5 +2392,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/methulis-20th-birthday/1772253393848.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/methulis-20th-birthday/1772253396782.jpeg"
     ]
+  },
+  {
+    "title": "Ishen's 1st Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ishens-1st-birthday/1772512469549.jpeg",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-1"
+    ],
+    "createdAt": "2026-03-03T04:34:29.549Z",
+    "updatedAt": "2026-03-03T04:34:29.549Z",
+    "id": 47
   }
 ]
