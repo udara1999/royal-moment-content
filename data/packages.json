@@ -94,15 +94,15 @@
     "name": "Mini Moments Package (Basic & Quick)",
     "price": "LKR 25000",
     "type": "Wedding",
-    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 20 beautifully edited digital photos, all for Rs. 25,000.",
+    "description": "Our Mini Moments Package is perfect for capturing quick yet meaningful celebrations. With 2 hours of coverage by a professional photographer and 25 beautifully edited digital photos, all for Rs. 25,000.",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/packages/mini-moments-package-basic-quick/1756490508732.jpg",
     "included": [
       "2 hours of photography coverage",
       "One professional photographer",
-      "20 edited photos (soft copies)"
+      "25 edited photos (soft copies)"
     ],
     "createdAt": "2025-08-29T18:01:48.731Z",
-    "updatedAt": "2025-10-24T08:39:18.680Z",
+    "updatedAt": "2026-03-30T05:01:07.793Z",
     "id": 2,
     "order": 4
   },
