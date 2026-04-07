@@ -2727,5 +2727,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi/1775404270992.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi/1775404272208.jpeg"
     ]
+  },
+  {
+    "title": "Chanuthmi 18th Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chanuthmi-18th-birthday/1775524245841.jpeg",
+    "location": "Panadura",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "createdAt": "2026-04-07T01:10:45.841Z",
+    "updatedAt": "2026-04-07T01:10:45.841Z",
+    "id": 52
   }
 ]
