@@ -2764,5 +2764,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chanuthmi-18th-birthday/1775524541744.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chanuthmi-18th-birthday/1775524544003.jpeg"
     ]
+  },
+  {
+    "title": "Dulakshi 21st Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dulakshi-21st-birthday/1777996553867.jpeg",
+    "location": "Kirala Lake View",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "createdAt": "2026-05-05T15:55:53.866Z",
+    "updatedAt": "2026-05-05T15:55:53.866Z",
+    "id": 53
   }
 ]
