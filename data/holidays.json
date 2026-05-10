@@ -58,5 +58,17 @@
     "createdAt": "2025-10-08T09:45:21.272Z",
     "updatedAt": "2025-10-08T09:45:21.272Z",
     "id": 4
+  },
+  {
+    "date": "2026-05-30",
+    "name": "Poya Day",
+    "description": "",
+    "type": "religious_holiday",
+    "isRecurring": false,
+    "recurringMonth": 1,
+    "recurringDay": 1,
+    "createdAt": "2026-05-10T01:15:49.375Z",
+    "updatedAt": "2026-05-10T01:15:49.375Z",
+    "id": 5
   }
 ]
