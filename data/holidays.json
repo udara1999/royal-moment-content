@@ -70,5 +70,17 @@
     "createdAt": "2026-05-10T01:15:49.375Z",
     "updatedAt": "2026-05-10T01:15:49.375Z",
     "id": 5
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Company Holiday",
+    "description": "",
+    "type": "company_holiday",
+    "isRecurring": false,
+    "recurringMonth": 1,
+    "recurringDay": 1,
+    "createdAt": "2026-05-10T01:16:41.452Z",
+    "updatedAt": "2026-05-10T01:16:41.452Z",
+    "id": 6
   }
 ]
