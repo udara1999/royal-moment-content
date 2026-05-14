@@ -2986,5 +2986,22 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thasheli-thinagya-first-letters/1778374697966.jpeg"
     ],
     "order": 54
+  },
+  {
+    "title": "Okidi 2nd Birthday",
+    "category": "Birthday",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/okidi-2nd-birthday/1778776730493.jpeg",
+    "location": "Royal Moments Studio Indoor",
+    "likes": 0,
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-1"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1IxjdFVsj4q1kStkBXdoZc4k-Y0S5cUrW?usp=sharing",
+    "createdAt": "2026-05-14T16:38:50.493Z",
+    "updatedAt": "2026-05-14T16:38:50.493Z",
+    "id": 57
   }
 ]
