@@ -2923,5 +2923,21 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thasheli-thinagya-first-letters/1778374695096.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thasheli-thinagya-first-letters/1778374697966.jpeg"
     ]
+  },
+  {
+    "title": "Mithila & Pramithi",
+    "category": "Wedding",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778756446193.jpeg",
+    "location": "Kirala Lake View Photo Location",
+    "likes": 0,
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "cat-1-2"
+    ],
+    "createdAt": "2026-05-14T11:00:46.192Z",
+    "updatedAt": "2026-05-14T11:00:46.192Z",
+    "id": 56
   }
 ]
