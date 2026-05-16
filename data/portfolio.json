@@ -664,7 +664,7 @@
     "location": "Colombo",
     "likes": 0,
     "createdAt": "2025-08-24T21:37:12.356Z",
-    "updatedAt": "2025-08-25T19:25:55.793Z",
+    "updatedAt": "2026-05-16T03:22:08.813Z",
     "id": 18,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maneeshas-23rd-birthday/1756071455568.jpg",
@@ -723,7 +723,8 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 13
+    "order": 13,
+    "externalUrl": "https://drive.google.com/drive/folders/16HrCVei46KYzgR0NpuCnIevHYXIHk63t?usp=sharing"
   },
   {
     "title": "Graduation",
