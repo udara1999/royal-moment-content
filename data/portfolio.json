@@ -798,7 +798,7 @@
     "location": "Panadura Beach",
     "likes": 156,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-25T19:19:41.043Z",
+    "updatedAt": "2026-05-16T03:24:06.936Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chathu-perera/1755862997202.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chathu-perera/1755862998590.jpg",
@@ -828,7 +828,8 @@
     "subcategories": [
       "cat-3-1"
     ],
-    "order": 16
+    "order": 16,
+    "externalUrl": "https://drive.google.com/drive/folders/1Nq6ub-_By1K4I6SVCoQJ9ENXnqNv3l_V?usp=sharing"
   },
   {
     "id": 5,
