@@ -163,7 +163,7 @@
       "cat-1-2"
     ],
     "createdAt": "2026-05-14T11:00:46.192Z",
-    "updatedAt": "2026-05-14T11:10:07.860Z",
+    "updatedAt": "2026-05-16T02:56:26.078Z",
     "id": 56,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778756880445.jpeg",
@@ -206,7 +206,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778757001513.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778757004791.jpeg"
     ],
-    "order": 3
+    "order": 3,
+    "externalUrl": "https://drive.google.com/drive/folders/1jngMJgZPZnVEJ2qF9KWHIy3pwXZDbLlZ?usp=sharing"
   },
   {
     "title": "Hiruni's Birthday",
