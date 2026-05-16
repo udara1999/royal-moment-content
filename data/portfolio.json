@@ -357,7 +357,7 @@
     "location": "Beach",
     "likes": 89,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-09-16T02:46:03.365Z",
+    "updatedAt": "2026-05-16T03:15:43.798Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069522326.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-chayana/1756069523435.jpg",
@@ -386,7 +386,8 @@
       "cat-3-2",
       "sub-1756150211262"
     ],
-    "order": 7
+    "order": 7,
+    "externalUrl": "https://drive.google.com/drive/folders/1dKTcY5ZTEpFIy88TZmbkeBN41oOwni0q?usp=sharing"
   },
   {
     "title": "Maleesha's Birthday",
