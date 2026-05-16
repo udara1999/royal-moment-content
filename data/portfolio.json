@@ -839,7 +839,7 @@
     "location": "Savini's Home",
     "likes": 124,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-25T19:32:08.073Z",
+    "updatedAt": "2026-05-16T03:24:47.825Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/lisa-mark/1755861144289.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/lisa-mark/1755861147110.jpg",
@@ -887,7 +887,8 @@
     "subcategories": [
       "sub-1756150228173"
     ],
-    "order": 17
+    "order": 17,
+    "externalUrl": "https://drive.google.com/drive/folders/1Pmr_8B0WeRew3yUjYTms6eBYB9khlXWB?usp=sharing"
   },
   {
     "title": "Rashmi & Anjula",
