@@ -595,7 +595,7 @@
     "location": "Kirala Lake View",
     "likes": 0,
     "createdAt": "2025-08-24T21:15:41.854Z",
-    "updatedAt": "2025-08-25T19:23:30.689Z",
+    "updatedAt": "2026-05-16T03:21:25.153Z",
     "id": 11,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sahen-3rd-birthday/1756070160156.jpg",
@@ -654,7 +654,8 @@
     "subcategories": [
       "cat-2-1"
     ],
-    "order": 12
+    "order": 12,
+    "externalUrl": "https://drive.google.com/drive/folders/1rrd3XOleuq86uJPG6MqcwF38u_vaqYOx?usp=sharing"
   },
   {
     "title": "Maneesha's 23rd Birthday",
