@@ -1047,7 +1047,7 @@
     "location": "Coconut Tree Hill",
     "likes": 0,
     "createdAt": "2025-08-24T21:32:34.583Z",
-    "updatedAt": "2025-08-25T19:25:20.807Z",
+    "updatedAt": "2026-05-18T01:55:51.560Z",
     "id": 16,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chamodis-18th-birthday/1756071171088.jpg",
@@ -1086,7 +1086,8 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 21
+    "order": 21,
+    "externalUrl": "https://drive.google.com/drive/folders/13VqI1APlsC5Zk7yl2q2AcAJwZ31RuR_e?usp=sharing"
   },
   {
     "title": "Tiruni & Shehan's Weidding",
