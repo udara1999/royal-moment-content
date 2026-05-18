@@ -1011,7 +1011,7 @@
     "location": "Victoria Hotel",
     "likes": 203,
     "createdAt": "2025-08-16T19:00:00.000Z",
-    "updatedAt": "2025-08-25T19:20:31.616Z",
+    "updatedAt": "2026-05-18T01:55:01.740Z",
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070348982.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewni-lakila/1756070351081.jpg",
@@ -1037,7 +1037,8 @@
     "subcategories": [
       "cat-3-2"
     ],
-    "order": 20
+    "order": 20,
+    "externalUrl": "https://drive.google.com/drive/folders/1VJG4qn16VNfcHrIRgYV6FAadv-BhkbIc?usp=sharing"
   },
   {
     "title": "Chamodi's 18th Birthday",
