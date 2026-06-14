@@ -151,6 +151,25 @@
     "externalUrl": "https://drive.google.com/drive/folders/1izt0w3M0aQ_9A3z0DMHvWqCUFS6nD-6X?usp=sharing"
   },
   {
+    "title": "Danushika & Suraj",
+    "location": "Colombo",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1781451327245.jpeg",
+    "images": [],
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "sub-1756150211262"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1BwrZ50c4rOyerpzAo9yhWpEV8vUuvvDB?usp=sharing",
+    "category": "Wedding",
+    "createdAt": "2026-06-14T15:37:07.810Z",
+    "updatedAt": "2026-06-14T15:37:07.810Z",
+    "likes": 0,
+    "id": 58,
+    "order": 3
+  },
+  {
     "title": "Mithila & Pramithi",
     "category": "Wedding",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778756446193.jpeg",
@@ -206,7 +225,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778757001513.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mithila-pramithi/1778757004791.jpeg"
     ],
-    "order": 3,
+    "order": 4,
     "externalUrl": "https://drive.google.com/drive/folders/1jngMJgZPZnVEJ2qF9KWHIy3pwXZDbLlZ?usp=sharing"
   },
   {
@@ -252,7 +271,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/hirunis-birthday/1774848544084.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/hirunis-birthday/1774848547822.jpeg"
     ],
-    "order": 4,
+    "order": 5,
     "externalUrl": "https://drive.google.com/drive/folders/1JxgKRpMkZopbCkOIBN5z5Fm-WzF93jse?usp=sharing"
   },
   {
@@ -298,7 +317,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shenal-pre-shoot-part-1/1771895544068.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shenal-pre-shoot-part-1/1771895546858.jpg"
     ],
-    "order": 5,
+    "order": 6,
     "externalUrl": "https://drive.google.com/drive/folders/1G8HUmXGe1drri2nj3hpBedbPGdIUDgLj?usp=sharing"
   },
   {
@@ -346,7 +365,7 @@
       "sub-1756150211262",
       "cat-3-2"
     ],
-    "order": 6,
+    "order": 7,
     "externalUrl": "https://drive.google.com/drive/folders/1MOU2uotRnXsrBCj1MVS75Ss9hP5axGrD?usp=sharing"
   },
   {
@@ -386,7 +405,7 @@
       "cat-3-2",
       "sub-1756150211262"
     ],
-    "order": 7,
+    "order": 8,
     "externalUrl": "https://drive.google.com/drive/folders/1dKTcY5ZTEpFIy88TZmbkeBN41oOwni0q?usp=sharing"
   },
   {
@@ -431,7 +450,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-birthday/1768504962851.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-birthday/1768504966303.jpeg"
     ],
-    "order": 8,
+    "order": 9,
     "externalUrl": "https://drive.google.com/drive/folders/12GB9DiKJR-a9M6Q-J8AyNE1kROJM_FO8?usp=sharing"
   },
   {
@@ -488,7 +507,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-nethmi-roshel-rogers/1766366091429.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-nethmi-roshel-rogers/1766366094283.jpeg"
     ],
-    "order": 9,
+    "order": 10,
     "externalUrl": "https://drive.google.com/drive/folders/1tWo-fDa_9lNm9iDUHKTJ_wQdtVE6iDcF?usp=sharing"
   },
   {
@@ -539,7 +558,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/primesha/1760944581341.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/primesha/1760944583395.jpg"
     ],
-    "order": 10,
+    "order": 11,
     "externalUrl": "https://drive.google.com/drive/folders/1N3EZJBpTawEINKCIMS6TbYnnWsS2UZw9?usp=sharing"
   },
   {
@@ -586,7 +605,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-16th-birthday/1768318244000.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-16th-birthday/1768318246676.jpeg"
     ],
-    "order": 11,
+    "order": 12,
     "externalUrl": "https://drive.google.com/drive/folders/1B72S6eRpWA_W2kKDYsxIl9uVawuQs9HG?usp=sharing"
   },
   {
@@ -655,7 +674,7 @@
     "subcategories": [
       "cat-2-1"
     ],
-    "order": 12,
+    "order": 13,
     "externalUrl": "https://drive.google.com/drive/folders/1rrd3XOleuq86uJPG6MqcwF38u_vaqYOx?usp=sharing"
   },
   {
@@ -724,7 +743,7 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 13,
+    "order": 14,
     "externalUrl": "https://drive.google.com/drive/folders/16HrCVei46KYzgR0NpuCnIevHYXIHk63t?usp=sharing"
   },
   {
@@ -753,7 +772,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361201589.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/graduation/1760361204960.jpeg"
     ],
-    "order": 14,
+    "order": 15,
     "externalUrl": "https://drive.google.com/drive/folders/178Hq2DqGtn8JlYPGdrNp3B8OgwcZ0Ho-?usp=sharing"
   },
   {
@@ -788,7 +807,7 @@
       "cat-3-1",
       "cat-1-1"
     ],
-    "order": 15,
+    "order": 16,
     "externalUrl": "https://drive.google.com/drive/folders/1pizCjWQXvtslCBfW0h0eVlD113ms9Njt?usp=sharing"
   },
   {
@@ -829,7 +848,7 @@
     "subcategories": [
       "cat-3-1"
     ],
-    "order": 16,
+    "order": 17,
     "externalUrl": "https://drive.google.com/drive/folders/1Nq6ub-_By1K4I6SVCoQJ9ENXnqNv3l_V?usp=sharing"
   },
   {
@@ -888,7 +907,7 @@
     "subcategories": [
       "sub-1756150228173"
     ],
-    "order": 17,
+    "order": 18,
     "externalUrl": "https://drive.google.com/drive/folders/1Pmr_8B0WeRew3yUjYTms6eBYB9khlXWB?usp=sharing"
   },
   {
@@ -936,7 +955,7 @@
       "cat-3-2",
       "sub-1756150211262"
     ],
-    "order": 18,
+    "order": 19,
     "externalUrl": "https://drive.google.com/drive/folders/12grTc-QFXYpMgvPxJgti-MG8RdC-Q7a0?usp=sharing"
   },
   {
@@ -1001,7 +1020,7 @@
       "cat-3-2",
       "sub-1756150211262"
     ],
-    "order": 19,
+    "order": 20,
     "externalUrl": "https://drive.google.com/drive/folders/19g1mPoia8hAHe-3QqmJn-4BwvdjEXtAL?usp=sharing"
   },
   {
@@ -1038,7 +1057,7 @@
     "subcategories": [
       "cat-3-2"
     ],
-    "order": 20,
+    "order": 21,
     "externalUrl": "https://drive.google.com/drive/folders/1VJG4qn16VNfcHrIRgYV6FAadv-BhkbIc?usp=sharing"
   },
   {
@@ -1087,7 +1106,7 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 21,
+    "order": 22,
     "externalUrl": "https://drive.google.com/drive/folders/13VqI1APlsC5Zk7yl2q2AcAJwZ31RuR_e?usp=sharing"
   },
   {
@@ -1114,7 +1133,7 @@
       "cat-1-2",
       "cat-1-3"
     ],
-    "order": 22
+    "order": 23
   },
   {
     "title": "Ayon 1st Birthday",
@@ -1173,7 +1192,7 @@
     "subcategories": [
       "cat-2-1"
     ],
-    "order": 23
+    "order": 24
   },
   {
     "title": "Sahen",
@@ -1206,7 +1225,7 @@
     "subcategories": [
       "cat-3-4"
     ],
-    "order": 24
+    "order": 25
   },
   {
     "title": "Sanjeewa",
@@ -1233,7 +1252,7 @@
     "subcategories": [
       "cat-3-1"
     ],
-    "order": 25
+    "order": 26
   },
   {
     "title": "Amandha & Tharindu",
@@ -1278,7 +1297,7 @@
     "subcategories": [
       "cat-3-2"
     ],
-    "order": 26
+    "order": 27
   },
   {
     "title": "Mandakini & Shashika",
@@ -1318,7 +1337,7 @@
     "subcategories": [
       "cat-1-2"
     ],
-    "order": 27
+    "order": 28
   },
   {
     "title": "Sadamali 21st Birthday",
@@ -1371,7 +1390,7 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 28
+    "order": 29
   },
   {
     "title": "35th Sri Gunarathna Pratibha",
@@ -1412,7 +1431,7 @@
     "subcategories": [
       "cat-4-4"
     ],
-    "order": 29
+    "order": 30
   },
   {
     "title": "Maleesha's Portrait",
@@ -1460,7 +1479,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-portrait/1757966377485.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleeshas-portrait/1757966379765.jpg"
     ],
-    "order": 30
+    "order": 31
   },
   {
     "title": "Gayathrika Madushani",
@@ -1496,7 +1515,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1777339293150.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1777339299338.jpg"
     ],
-    "order": 31
+    "order": 32
   },
   {
     "title": "Gayathrika Madushani",
@@ -1538,7 +1557,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966157804.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/gayathrika-madushani/1757966160386.jpg"
     ],
-    "order": 32
+    "order": 33
   },
   {
     "title": "Maleesha Sewwandi",
@@ -1577,7 +1596,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966752272.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/maleesha-sewwandi/1757966755063.jpg"
     ],
-    "order": 33
+    "order": 34
   },
   {
     "title": "Annual Party Event",
@@ -1665,7 +1684,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967411330.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/annual-party-event/1757967414075.JPG"
     ],
-    "order": 34
+    "order": 35
   },
   {
     "title": "Savini & Banuka Homecoming",
@@ -1804,7 +1823,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/savini-banuka-homecoming/1760500328249.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/savini-banuka-homecoming/1760500330670.JPG"
     ],
-    "order": 35
+    "order": 36
   },
   {
     "title": "Nimthera & Thiwanka Pre-Shoot",
@@ -1860,7 +1879,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nimthera-thiwanka-pre-shoot/1771897035246.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nimthera-thiwanka-pre-shoot/1771897037359.jpg"
     ],
-    "order": 36
+    "order": 37
   },
   {
     "title": "Dinithi & Shehan ",
@@ -1932,7 +1951,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dinithi-shehan-/1760500585491.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dinithi-shehan-/1760500587672.JPG"
     ],
-    "order": 37
+    "order": 38
   },
   {
     "title": "Shena & Hansi Pre-shoot Part 2",
@@ -1973,7 +1992,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shena-hansi-pre-shoot-part-2/1771895885230.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shena-hansi-pre-shoot-part-2/1771895887900.jpg"
     ],
-    "order": 38
+    "order": 39
   },
   {
     "title": "Nilakshi & Pradeep",
@@ -2048,7 +2067,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nilakshi-pradeep/1760501355321.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nilakshi-pradeep/1760501357592.JPG"
     ],
-    "order": 39
+    "order": 40
   },
   {
     "title": "New year Event",
@@ -2140,7 +2159,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969299389.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/new-year-event/1757969301457.JPG"
     ],
-    "order": 40
+    "order": 41
   },
   {
     "title": "Tharu",
@@ -2190,7 +2209,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tharu/1762651364200.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/tharu/1762651365659.jpeg"
     ],
-    "order": 41
+    "order": 42
   },
   {
     "title": "Indi Foundation",
@@ -2290,7 +2309,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968165111.JPG",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/-/1757968167652.JPG"
     ],
-    "order": 42
+    "order": 43
   },
   {
     "title": "Indi Foundation Christmas Event",
@@ -2413,7 +2432,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-christmas-event/1766366506889.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-christmas-event/1766366509713.jpeg"
     ],
-    "order": 43
+    "order": 44
   },
   {
     "title": "Dushan & Nikeshila",
@@ -2462,7 +2481,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dushan-nikeshila/1771896530411.jpg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dushan-nikeshila/1771896532503.jpg"
     ],
-    "order": 44
+    "order": 45
   },
   {
     "title": "Nisha 16th Birthday",
@@ -2500,7 +2519,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nisha-16th-birthday/1772249696225.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/nisha-16th-birthday/1772249698812.jpeg"
     ],
-    "order": 45
+    "order": 46
   },
   {
     "title": "Dushara's 18th Birthday",
@@ -2545,7 +2564,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dusharas-18th-birthday/1772251189826.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/dusharas-18th-birthday/1772251192417.jpeg"
     ],
-    "order": 46
+    "order": 47
   },
   {
     "title": "Akila's 19th Birthday",
@@ -2583,7 +2602,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/akilas-19th-birthday/1772252712974.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/akilas-19th-birthday/1772252715970.jpeg"
     ],
-    "order": 47
+    "order": 48
   },
   {
     "title": "Sewni's Birthday",
@@ -2624,7 +2643,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewnis-birthday/1772253019538.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sewnis-birthday/1772253022628.jpeg"
     ],
-    "order": 48
+    "order": 49
   },
   {
     "title": "Methuli's 20th Birthday",
@@ -2665,7 +2684,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/methulis-20th-birthday/1772253393848.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/methulis-20th-birthday/1772253396782.jpeg"
     ],
-    "order": 49
+    "order": 50
   },
   {
     "title": "Ishen's 1st Birthday",
@@ -2719,7 +2738,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ishens-1st-birthday/1772512735187.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ishens-1st-birthday/1772512738763.jpeg"
     ],
-    "order": 50,
+    "order": 51,
     "externalUrl": "https://drive.google.com/drive/folders/1D0iolrhqvAOlQzins2WCMLsErAU8cZ0v?usp=drive_link"
   },
   {
@@ -2868,7 +2887,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-at-colombo-port-city-speed-bay/1773364588776.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-at-colombo-port-city-speed-bay/1773364591956.jpeg"
     ],
-    "order": 51
+    "order": 52
   },
   {
     "title": "Thushi",
@@ -2910,7 +2929,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi/1775404270992.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi/1775404272208.jpeg"
     ],
-    "order": 52
+    "order": 53
   },
   {
     "title": "Chanuthmi 18th Birthday",
@@ -2948,7 +2967,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chanuthmi-18th-birthday/1775524541744.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/chanuthmi-18th-birthday/1775524544003.jpeg"
     ],
-    "order": 53
+    "order": 54
   },
   {
     "title": "Thasheli Thinagya First Letters",
@@ -3004,7 +3023,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thasheli-thinagya-first-letters/1778374695096.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thasheli-thinagya-first-letters/1778374697966.jpeg"
     ],
-    "order": 54
+    "order": 55
   },
   {
     "title": "Okidi 2nd Birthday",
@@ -3032,24 +3051,7 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/okidi-2nd-birthday/1778776787674.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/okidi-2nd-birthday/1778776790718.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/okidi-2nd-birthday/1778776793564.jpeg"
-    ]
-  },
-  {
-    "title": "Danushika & Suraj",
-    "location": "Colombo",
-    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1781451327245.jpeg",
-    "images": [],
-    "categories": [
-      "cat-1"
     ],
-    "subcategories": [
-      "sub-1756150211262"
-    ],
-    "externalUrl": "https://drive.google.com/drive/folders/1BwrZ50c4rOyerpzAo9yhWpEV8vUuvvDB?usp=sharing",
-    "category": "Wedding",
-    "createdAt": "2026-06-14T15:37:07.810Z",
-    "updatedAt": "2026-06-14T15:37:07.810Z",
-    "likes": 0,
-    "id": 58
+    "order": 56
   }
 ]
