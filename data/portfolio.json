@@ -3033,5 +3033,23 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/okidi-2nd-birthday/1778776790718.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/okidi-2nd-birthday/1778776793564.jpeg"
     ]
+  },
+  {
+    "title": "Danushika & Suraj",
+    "location": "Colombo",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1781451327245.jpeg",
+    "images": [],
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "sub-1756150211262"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1BwrZ50c4rOyerpzAo9yhWpEV8vUuvvDB?usp=sharing",
+    "category": "Wedding",
+    "createdAt": "2026-06-14T15:37:07.810Z",
+    "updatedAt": "2026-06-14T15:37:07.810Z",
+    "likes": 0,
+    "id": 58
   }
 ]
