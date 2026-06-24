@@ -1208,7 +1208,7 @@
     "location": "Green Garden Photo Location",
     "likes": 0,
     "createdAt": "2025-08-24T21:11:22.025Z",
-    "updatedAt": "2025-08-25T19:23:12.582Z",
+    "updatedAt": "2026-06-24T09:19:03.913Z",
     "id": 10,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/ayon-1st-birthday/1756069905784.jpg",
@@ -1258,7 +1258,8 @@
     "subcategories": [
       "cat-2-1"
     ],
-    "order": 25
+    "order": 25,
+    "externalUrl": "https://drive.google.com/drive/folders/1I4bFtW2uWZ9OlKAQQ-1x-yM8xAedef3i?usp=sharing"
   },
   {
     "title": "Sahen",
