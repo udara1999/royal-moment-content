@@ -1509,7 +1509,7 @@
     "location": "Panadura",
     "likes": 0,
     "createdAt": "2025-08-24T21:51:12.653Z",
-    "updatedAt": "2025-08-25T19:28:31.520Z",
+    "updatedAt": "2026-06-25T03:20:51.053Z",
     "id": 20,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/35th-sri-gunarathna-pratibha/1756072290450.jpg",
@@ -1541,7 +1541,8 @@
     "subcategories": [
       "cat-4-4"
     ],
-    "order": 32
+    "order": 32,
+    "externalUrl": "https://drive.google.com/drive/folders/1GmyW2db-PSXgLqbN9h8FrZXz5Qq5twrM?usp=sharing"
   },
   {
     "title": "Maleesha's Portrait",
