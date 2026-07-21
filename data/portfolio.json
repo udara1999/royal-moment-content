@@ -3545,5 +3545,56 @@
     "updatedAt": "2026-07-17T16:28:41.185Z",
     "likes": 0,
     "id": 68
+  },
+  {
+    "title": "Danushika & Suraj Wedding",
+    "location": "Colombo",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634867029.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634848613.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634893432.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634896347.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634899085.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634902282.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634906066.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634909572.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634912524.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634915789.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634919020.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634922517.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634925364.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634928282.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634931445.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634934233.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634937244.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634940185.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634943495.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634946149.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634948570.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634951388.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634954202.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634956969.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634959935.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634963037.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634966080.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634969429.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634972315.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634975588.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634978421.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634981261.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1784634984065.jpeg"
+    ],
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "cat-1-4"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1v7L2k8GAyZe7ayrSzjHrivi2GhrAN7fD?usp=drive_link",
+    "category": "Wedding",
+    "createdAt": "2026-07-21T11:56:43.696Z",
+    "updatedAt": "2026-07-21T11:56:43.696Z",
+    "likes": 0,
+    "id": 69
   }
 ]
