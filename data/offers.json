@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "offer-1786374772513",
+    "title": "50% OFF on ALL DRESSES",
+    "description": "50% OFF ALL DRESSES! \n\nYour dream dress is now available at 50% OFF!\nDon’t miss this limited-time offer. \n\nRoyal Moments Bridal Haven – Panadura",
+    "type": "discount",
+    "value": "50",
+    "startDate": "2026-08-10",
+    "endDate": "2026-09-30",
+    "isActive": true,
+    "priority": 5
+  }
+]
