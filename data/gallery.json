@@ -2211,9 +2211,6 @@
     "url": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/gallery/image/1782453768948.jpeg"
   },
   {
-    "url": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/gallery/image/1782453771571.jpeg"
-  },
-  {
     "url": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/gallery/image/1782453774541.jpeg"
   },
   {
@@ -2239,6 +2236,10 @@
   },
   {
     "url": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/gallery/image/1782453799563.jpeg"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/gallery/image/1782453771571.jpeg",
+    "pinned": true
   },
   {
     "url": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/gallery/image/1782453785542.jpeg",
