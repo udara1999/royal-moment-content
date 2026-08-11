@@ -920,12 +920,12 @@
   },
   {
     "name": "Short Frill With Separate Sleeve",
-    "price": "LKR 4000",
+    "price": "LKR 4500",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/short-frill-with-separate-sleeve/1755859030048.jpg",
     "tag": "Birthday,Pre-Shoot",
     "createdAt": "2025-08-22T06:14:07.650Z",
-    "updatedAt": "2025-09-21T01:16:28.646Z",
+    "updatedAt": "2026-08-11T17:21:11.016Z",
     "id": 20,
     "dressCode": "C14",
     "categories": [
@@ -951,8 +951,7 @@
     ],
     "order": 24,
     "isAvailable": true,
-    "isAvailableForSale": false,
-    "sellPrice": "LKR 4000"
+    "isAvailableForSale": false
   },
   {
     "name": "Velvet Long Dress With Back Knot",
