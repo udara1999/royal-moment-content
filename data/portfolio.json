@@ -12,7 +12,7 @@
       "cat-2-3"
     ],
     "createdAt": "2026-05-05T16:05:51.952Z",
-    "updatedAt": "2026-05-14T16:27:09.903Z",
+    "updatedAt": "2026-08-11T09:04:54.447Z",
     "id": 54,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/isuris-21st-birthday/1777997208261.jpeg",
@@ -48,7 +48,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/isuris-21st-birthday/1777997369985.jpeg"
     ],
     "order": 0,
-    "externalUrl": "https://drive.google.com/drive/folders/1coc8XJd6xiV34uhhs4P4Q2bhq3cS1uPm?usp=drive_link"
+    "externalUrl": "https://drive.google.com/drive/folders/1coc8XJd6xiV34uhhs4P4Q2bhq3cS1uPm?usp=drive_link",
+    "pinned": true
   },
   {
     "title": "Pihuu's 18th Birthday",
