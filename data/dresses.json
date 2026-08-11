@@ -1508,7 +1508,7 @@
   },
   {
     "name": "Halter-Neck Evening Dress",
-    "price": "LKR 4000",
+    "price": "LKR 5000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/halter-neck-evening-dress/1771988123960.jpg",
     "tag": "Pre-Shoot,Party,Birthday",
@@ -1527,8 +1527,9 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2026-02-25T02:55:23.960Z",
-    "updatedAt": "2026-05-23T05:14:34.894Z",
-    "id": 49
+    "updatedAt": "2026-08-11T17:22:58.635Z",
+    "id": 49,
+    "images": []
   },
   {
     "name": "Two Tone Dress With Stone Work",
