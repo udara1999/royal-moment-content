@@ -1591,7 +1591,7 @@
   },
   {
     "name": "V-Neck Slit Gown",
-    "price": "LKR 3000",
+    "price": "LKR 4000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/v-neck-slit-gown/1771988861520.jpg",
     "tag": "Birthday,Party",
@@ -1610,7 +1610,8 @@
     "isAvailable": true,
     "isAvailableForSale": false,
     "createdAt": "2026-02-25T03:07:41.520Z",
-    "updatedAt": "2026-02-25T03:07:41.520Z",
-    "id": 52
+    "updatedAt": "2026-08-11T17:23:11.102Z",
+    "id": 52,
+    "images": []
   }
 ]
