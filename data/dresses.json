@@ -66,8 +66,8 @@
     "order": 1
   },
   {
-    "name": "Gliter velbon ",
-    "price": "LKR 5000",
+    "name": "Gliter velbon",
+    "price": "LKR 6000",
     "designer": "Bridal Haven",
     "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/dresses/gliter-velbon-/1758156329951.jpg",
     "dressCode": "C25",
@@ -89,7 +89,7 @@
     "isAvailable": false,
     "isAvailableForSale": false,
     "createdAt": "2025-09-18T00:45:29.951Z",
-    "updatedAt": "2025-10-08T09:23:40.784Z",
+    "updatedAt": "2026-08-11T17:18:07.192Z",
     "id": 28,
     "order": 2,
     "images": [
