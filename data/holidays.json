@@ -92,5 +92,15 @@
     "createdAt": "2026-08-13T01:01:02.287Z",
     "updatedAt": "2026-08-13T01:01:02.287Z",
     "id": 7
+  },
+  {
+    "name": "Binara Full Moon Poya Day",
+    "date": "2026-09-26",
+    "description": "",
+    "type": "religious_holiday",
+    "isRecurring": false,
+    "createdAt": "2026-08-13T01:34:56.144Z",
+    "updatedAt": "2026-08-13T01:34:56.144Z",
+    "id": 8
   }
 ]
