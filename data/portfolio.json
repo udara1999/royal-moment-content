@@ -104,10 +104,11 @@
     "externalUrl": "https://drive.google.com/drive/folders/1Y_696dCzfHi56FHspyZoo8i9ILaUfMxh?usp=sharing",
     "category": "Birthday",
     "createdAt": "2026-08-05T17:27:08.349Z",
-    "updatedAt": "2026-08-05T17:27:08.349Z",
+    "updatedAt": "2026-08-13T00:56:31.578Z",
     "likes": 0,
     "id": 70,
-    "order": 1
+    "order": 1,
+    "pinned": true
   },
   {
     "title": "Savini",
