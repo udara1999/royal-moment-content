@@ -3728,10 +3728,11 @@
     "externalUrl": "https://drive.google.com/drive/folders/1AshPdEBpSHPCK3juA8gazIu_sOk-kYst?usp=sharing",
     "category": "Event",
     "createdAt": "2026-07-17T16:28:41.185Z",
-    "updatedAt": "2026-07-17T16:28:41.185Z",
+    "updatedAt": "2026-08-13T00:56:22.603Z",
     "likes": 0,
     "id": 68,
-    "order": 69
+    "order": 69,
+    "pinned": true
   },
   {
     "title": "Danushika & Suraj Wedding",
