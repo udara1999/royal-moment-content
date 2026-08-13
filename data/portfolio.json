@@ -804,7 +804,7 @@
       "cat-4-2"
     ],
     "createdAt": "2025-12-22T01:12:51.785Z",
-    "updatedAt": "2026-05-29T07:49:16.539Z",
+    "updatedAt": "2026-08-13T00:56:49.970Z",
     "id": 34,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-nethmi-roshel-rogers/1766366000801.jpeg",
@@ -846,7 +846,8 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/indi-foundation-nethmi-roshel-rogers/1766366094283.jpeg"
     ],
     "order": 16,
-    "externalUrl": "https://drive.google.com/drive/folders/1tWo-fDa_9lNm9iDUHKTJ_wQdtVE6iDcF?usp=sharing"
+    "externalUrl": "https://drive.google.com/drive/folders/1tWo-fDa_9lNm9iDUHKTJ_wQdtVE6iDcF?usp=sharing",
+    "pinned": true
   },
   {
     "title": "Primesha",
