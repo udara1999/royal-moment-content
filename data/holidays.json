@@ -122,5 +122,15 @@
     "createdAt": "2026-08-13T01:36:28.776Z",
     "updatedAt": "2026-08-13T01:36:28.776Z",
     "id": 10
+  },
+  {
+    "name": "Unduwap Full Moon Poya Day",
+    "date": "2026-12-24",
+    "description": "",
+    "type": "religious_holiday",
+    "isRecurring": false,
+    "createdAt": "2026-08-13T01:36:58.743Z",
+    "updatedAt": "2026-08-13T01:36:58.743Z",
+    "id": 11
   }
 ]
