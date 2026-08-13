@@ -112,5 +112,15 @@
     "createdAt": "2026-08-13T01:35:58.210Z",
     "updatedAt": "2026-08-13T01:35:58.210Z",
     "id": 9
+  },
+  {
+    "name": "Ill Full Moon Poya Day",
+    "date": "2026-11-24",
+    "description": "",
+    "type": "religious_holiday",
+    "isRecurring": false,
+    "createdAt": "2026-08-13T01:36:28.776Z",
+    "updatedAt": "2026-08-13T01:36:28.776Z",
+    "id": 10
   }
 ]
