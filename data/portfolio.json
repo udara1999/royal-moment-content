@@ -4271,12 +4271,16 @@
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mashis-22nd-birthday/1789177202312.jpeg",
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mashis-22nd-birthday/1789177205290.jpeg"
     ],
-    "categories": [],
-    "subcategories": [],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
     "externalUrl": "https://drive.google.com/drive/folders/1sY0bhGz3arUqEwqujKBx3QYYCLS0gNK2?usp=sharing",
-    "category": "",
+    "category": "Birthday",
     "createdAt": "2026-09-12T01:41:26.677Z",
-    "updatedAt": "2026-09-12T01:41:26.677Z",
+    "updatedAt": "2026-09-12T01:42:00.943Z",
     "likes": 0,
     "id": 81
   }
