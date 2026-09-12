@@ -4177,9 +4177,10 @@
     "externalUrl": "https://drive.google.com/drive/folders/1JUrDsAjK8lyIwuyq66-O2KFePPYkmvql?usp=sharing",
     "category": "Wedding",
     "createdAt": "2026-09-06T05:54:11.353Z",
-    "updatedAt": "2026-09-06T05:54:11.353Z",
+    "updatedAt": "2026-09-12T01:42:12.323Z",
     "likes": 0,
-    "id": 79
+    "id": 79,
+    "pinned": true
   },
   {
     "title": "Madusha & Chamod | Wedding Day",
