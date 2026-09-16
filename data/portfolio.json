@@ -4284,5 +4284,41 @@
     "updatedAt": "2026-09-12T01:42:00.943Z",
     "likes": 0,
     "id": 81
+  },
+  {
+    "title": "Vinuki's Puberty Day",
+    "location": "Panadura",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578891325.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578909607.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578912919.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578916058.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578918931.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578922244.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578925708.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578928964.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578932464.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578935026.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578937334.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578940610.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578943973.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578947127.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578949960.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578953274.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578956784.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1789578960141.jpeg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-5"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1o61IURP99Y9sBexN64Srl8Pm3R--k713?usp=sharing",
+    "category": "Portrait Photoshoot",
+    "createdAt": "2026-09-16T17:16:27.779Z",
+    "updatedAt": "2026-09-16T17:16:27.779Z",
+    "likes": 0,
+    "id": 82
   }
 ]
