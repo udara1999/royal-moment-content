@@ -4413,9 +4413,10 @@
     "externalUrl": "https://drive.google.com/drive/folders/1_3AEHSzAFhObZvW-1jGOUOrlG9b_kzq7?usp=sharing",
     "category": "Portrait Photoshoot",
     "createdAt": "2026-09-29T12:46:14.706Z",
-    "updatedAt": "2026-09-29T12:46:14.706Z",
+    "updatedAt": "2026-09-30T09:54:48.780Z",
     "likes": 0,
-    "id": 84
+    "id": 84,
+    "pinned": true
   },
   {
     "title": "Nuveena 18th Birthday",
