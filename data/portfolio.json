@@ -1650,7 +1650,7 @@
     "location": "Beach",
     "likes": 0,
     "createdAt": "2025-08-24T21:23:00.885Z",
-    "updatedAt": "2025-08-25T19:24:10.250Z",
+    "updatedAt": "2026-10-06T11:33:54.709Z",
     "id": 13,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/mandakini-shashika/1756070598850.jpg",
@@ -1681,7 +1681,8 @@
     "subcategories": [
       "cat-1-2"
     ],
-    "order": 34
+    "order": 34,
+    "externalUrl": "https://drive.google.com/drive/folders/15V80WziFGgQk5h92nIgtBicdj9B49QrF?usp=sharing"
   },
   {
     "title": "Sadamali 21st Birthday",
