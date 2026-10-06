@@ -1688,7 +1688,7 @@
     "location": "Beach",
     "likes": 0,
     "createdAt": "2025-08-24T21:34:40.747Z",
-    "updatedAt": "2025-08-25T19:25:39.995Z",
+    "updatedAt": "2026-10-06T11:23:45.486Z",
     "id": 17,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sadamali-21st-birthday/1756071301582.jpg",
@@ -1732,7 +1732,8 @@
     "subcategories": [
       "cat-2-3"
     ],
-    "order": 35
+    "order": 35,
+    "externalUrl": "https://drive.google.com/drive/folders/1rbpUwpQiDHLIaLRan5CCUtiAra994D3L?usp=sharing"
   },
   {
     "title": "35th Sri Gunarathna Pratibha",
