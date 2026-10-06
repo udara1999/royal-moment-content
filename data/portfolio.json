@@ -1603,7 +1603,7 @@
     "location": "Victoria Hotel",
     "likes": 0,
     "createdAt": "2025-08-24T21:28:01.000Z",
-    "updatedAt": "2025-08-25T19:24:52.243Z",
+    "updatedAt": "2026-10-06T11:32:57.644Z",
     "id": 15,
     "images": [
       "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandha-tharindu/1756070896738.jpg",
@@ -1639,7 +1639,8 @@
     "subcategories": [
       "cat-3-2"
     ],
-    "order": 33
+    "order": 33,
+    "externalUrl": "https://drive.google.com/drive/folders/1zYHIMd2fNIlvjwp-xubYm9QTrbvN4F-A?usp=sharing"
   },
   {
     "title": "Mandakini & Shashika",
