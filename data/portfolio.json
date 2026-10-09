@@ -4898,5 +4898,33 @@
     "updatedAt": "2026-10-09T04:12:13.840Z",
     "likes": 0,
     "id": 94
+  },
+  {
+    "title": "Sevni Bride",
+    "location": "Blue Water Hotel",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520152745.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520163192.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520165914.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520167705.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520170473.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520173362.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520176242.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520178829.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520181132.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/sevni-bride/1791520183073.jpeg"
+    ],
+    "categories": [
+      "cat-1"
+    ],
+    "subcategories": [
+      "cat-1-1"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1zGlXeio2fMuS1DXzXI9As-4WIvjSXWdn?usp=sharing",
+    "category": "Wedding",
+    "createdAt": "2026-10-09T04:29:55.305Z",
+    "updatedAt": "2026-10-09T04:29:55.305Z",
+    "likes": 0,
+    "id": 95
   }
 ]
