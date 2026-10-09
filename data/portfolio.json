@@ -4828,5 +4828,41 @@
     "updatedAt": "2026-10-09T03:57:44.714Z",
     "likes": 0,
     "id": 92
+  },
+  {
+    "title": "Thushi & Chayana",
+    "location": "Victoria Hotel Panadura",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518646548.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518670919.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518673436.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518675307.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518677915.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518680543.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518682907.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518685466.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518688385.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518691035.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518693508.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518696021.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518698519.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518701045.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518703543.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518706033.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518708486.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/thushi-chayana/1791518711099.jpeg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/11uHqNPd4P3X6Tonjl1pyAmw2Q7ENaN1w?usp=sharing",
+    "category": "Portrait Photoshoot",
+    "createdAt": "2026-10-09T04:05:22.616Z",
+    "updatedAt": "2026-10-09T04:05:22.616Z",
+    "likes": 0,
+    "id": 93
   }
 ]
