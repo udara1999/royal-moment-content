@@ -4864,5 +4864,39 @@
     "updatedAt": "2026-10-09T04:08:53.457Z",
     "likes": 0,
     "id": 93
+  },
+  {
+    "title": "Thushi & Chayana Part 2",
+    "location": "Beach",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519057753.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519074233.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519077081.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519080121.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519082850.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519085760.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519088279.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519090909.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519094268.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519096632.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519099003.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519101977.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519104514.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519106548.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519109204.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/untitled-portfolio/1791519111123.jpeg"
+    ],
+    "categories": [
+      "cat-3"
+    ],
+    "subcategories": [
+      "cat-3-2"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1gGqi4NEJkE0bDlCemKFK796cP4n1dlZ6?usp=sharing",
+    "category": "Portrait Photoshoot",
+    "createdAt": "2026-10-09T04:12:13.840Z",
+    "updatedAt": "2026-10-09T04:12:13.840Z",
+    "likes": 0,
+    "id": 94
   }
 ]
