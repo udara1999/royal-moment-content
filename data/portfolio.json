@@ -4754,5 +4754,31 @@
     "updatedAt": "2026-10-09T03:44:23.091Z",
     "likes": 0,
     "id": 90
+  },
+  {
+    "title": "Shashika's Birthday",
+    "location": "Beach",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517753216.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517762268.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517764628.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517767148.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517769668.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517772141.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517774586.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/shashikas-birthday/1791517777099.jpeg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1bDA-l1AaVO5QPt7C-pwWg8o4ouRktgJa?usp=drive_link",
+    "category": "Birthday",
+    "createdAt": "2026-10-09T03:49:45.539Z",
+    "updatedAt": "2026-10-09T03:49:45.539Z",
+    "likes": 0,
+    "id": 91
   }
 ]
