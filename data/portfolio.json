@@ -5022,5 +5022,52 @@
     "updatedAt": "2026-10-09T04:49:18.304Z",
     "likes": 0,
     "id": 97
+  },
+  {
+    "title": "Amanda's Birthday",
+    "location": "Colombo",
+    "image": "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410510286.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410560697.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410563573.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410566188.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410568738.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410571427.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410574078.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410577282.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410579773.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410582351.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410585477.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410587877.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410589969.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410592767.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410595400.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410598241.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410600782.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410602900.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410605473.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410609025.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410612543.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410615403.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410619024.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410621671.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410624276.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410626847.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410628937.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410631764.jpeg",
+      "https://raw.githubusercontent.com/udara1999/royal-moment-content/main/data/content/portfolio/amandas-birthday/1792410634245.jpeg"
+    ],
+    "categories": [
+      "cat-2"
+    ],
+    "subcategories": [
+      "cat-2-3"
+    ],
+    "externalUrl": "https://drive.google.com/drive/folders/1xr4bFChyaUIV8XXTfggO7IQJYuUrFW_c?usp=sharing",
+    "category": "Birthday",
+    "createdAt": "2026-10-19T11:50:46.540Z",
+    "updatedAt": "2026-10-19T11:50:46.540Z",
+    "likes": 0,
+    "id": 98
   }
 ]
